@@ -1,0 +1,14 @@
+<?xml version="1.0" encoding="utf-8"?>
+<accessibility-service
+    android:description="@string/accessibility_service_description2"
+    android:settingsActivity="com.android.talkback.TalkBackPreferencesActivity"
+    android:accessibilityEventTypes="typeAllMask"
+    android:accessibilityFeedbackType="feedbackAudible|feedbackHaptic|feedbackSpoken"
+    android:notificationTimeout="0"
+    android:accessibilityFlags="flagDefault|flagReportViewIds|flagRequestEnhancedWebAccessibility|flagRequestFilterKeyEvents|flagRequestFingerprintGestures|flagRequestTouchExplorationMode|flagRetrieveInteractiveWindows"
+    android:canRetrieveWindowContent="true"
+    android:canRequestTouchExplorationMode="true"
+    android:canRequestEnhancedWebAccessibility="true"
+    android:canRequestFilterKeyEvents="true"
+    android:canPerformGestures="true"
+    xmlns:android="http://schemas.android.com/apk/res/android" />
