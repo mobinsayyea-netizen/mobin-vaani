@@ -1,0 +1,19 @@
+<?xml version="1.0" encoding="utf-8"?>
+<accessibility-service
+    android:description="@string/accessibility_service_description"
+    android:settingsActivity="com.nirenr.talkman.TalkManActivity"
+    android:accessibilityEventTypes="typeAllMask"
+    android:accessibilityFeedbackType="feedbackAudible|feedbackHaptic|feedbackSpoken"
+    android:notificationTimeout="0"
+    android:accessibilityFlags="flagDefault|flagEnableAccessibilityVolume|flagInputMethodEditor|flagReportViewIds|flagRequestEnhancedWebAccessibility|flagRequestFilterKeyEvents|flagRequestFingerprintGestures|flagRequestMultiFingerGestures|flagRequestShortcutWarningDialogSpokenFeedback|flagRequestTouchExplorationMode|flagRetrieveInteractiveWindows"
+    android:canRetrieveWindowContent="true"
+    android:canRequestTouchExplorationMode="true"
+    android:canRequestEnhancedWebAccessibility="true"
+    android:canRequestFilterKeyEvents="true"
+    android:canPerformGestures="true"
+    android:canRequestFingerprintGestures="true"
+    android:nonInteractiveUiTimeout="0"
+    android:interactiveUiTimeout="0"
+    android:canTakeScreenshot="true"
+    android:isAccessibilityTool="true"
+    xmlns:android="http://schemas.android.com/apk/res/android" />
