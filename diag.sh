@@ -36,7 +36,20 @@ echo "== enable service"
 adb shell settings put secure enabled_accessibility_services $SVC
 adb shell settings put secure accessibility_enabled 1
 sleep 45
+echo "== lock / unlock test"
+adb shell input keyevent 26; sleep 6
+adb shell input keyevent 26; sleep 2; adb shell input keyevent 82; sleep 2; adb shell input swipe 300 1200 300 300; sleep 20
+adb shell pidof com.mobin.vaani; adb shell dumpsys accessibility | grep -E "Bound services|Binding services|Crashed" | head -4
+echo "== open app again"
+adb shell monkey -p $PKG -c android.intent.category.LAUNCHER 1; sleep 15
+adb exec-out screencap -p > shot3.png
+adb root >/dev/null 2>&1; sleep 3
+PID=$(adb shell pidof com.mobin.vaani | awk '{print $1}'); echo "pid=$PID"
+adb shell kill -3 $PID; sleep 4
+echo "== thread dump (main thread)"
+adb shell 'ls -t /data/anr | head -3'
+adb shell 'f=$(ls -t /data/anr/* | head -1); grep -n -A28 "\"main\" prio" $f | head -60'
 echo "== accessibility state"; adb shell dumpsys accessibility | head -60
 echo "== processes"; adb shell ps -A | grep -i -E "mobin|talkman" 
 echo "== logcat (app + crashes)"
-adb logcat -d -v time | grep -E "mobin.vaani|nirenr|talkman|jieshuo|AndroidRuntime|FATAL|UnsatisfiedLink|SecurityException|ForegroundService|System.exit|TextToSpeech|TTS" | head -400
+adb logcat -d -v time | grep -E "mobin.vaani|nirenr|talkman|jieshuo|AndroidRuntime|FATAL|UnsatisfiedLink|SecurityException|ForegroundService|System.exit|TextToSpeech|TTS|ANR|not responding|Input dispatching|Watchdog" | head -400
