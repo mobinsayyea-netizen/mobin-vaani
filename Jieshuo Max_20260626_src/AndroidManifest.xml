@@ -644,6 +644,9 @@
             android:label="@string/setup_setting_title"
             android:name="com.nirenr.talkman.SetupActivity" />
         <activity
+            android:label="@string/permission_title"
+            android:name="com.nirenr.talkman.PermissionHelpActivity" />
+        <activity
             android:theme="@android:style/Theme.DeviceDefault.NoActionBar"
             android:label="@string/edit_activity"
             android:name="com.androlua.LuaEditActivity"

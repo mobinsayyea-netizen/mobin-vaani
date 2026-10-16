@@ -1,6 +1,12 @@
 <?xml version="1.0" encoding="utf-8"?>
 <PreferenceScreen
     xmlns:android="http://schemas.android.com/apk/res/android">
+    <Preference
+        android:title="@string/permission_title">
+        <intent
+            android:targetPackage="com.mobin.vaani"
+            android:targetClass="com.nirenr.talkman.PermissionHelpActivity" />
+    </Preference>
     <ListPreference
         android:entries="@array/tts_values"
         android:title="@string/tts_speed_title"
