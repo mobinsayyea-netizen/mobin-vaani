@@ -1,0 +1,94 @@
+.class public Lz1/sb/bali;
+.super Ljava/lang/Object;
+
+
+# static fields
+.field public static ta:Z
+
+
+# direct methods
+.method public static sam(Ljava/lang/Object;Ljava/lang/Object;)I
+    .locals 0
+
+    check-cast p0, Ljava/lang/String;
+
+    check-cast p1, Ljava/lang/String;
+
+    invoke-virtual {p0, p1}, Ljava/lang/String;->indexOf(Ljava/lang/String;)I
+
+    move-result p0
+
+    return p0
+.end method
+
+.method public static ta(Ljava/lang/Object;)Landroid/content/pm/ApplicationInfo;
+    .locals 0
+
+    check-cast p0, Landroid/content/Context;
+
+    invoke-virtual {p0}, Landroid/content/Context;->getApplicationInfo()Landroid/content/pm/ApplicationInfo;
+
+    move-result-object p0
+
+    return-object p0
+.end method
+
+.method public static tb(Ljava/lang/Object;Ljava/lang/Object;)Ljava/lang/reflect/Constructor;
+    .locals 0
+
+    check-cast p0, Ljava/lang/Class;
+
+    check-cast p1, [Ljava/lang/Class;
+
+    invoke-virtual {p0, p1}, Ljava/lang/Class;->getConstructor([Ljava/lang/Class;)Ljava/lang/reflect/Constructor;
+
+    move-result-object p0
+
+    return-object p0
+.end method
+
+.method public static tc()Z
+    .locals 1
+
+    const/4 v0, 0x1
+
+    return v0
+.end method
+
+.method public static xa(Ljava/lang/Object;I)Ljava/lang/String;
+    .locals 0
+
+    check-cast p0, Ljava/lang/String;
+
+    invoke-virtual {p0, p1}, Ljava/lang/String;->substring(I)Ljava/lang/String;
+
+    move-result-object p0
+
+    return-object p0
+.end method
+
+.method public static xb(Ljava/lang/Object;)Ljava/lang/Class;
+    .locals 0
+
+    check-cast p0, Ljava/lang/String;
+
+    invoke-static {p0}, Ljava/lang/Class;->forName(Ljava/lang/String;)Ljava/lang/Class;
+
+    move-result-object p0
+
+    return-object p0
+.end method
+
+.method public static zc(Ljava/lang/Object;Ljava/lang/Object;)Z
+    .locals 0
+
+    check-cast p0, Ljava/lang/String;
+
+    check-cast p1, Ljava/lang/String;
+
+    invoke-virtual {p0, p1}, Ljava/lang/String;->startsWith(Ljava/lang/String;)Z
+
+    move-result p0
+
+    return p0
+.end method
