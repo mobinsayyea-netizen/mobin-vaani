@@ -6,12 +6,12 @@
     <string name="accessibility_focus_appearance">accessibility_focus_appearance</string>
     <string name="accessibility_focus_appearance_stroke">accessibility_focus_appearance_stroke</string>
     <string name="accessibility_focus_appearance_title">초점 표시기 설정</string>
-    <string name="accessibility_service_description">"Jieshuo Max 스크린 리더는 시각장애인이 안드로이드 스마트폰을 조금더 빠르고, 유용하게 사용할 수 있도록 돕는것을 목표로 다양한 기능을 제공하고 있는 화면 낭독 애플리케이션 입니다.
- Jieshuo Max 스크린 리더는 기존 화면 낭독 애플리케이션에 몇가지 시도와 혁신을 가미했으며, 익숙해지기 위해 약간의 시간이 필요할 수 있습니다.
- Jieshuo Max 스크린 리더에 대해 더 많은 것이 궁금하다면 설정 내 도움말 메뉴를 열어보거나, 센스월드에 있는 Jieshuo Max 한국 커뮤니티 체널에 방문할 수 있습니다.
+    <string name="accessibility_service_description">"MS Vaani 스크린 리더는 시각장애인이 안드로이드 스마트폰을 조금더 빠르고, 유용하게 사용할 수 있도록 돕는것을 목표로 다양한 기능을 제공하고 있는 화면 낭독 애플리케이션 입니다.
+ MS Vaani 스크린 리더는 기존 화면 낭독 애플리케이션에 몇가지 시도와 혁신을 가미했으며, 익숙해지기 위해 약간의 시간이 필요할 수 있습니다.
+ MS Vaani 스크린 리더에 대해 더 많은 것이 궁금하다면 설정 내 도움말 메뉴를 열어보거나, 센스월드에 있는 MS Vaani 한국 커뮤니티 체널에 방문할 수 있습니다.
  이 애플리케이션을 처음 설치했다면, 일부 기능만 사용할 수 있습니다. 프리미엄 라이선스를 구입하면 모든 기능을 사용할 수 있게 됩니다.
  라이선스는 1년 플랜(18 미국 달러), 2년 플랜(35 미국 달러), 3년 플랜(45 미국 달러) 중에 선택할 수 있습니다.
- 라이선스에 대해 더 많은 것을 알고 싶다면 센스월드의 Jieshuo Max 한국 커뮤니티에 방문하세요.
+ 라이선스에 대해 더 많은 것을 알고 싶다면 센스월드의 MS Vaani 한국 커뮤니티에 방문하세요.
  
  기능 및 특징: 
  - 음성 비서: 타이핑, 채팅, 스마트폰 설정 등 대부분의 기능을 음성으로 제어해보세요.
@@ -26,12 +26,12 @@
  - 유연한 알림 설정: 불필요한 알림은 언제든지 받지 않도록 설정해보세요.
  
  프리미엄 기능:
- - 가상 화면: 접근성을 준수하지 않은 애플리케이션도 이제 Jieshuo Max 스크린 리더로 이용해보세요.
+ - 가상 화면: 접근성을 준수하지 않은 애플리케이션도 이제 MS Vaani 스크린 리더로 이용해보세요.
  - 자동 OCR 인식: 이미지 콘텐츠도 이제 쉽게 접근해보세요.
  - 자동 읽기: QQ나 틱톡에서 오는 메시지를 자동으로 읽어줍니다.
  - 자동 자막 읽기: 영화, TV 프로그램에 나오는 자막도 실시간으로 들어보세요.
  - 보안문자 인식: 인공지능(AI)의 힘을 빌려 초고속으로 보안 문자를 읽어보세요.
- - Jieshuo Max 카메라: 언제 어디서나 앞에있는 사람, 장면, 사물을 빠르게 확인해보세요..
+ - MS Vaani 카메라: 언제 어디서나 앞에있는 사람, 장면, 사물을 빠르게 확인해보세요..
  - 웹 콘텐츠 필터링 기능: 접근 불가능한 이미지 요소 등은 이제 더이상 보지 않아도 됩니다.
  - 목록 복사: 이제 모든 요소의 텍스트를 복사하기 위해 쓸데없는 동작을 반복하지 마세요.
  - 문서 읽기 모드: 자동 페이지 전환, 콘텐츠 필터링, 배경 읽기 등 편리한 기능들을 만나보세요.
@@ -41,8 +41,8 @@
  - 텍스트 다중 선택: 원하는 텍스트를 편리하게 일부분만 선택하고, 복사해보세요.
  - 추가 음성 명령: 원하는 명령어를 추가하여 음성 비서를 더 똑똑하게 만들어보세요..
  - 자동 실행: 정시 알림, 화면 커튼 켠 채로 시작하기 등 자동으로 실행할 확장 기능을 설정해보세요.
- Jieshuo Max 스크린 리더는 사용자가 원하는대로 모든 것이 이루어집니다!"</string>
-    <string name="accessibility_service_description2">Jieshuo Max 보조 서비스와 주 서비스 기능은 완전히 동일하며, 화면 읽기 서비스 이름을 감지하는 일부 상황에 사용됩니다. 두 서비스를 동시에 활성화할 필요는 없습니다.</string>
+ MS Vaani 스크린 리더는 사용자가 원하는대로 모든 것이 이루어집니다!"</string>
+    <string name="accessibility_service_description2">MS Vaani 보조 서비스와 주 서비스 기능은 완전히 동일하며, 화면 읽기 서비스 이름을 감지하는 일부 상황에 사용됩니다. 두 서비스를 동시에 활성화할 필요는 없습니다.</string>
     <string name="accessibility_volume">accessibility_volume</string>
     <string name="action_menu_title">동작 메뉴</string>
     <string name="action_setting">action_setting</string>
@@ -75,7 +75,7 @@
     <string name="alarm_settings_title">알람 설정</string>
     <string name="alarm_start_hour">alarm_start_hour</string>
     <string name="alarm_start_hour_title">알람 시작 시간</string>
-    <string name="album_activity">Jieshuo Max 앨범</string>
+    <string name="album_activity">MS Vaani 앨범</string>
     <string name="all">전체</string>
     <string name="all_description">全能识别</string>
     <string name="all_notification_count">%d개의 알림</string>
@@ -180,7 +180,7 @@
     <string name="camera_screen_down">화면 아래로</string>
     <string name="camera_screen_up">화면 위로</string>
     <string name="camera_tag">풍경 인식.</string>
-    <string name="camera_title">Jieshuo Max 카메라</string>
+    <string name="camera_title">MS Vaani 카메라</string>
     <string name="camera_top_move_far">최상단으로 이동</string>
     <string name="camera_top_move_near">최상단 근처로 이동</string>
     <string name="camera_top_up">가득 채우기</string>
@@ -207,7 +207,7 @@
     <string name="check_overlay_permissions">check_overlay_permissions</string>
     <string name="check_overlay_permissions_title">플로팅 창 권한 상태 확인</string>
     <string name="check_permissions">check_permissions</string>
-    <string name="check_permissions_msg">Jieshuo Max 스크린 리더의 사용을 위해 몇 가지 권한이 필요합니다. 이에는 소리 구성표 확장을 위한 저장 권한, 사진 촬영을 위한 카메라 권한 등이 포함됩니다. 계속하려면 \"다음\"을 클릭하고, 소프트웨어를 종료하려면 \"취소\"를 클릭하세요.</string>
+    <string name="check_permissions_msg">MS Vaani 스크린 리더의 사용을 위해 몇 가지 권한이 필요합니다. 이에는 소리 구성표 확장을 위한 저장 권한, 사진 촬영을 위한 카메라 권한 등이 포함됩니다. 계속하려면 \"다음\"을 클릭하고, 소프트웨어를 종료하려면 \"취소\"를 클릭하세요.</string>
     <string name="check_permissions_title">권한 상태 확인</string>
     <string name="check_read_phone_state_permission">스마트폰의 정보 읽기 권한이 허용되었는지 확인하십시오.</string>
     <string name="check_update">check_update</string>
@@ -277,7 +277,7 @@
     <string name="cmd_description">설명 (15자 이상).</string>
     <string name="cmd_manager">음성 명령 관리</string>
     <string name="code_help">code_help</string>
-    <string name="code_help_title">Jieshuo Max 스크린리더 API 도움말</string>
+    <string name="code_help_title">MS Vaani 스크린리더 API 도움말</string>
     <string name="command_accept_call">전화 받기</string>
     <string name="command_accessibility_service_setting">접근성 설정</string>
     <string name="command_action_setting">@string/action_setting_title</string>
@@ -458,7 +458,7 @@
     <string name="content_setting_title">콘텐츠 읽기 설정</string>
     <string name="continue_run">계속 실행</string>
     <string name="continuous_recognition">OCR 실시간 인식</string>
-    <string name="copy_as_jieshuo_cmd">Jieshuo Max로 복사</string>
+    <string name="copy_as_jieshuo_cmd">MS Vaani로 복사</string>
     <string name="copy_text_auto_execute">텍스트 복사 자동 실행</string>
     <string name="copy_username_and_userid">사용자 이름 및 ID 복사</string>
     <string name="create">만들기</string>
@@ -622,7 +622,7 @@
     <string name="edge_gesture_width">edge_gesture_width</string>
     <string name="edge_gesture_width_title">화면 측면 제스처 트리거 범위:</string>
     <string name="edit">편집</string>
-    <string name="edit_activity">Jieshuo Max 편집기</string>
+    <string name="edit_activity">MS Vaani 편집기</string>
     <string name="edit_app_profiles_title">단일 앱 프로필 편집</string>
     <string name="edit_box_no_found">입력란을 찾을 수 없습니다.</string>
     <string name="edit_button">입력 버튼 목록(한 줄에 하나씩 출력).</string>
@@ -766,7 +766,7 @@
     <string name="has_vip_summary_gesture">단방향 쓸기 제스처는 무료 버전에서 사용자 정의 할 수 없습니다.</string>
     <string name="help">help</string>
     <string name="help_feed">help_feed</string>
-    <string name="help_feed_summary">Jieshuo Max 스크린 리더는 일부 서드파티 앱을 사용합니다.: 텐센트 AI, 바이두 AI, 바이두 TTS, 바이두 번역기, 바이두 MTS, Andro LUA Plus....</string>
+    <string name="help_feed_summary">MS Vaani 스크린 리더는 일부 서드파티 앱을 사용합니다.: 텐센트 AI, 바이두 AI, 바이두 TTS, 바이두 번역기, 바이두 MTS, Andro LUA Plus....</string>
     <string name="help_feed_title">도움말 및 문의</string>
     <string name="help_title">도움말</string>
     <string name="helper_manager_title">음성 비서 관리</string>
@@ -800,7 +800,7 @@
     <string name="hour">시간</string>
     <string name="hover_stat_info" formatted="false">%d번의 초점 호버링, 평균 %d밀리초 소요됨</string>
     <string name="ignore_battery">시스템 설정에서 배터리 최적화 옵션을 끄세요.</string>
-    <string name="import_all_title">Jieshuo Max 백업 파일 가져오기</string>
+    <string name="import_all_title">MS Vaani 백업 파일 가져오기</string>
     <string name="import_file">가져오기</string>
     <string name="import_voice_description">SD 카드에서 eSpeak 사전 파일을 가져올 수 있습니다.</string>
     <string name="import_voice_title">eSpeak 사전 가져오기</string>
@@ -820,8 +820,8 @@
     <string name="item_current_count" formatted="false">%d번째 항목 표시 중, 총 %d게 항목</string>
     <string name="item_from_to_count" formatted="false">%d번째부터 %d번째 항목 표시 중, 총 %d개 항목.</string>
     <string name="jieshuo_bbs">jieshuo_bbs</string>
-    <string name="jieshuo_bbs_summary">포럼에서 Jieshuo Max 스크린리더에 관해 귀하의 의견을 공유할 수 있습니다.</string>
-    <string name="jieshuo_bbs_title">Jieshuo Max 스크린 리더 포럼</string>
+    <string name="jieshuo_bbs_summary">포럼에서 MS Vaani 스크린리더에 관해 귀하의 의견을 공유할 수 있습니다.</string>
+    <string name="jieshuo_bbs_title">MS Vaani 스크린 리더 포럼</string>
     <string name="jieshuo_beta_title">베타 다운로드</string>
     <string name="keep_focus_position">keep_focus_position</string>
     <string name="keep_focus_position_speak">keep_focus_position_speak</string>
@@ -956,7 +956,7 @@
     <string name="message_title">프롬프트</string>
     <string name="message_voice_feedback_paused">말하기 끔</string>
     <string name="message_voice_feedback_resume">말하기 켬</string>
-    <string name="message_welcome">Jieshuo Max 실행됨</string>
+    <string name="message_welcome">MS Vaani 실행됨</string>
     <string name="min">분</string>
     <string name="more">더 보기</string>
     <string name="more_setting">추가 설정</string>
@@ -1028,9 +1028,9 @@
     <string name="msg_gesture_has_vip">위쪽, 아래쪽, 왼쪽, 오른쪽 쓸기 제스처를 수정하기 위해서는 프리미엄 계정이 필요합니다.</string>
     <string name="msg_gesture_updated">제스처 구성표가 업데이트됨</string>
     <string name="msg_gestures_empty">저장된 제스처 구성표가 없습니다.</string>
-    <string name="msg_has_enabled">Jieshuo Max를 먼저 실행해야 합니다.</string>
-    <string name="msg_has_not_enabled">Jieshuo Max가 시작되지 않아 서비스 이용이 불가능합니다. 지금 바로 접근성 설정으로 이동하여 Jieshuo Max를 실행할 수 있습니다.</string>
-    <string name="msg_has_not_enabled_33">제한된 설정 허용이 필요한 경우, 확인 버튼을 누르고, Jieshuo Max 애플리케이션 정보 화면에 진입한 뒤 추가 옵션 버튼을 누르고, 제한된 설정 허용 버튼을 누른 뒤, 다시 Jieshuo Max를 실행할 수 있습니다.</string>
+    <string name="msg_has_enabled">MS Vaani를 먼저 실행해야 합니다.</string>
+    <string name="msg_has_not_enabled">MS Vaani가 시작되지 않아 서비스 이용이 불가능합니다. 지금 바로 접근성 설정으로 이동하여 MS Vaani를 실행할 수 있습니다.</string>
+    <string name="msg_has_not_enabled_33">제한된 설정 허용이 필요한 경우, 확인 버튼을 누르고, MS Vaani 애플리케이션 정보 화면에 진입한 뒤 추가 옵션 버튼을 누르고, 제한된 설정 허용 버튼을 누른 뒤, 다시 MS Vaani를 실행할 수 있습니다.</string>
     <string name="msg_has_storage">내장 메모리에 파일을 저장하려면 저장 권한을 얻어야 합니다.</string>
     <string name="msg_has_vip_auto_speak">무료 버전은 QQ 메시지 자동 읽기만 지원합니다.</string>
     <string name="msg_has_vip_dict">무료 버전에서는 5개까지만 추가할 수 있습니다.</string>
@@ -1073,7 +1073,7 @@
     <string name="msg_open_error">열기 실패</string>
     <string name="msg_open_file_not_supported">지원하지 않는 파일 형식임.</string>
     <string name="msg_plugin_empty">확장 기능 없음.</string>
-    <string name="msg_plugin_run_error">먼저 접근성에서 Jieshuo Max 스크린 리더를 실행한 다음 도구를 실행해야 합니다.</string>
+    <string name="msg_plugin_run_error">먼저 접근성에서 MS Vaani 스크린 리더를 실행한 다음 도구를 실행해야 합니다.</string>
     <string name="msg_plugins_empty">저장된 확장 기능이 없습니다.</string>
     <string name="msg_press_again_exit">종료하려면 한 번 더 누르세요.</string>
     <string name="msg_read_done">읽기 완료</string>
@@ -1143,7 +1143,7 @@
     <string name="msg_stop_video_description">동영상 설명 중지</string>
     <string name="msg_supper_cmd_only_voice_helper">사용자 정의 음성 명령은 음성 비서에서만 호출할 수 있습니다.</string>
     <string name="msg_supper_mode">상세 탐색모드를 사용하면 더 많은 콘텐츠를 얻을 수 있습니다</string>
-    <string name="msg_talkback_enabled">톡백을 실행했습니다. 톡백과 Jieshuo Max가 동시에 실행되면 터치 동작에 예외가 발생할 수 있습니다.</string>
+    <string name="msg_talkback_enabled">톡백을 실행했습니다. 톡백과 MS Vaani가 동시에 실행되면 터치 동작에 예외가 발생할 수 있습니다.</string>
     <string name="msg_text_changed">콘텐츠 변경됨</string>
     <string name="msg_timer_backup_done">타이머 백업 완료</string>
     <string name="msg_timer_backup_error">타이머 백업 실패</string>
@@ -1379,7 +1379,7 @@ end)"</string>
     <string name="only_screen_on">화면 켬</string>
     <string name="open">열기</string>
     <string name="open_application_info">open_application_info</string>
-    <string name="open_application_info_title">Jieshuo Max 스크린 리더 정보</string>
+    <string name="open_application_info_title">MS Vaani 스크린 리더 정보</string>
     <string name="open_project">프로젝트 열기</string>
     <string name="open_setup_setting">open_setup_setting</string>
     <string name="open_setup_setting_title">시작 설정 열기</string>
@@ -1419,8 +1419,8 @@ end)"</string>
     <string name="plugin_title">확장 기능</string>
     <string name="point">점</string>
     <string name="power_settings_title">전원 관리 설정</string>
-    <string name="pref_donate_alipay">알리 페이로 Jieshuo Max 스크린 리더 개발 팀에 기부하기</string>
-    <string name="pref_donate_paypal">페이팔로 Jieshuo Max 스크린 리더 개발 팀에 기부하기</string>
+    <string name="pref_donate_alipay">알리 페이로 MS Vaani 스크린 리더 개발 팀에 기부하기</string>
+    <string name="pref_donate_paypal">페이팔로 MS Vaani 스크린 리더 개발 팀에 기부하기</string>
     <string name="prevent_jump">점프 방지</string>
     <string name="previous_chapter">previous_chapter</string>
     <string name="previous_chapter_default_value">*이전 제목*|*이전 페이지*|*이전 제목*|*이전 페이지*|*이전*</string>
@@ -1440,9 +1440,9 @@ end)"</string>
     <string name="punctuation_none">읽지않기</string>
     <string name="qq_group">qq_group</string>
     <string name="qq_group2">qq_group2</string>
-    <string name="qq_group2_title">Jieshuo Max 스크린 리더 공식 QQ 그룹</string>
+    <string name="qq_group2_title">MS Vaani 스크린 리더 공식 QQ 그룹</string>
     <string name="qq_group_summary">라이선스 상담 및 구매</string>
-    <string name="qq_group_title">Jieshuo Max 공식 QQ그룹</string>
+    <string name="qq_group_title">MS Vaani 공식 QQ그룹</string>
     <string name="questions_answers">questions_answers</string>
     <string name="questions_answers_title">FAQ</string>
     <string name="quick_menu_title">바로가기 메뉴</string>
@@ -1530,7 +1530,7 @@ end)"</string>
     <string name="ringer_mode_silent">무음으로 설정</string>
     <string name="ringer_mode_vibate">진동으로 설정</string>
     <string name="run">실행</string>
-    <string name="runnimg_background">Jieshuo Max 스크린리더를 백그라운드에서 실행</string>
+    <string name="runnimg_background">MS Vaani 스크린리더를 백그라운드에서 실행</string>
     <string name="sample_text">%s로 읽은 텍스트 샘플입니다.</string>
     <string name="save">저장</string>
     <string name="save_as_cloud">클라우드 노트에 저장</string>
@@ -1659,8 +1659,8 @@ end)"</string>
     <string name="sound_scroll_top">상단으로 스크롤</string>
     <string name="sound_scroll_up">뒤로 스크롤</string>
     <string name="sound_settings_title">소리 구성표 설정</string>
-    <string name="sound_talkman_start">Jieshuo Max 실행</string>
-    <string name="sound_talkman_stop">Jieshuo Max 종료</string>
+    <string name="sound_talkman_start">MS Vaani 실행</string>
+    <string name="sound_talkman_stop">MS Vaani 종료</string>
     <string name="sound_tick">틱 알림</string>
     <string name="sound_timer_end">타이머 종료</string>
     <string name="sound_timer_start">타이머 시작</string>
@@ -2007,14 +2007,14 @@ end)"</string>
     <string name="use_foreground_pro">use_foreground_pro</string>
     <string name="use_foreground_pro_summary">스크린리더를 백그라운드에 두어 화면이 잠기거나 배터리를 최적화시키더라도 작동이 중지되지 않도록 보호합니다.</string>
     <string name="use_foreground_pro_title">향상된 스크린리더 실행 유지</string>
-    <string name="use_foreground_summary">배터리 최적화로 인해 Jieshuo Max 스크린 리더의 작동이 중지되는 것을 방지합니다.</string>
+    <string name="use_foreground_summary">배터리 최적화로 인해 MS Vaani 스크린 리더의 작동이 중지되는 것을 방지합니다.</string>
     <string name="use_foreground_title">스크린 리더 실행 유지</string>
     <string name="use_game_mode_no_edge">use_game_mode_no_edge</string>
     <string name="use_game_mode_no_edge_title">게임 모드에서 측면 제스처 잠금</string>
     <string name="use_game_mode_no_speak">use_game_mode_no_speak</string>
     <string name="use_game_mode_no_speak_title">게임 모드에서 말하기 일시 정지</string>
     <string name="use_gesture_detection">use_gesture_detection</string>
-    <string name="use_gesture_detection_title">在解说中处理手势</string>
+    <string name="use_gesture_detection_title">在MS Vaani中处理手势</string>
     <string name="use_headset_key">use_headset_key</string>
     <string name="use_headset_key_summary">헤드셋 버튼을 짧게 눌러 항목 사이를 이동하고, 해드셋 버튼을 길게 눌러 음성 비서를 호출할 수 있습니다.</string>
     <string name="use_headset_key_title">해드셋 버튼을 사용하여 스크린 리더 제어:</string>
@@ -2059,7 +2059,7 @@ end)"</string>
     <string name="use_left_right">use_left_right</string>
     <string name="use_left_right_double_fling_gesture">use_left_right_double_fling_gesture</string>
     <string name="use_left_right_double_fling_gesture_title">왼쪽으로 쓸고 이어 오른쪽으로 쓸기</string>
-    <string name="use_left_right_msg">먼저 스크린 리더의 기본 제스처를 설정하겠습니다. 기본적으로 Jieshuo Max 스크린 리더는 위로 쓸어 이전 요소로 이동하고 아래로 쓸어 다음 요소로 이동하며 왼쪽 및 오른쪽으로 쓸어 바로가기를 실행합니다. 다른 스크린 리더 조작에 익숙한 경우 다른 제스처를 선택하십시오. 왼쪽 및 오른쪽으로 쓸어 요소간 이동, 위 또는 아래로 쓸어 바로가기를 실행할 수 있습니다. 아래로 쓸기 동작을 이용하여 설정하고자 하는 값을 찾아 두 번 탭하세요.</string>
+    <string name="use_left_right_msg">먼저 스크린 리더의 기본 제스처를 설정하겠습니다. 기본적으로 MS Vaani 스크린 리더는 위로 쓸어 이전 요소로 이동하고 아래로 쓸어 다음 요소로 이동하며 왼쪽 및 오른쪽으로 쓸어 바로가기를 실행합니다. 다른 스크린 리더 조작에 익숙한 경우 다른 제스처를 선택하십시오. 왼쪽 및 오른쪽으로 쓸어 요소간 이동, 위 또는 아래로 쓸어 바로가기를 실행할 수 있습니다. 아래로 쓸기 동작을 이용하여 설정하고자 하는 값을 찾아 두 번 탭하세요.</string>
     <string name="use_left_right_no">아니요, 위 및 아래로 쓸어 요소 사이를 이동하겠습니다.</string>
     <string name="use_left_right_ok">예, 왼쪽 및 오른쪽으로 쓸어 요소 사이를 이동하겠습니다.</string>
     <string name="use_left_right_summary">기본 제스처 구성표를 사용할 때 왼쪽/오른쪽으로 쓸어 초점을 이동하고 위/아래로 쓸어 바로가기 기능을 실행할 수 있습니다..</string>
@@ -2107,7 +2107,7 @@ end)"</string>
     <string name="use_navigation_gesture_summary">한 손가락으로 화면 아래에서 위로 쓸면 전체 화면으로 볼 수 있습니다. 안드로이드 11 이상만 사용 가능합니다.</string>
     <string name="use_navigation_gesture_title">한 손가락으로 쓸어 전체 화면 보기 사용</string>
     <string name="use_new_text_move_type">use_new_text_move_type</string>
-    <string name="use_new_text_move_type_title">Jieshuo Max 스타일의 텍스트 이동 작업 처리</string>
+    <string name="use_new_text_move_type_title">MS Vaani 스타일의 텍스트 이동 작업 처리</string>
     <string name="use_new_web_type">use_new_web_type</string>
     <string name="use_new_web_type_summary">새로운 웹페이지 초점 이동 방식은 사용성에 도움을 주지만 호환성에 문제가 발생할 수 있습니다. 웹페이지 내 초점 이동에 문제가 있는 경우 이 설정을 해제하는 것이 좋습니다.</string>
     <string name="use_new_web_type_title">새로운 기본 웹부라우징 사용</string>
@@ -2321,7 +2321,7 @@ end)"</string>
     <string name="user_key">user_key</string>
     <string name="user_key_title">제품 키</string>
     <string name="user_letter_map">user_letter_map</string>
-    <string name="user_letter_map_title">사용자 정의 단어 사전 사용 (Jieshuo Max를 다시 시작해야 합니다.):</string>
+    <string name="user_letter_map_title">사용자 정의 단어 사전 사용 (MS Vaani를 다시 시작해야 합니다.):</string>
     <string name="user_name">user_name</string>
     <string name="user_name_title">사용자 이름</string>
     <string name="user_new_password">새 암호, 6 ~ 15 자의 영문 또는 숫자를 입력해야 합니다.</string>
@@ -2463,10 +2463,10 @@ end)"</string>
     <string name="view_type_move">view_type_move</string>
     <string name="view_type_move_title">표준 읽기제어 사용자 정의</string>
     <string name="vip_qq_group">vip_qq_group</string>
-    <string name="vip_qq_group_title">Jieshuo Max 스크린 리더 VIP QQ 그룹</string>
+    <string name="vip_qq_group_title">MS Vaani 스크린 리더 VIP QQ 그룹</string>
     <string name="vip_qq_kefu">vip_qq_kefu</string>
     <string name="vip_qq_kefu_summary">제품 상담, 구입 및 양도 등은 고객 서비스에 문의하세요.</string>
-    <string name="vip_qq_kefu_title">Jieshuo Max 스크린리더 고객지원</string>
+    <string name="vip_qq_kefu_title">MS Vaani 스크린리더 고객지원</string>
     <string name="voice_app_name">음성 비서</string>
     <string name="voice_cmd_call">전화 걸기</string>
     <string name="voice_cmd_input">입력</string>
@@ -2543,9 +2543,9 @@ end)"</string>
     <string name="vr_dialog_title">참고 사항</string>
     <string name="waiting">잠시 기다리세요.</string>
     <string name="wake_lock">wake_lock</string>
-    <string name="wallpaper_description">Jieshuo Max를 배경화면으로 사용하면 권한 설정 없이 화면을 읽을 수 있습니다.</string>
-    <string name="wallpaper_summary">일부 스마트폰이 Jieshuo Max 사용 중 예기치 않게 다운되는 문제를 해결할 수 있습니다.</string>
-    <string name="wallpaper_title">Jieshuo Max를 배경화면으로 사용</string>
+    <string name="wallpaper_description">MS Vaani를 배경화면으로 사용하면 권한 설정 없이 화면을 읽을 수 있습니다.</string>
+    <string name="wallpaper_summary">일부 스마트폰이 MS Vaani 사용 중 예기치 않게 다운되는 문제를 해결할 수 있습니다.</string>
+    <string name="wallpaper_title">MS Vaani를 배경화면으로 사용</string>
     <string name="web_app_name">웹 브라우저</string>
     <string name="web_are_you_open">열기를 허용하겠습니까?</string>
     <string name="web_back">뒤로</string>
@@ -2559,7 +2559,7 @@ end)"</string>
     <string name="web_type_move">web_type_move</string>
     <string name="web_type_move_title">웹 읽기제어 사용자 정의</string>
     <string name="welcome">welcome</string>
-    <string name="welcome_msg">Jieshuo Max 스크린 리더를 시작합니다. 이 애플리케이션은 시각장애인들이 스마트폰을 더 효율적으로 사용할 수 있도록 돕는 것을 목표로 합니다. 스크린 리더의 기본 설정을 진행하려면 \"설정 마법사\"를 클릭하고, 개인 정보 보호 정책을 보려면 \"권한 도움말\"을 클릭하세요. 그리고 애플리케이션을 종료하려면 \"종료\"를 클릭하세요.</string>
+    <string name="welcome_msg">MS Vaani 스크린 리더를 시작합니다. 이 애플리케이션은 시각장애인들이 스마트폰을 더 효율적으로 사용할 수 있도록 돕는 것을 목표로 합니다. 스크린 리더의 기본 설정을 진행하려면 \"설정 마법사\"를 클릭하고, 개인 정보 보호 정책을 보려면 \"권한 도움말\"을 클릭하세요. 그리고 애플리케이션을 종료하려면 \"종료\"를 클릭하세요.</string>
     <string name="wifi_level_1">WIFI 신호 1단계</string>
     <string name="wifi_level_2">WIFI 신호 2단계</string>
     <string name="wifi_level_3">WIFI 신호 3단계</string>

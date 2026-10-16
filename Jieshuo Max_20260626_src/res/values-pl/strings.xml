@@ -6,7 +6,7 @@
     <string name="accessibility_focus_appearance">accessibility_focus_appearance</string>
     <string name="accessibility_focus_appearance_stroke">accessibility_focus_appearance_stroke</string>
     <string name="accessibility_focus_appearance_title">Podświetlenie kursora</string>
-    <string name="accessibility_service_description">"Commentary Screenreader to program, który ma pomóc osobom niewidomym korzystać z telefonów komórkowych. Podjęliśmy pewne próby innowacji, dzięki którym jego użytkowanie jest jeszcze prostsze. Aby uzyskać więcej szczegółów, otwórz pomoc > ustawienia.
+    <string name="accessibility_service_description">"MS Vaani Screen Reader to program, który ma pomóc osobom niewidomym korzystać z telefonów komórkowych. Podjęliśmy pewne próby innowacji, dzięki którym jego użytkowanie jest jeszcze prostsze. Aby uzyskać więcej szczegółów, otwórz pomoc > ustawienia.
  Niektóre funkcje są ograniczone do momentu zakupu pełnej wersji. Aby uzyskać szczegółowe informacje, skontaktuj się z obsługą klienta w oficjalnej grupie QQ.
  
  Cechy: 
@@ -35,7 +35,7 @@
  Ułatwiliśmy różne operacje dzięki dodatkowym poleceniom głosowym.
  Automatycznie uruchamiaj wtyczki, stały dostęp do ulubionych wtyczek.
  Commentary to Twój nieskończenie konfigurowalny i elastyczny czytnik ekranu!"</string>
-    <string name="accessibility_service_description2">Usługa asystenta Jieshuo ma takie same funkcje jak główna usługa, najczęściej używana w niektórych sytuacjach, gdy sprawdzana jest nazwa usługi czytnika ekranu. Obie usługi nie muszą być włączone jednocześnie.</string>
+    <string name="accessibility_service_description2">Usługa asystenta MS Vaani ma takie same funkcje jak główna usługa, najczęściej używana w niektórych sytuacjach, gdy sprawdzana jest nazwa usługi czytnika ekranu. Obie usługi nie muszą być włączone jednocześnie.</string>
     <string name="accessibility_volume">accessibility_volume</string>
     <string name="action_menu_title">Menu akcji...</string>
     <string name="action_setting">action_setting</string>
@@ -68,7 +68,7 @@
     <string name="alarm_settings_title">Ustawienia alarmu</string>
     <string name="alarm_start_hour">alarm_start_hour</string>
     <string name="alarm_start_hour_title">Czas rozpoczęcia alarmu</string>
-    <string name="album_activity">Album Jieshuo</string>
+    <string name="album_activity">Album MS Vaani</string>
     <string name="all">Wszystkie</string>
     <string name="all_description">Uniwersalne rozpoznawanie</string>
     <string name="all_notification_count">%d powiadomień</string>
@@ -173,7 +173,7 @@
     <string name="camera_screen_down">Ekran jest skierowany w dół</string>
     <string name="camera_screen_up">Ekran jest skierowany w górę</string>
     <string name="camera_tag">Rozpoznawanie scenerii</string>
-    <string name="camera_title">Aparat fotograficzny Jieshuo</string>
+    <string name="camera_title">Aparat fotograficzny MS Vaani</string>
     <string name="camera_top_move_far">Podnieś ekran</string>
     <string name="camera_top_move_near">Podnieś tył telefonu</string>
     <string name="camera_top_up">Podnieś górę telefonu</string>
@@ -200,7 +200,7 @@
     <string name="check_overlay_permissions">check_overlay_permissions</string>
     <string name="check_overlay_permissions_title">Sprawdź status uprawnień do wyświetlania nakładek</string>
     <string name="check_permissions">check_permissions</string>
-    <string name="check_permissions_msg">Jieshuo Screenreader potrzebuje podstawowych uprawnień do działania, na przykład uprawnienia do pamięci masowej są używane do odczytywania tematów dźwiękowych, rozszerzeń lub innych danych zewnętrznych z urządzenia. Kliknij Dalej, aby kontynuować i przyznać wszystkie wymagane uprawnienia, lub kliknij Anuluj, aby zamknąć oprogramowanie</string>
+    <string name="check_permissions_msg">MS Vaani Screen Reader potrzebuje podstawowych uprawnień do działania, na przykład uprawnienia do pamięci masowej są używane do odczytywania tematów dźwiękowych, rozszerzeń lub innych danych zewnętrznych z urządzenia. Kliknij Dalej, aby kontynuować i przyznać wszystkie wymagane uprawnienia, lub kliknij Anuluj, aby zamknąć oprogramowanie</string>
     <string name="check_permissions_title">Sprawdź status uprawnień</string>
     <string name="check_read_phone_state_permission">Sprawdź, czy przyznano uprawnienia do odczytu stanu telefonu</string>
     <string name="check_update">check_update</string>
@@ -270,7 +270,7 @@
     <string name="cmd_description">Opis (15 lub więcej znaków)</string>
     <string name="cmd_manager">Menedżer poleceń głosowych</string>
     <string name="code_help">code_help</string>
-    <string name="code_help_title">Jieshuo API reference</string>
+    <string name="code_help_title">MS Vaani API reference</string>
     <string name="command_accept_call">Odbierz połączenie</string>
     <string name="command_accessibility_service_setting">Ustawienia dostępności</string>
     <string name="command_action_setting">Ustawienia zachowania...</string>
@@ -615,7 +615,7 @@
     <string name="edge_gesture_width">edge_gesture_width</string>
     <string name="edge_gesture_width_title">Zakres wyzwalacza gestu krawędzi</string>
     <string name="edit">edycja</string>
-    <string name="edit_activity">Wygodny edytor tekstu Jieshuo</string>
+    <string name="edit_activity">Wygodny edytor tekstu MS Vaani</string>
     <string name="edit_app_profiles_title">Edytuj profil dla aplikacji</string>
     <string name="edit_box_no_found">Nieznaleziono pola tekstowego</string>
     <string name="edit_button">Wprowadź przyciski do kliknięcia (jeden na linię)</string>
@@ -759,7 +759,7 @@
     <string name="has_vip_summary_gesture">Gestów tych nie można dostosować w bezpłatnej wersji programu</string>
     <string name="help">help</string>
     <string name="help_feed">help_feed</string>
-    <string name="help_feed_summary">Commentary Screenreader używa pewnych technologii firm trzecich: Tencent AI, Baidu AI, Baidu TTS, Baidu Translator, Baidu MTS, Andro LUA Plus, itd.</string>
+    <string name="help_feed_summary">MS Vaani Screen Reader używa pewnych technologii firm trzecich: Tencent AI, Baidu AI, Baidu TTS, Baidu Translator, Baidu MTS, Andro LUA Plus, itd.</string>
     <string name="help_feed_title">Pomoc i opinia...</string>
     <string name="help_title">Ekran pomocy:</string>
     <string name="helper_manager_title">Rozszerzone ustawienia asystenta głosowego</string>
@@ -813,8 +813,8 @@
     <string name="item_current_count" formatted="false">%d z %d</string>
     <string name="item_from_to_count" formatted="false">Wyświetlanie obiektów od %d do %d z %d</string>
     <string name="jieshuo_bbs">jieshuo_bbs</string>
-    <string name="jieshuo_bbs_summary">Podziel się swoją opinią na temat Commentary Screenreader na naszym forum</string>
-    <string name="jieshuo_bbs_title">Forum Commentary Screenreader</string>
+    <string name="jieshuo_bbs_summary">Podziel się swoją opinią na temat MS Vaani Screen Reader na naszym forum</string>
+    <string name="jieshuo_bbs_title">Forum MS Vaani Screen Reader</string>
     <string name="jieshuo_beta_title">Wersje Beta</string>
     <string name="keep_focus_position">keep_focus_position</string>
     <string name="keep_focus_position_speak">keep_focus_position_speak</string>
@@ -949,7 +949,7 @@
     <string name="message_title">Alert:</string>
     <string name="message_voice_feedback_paused">Mowa została wstrzymana.</string>
     <string name="message_voice_feedback_resume">Mowa została wznowiona</string>
-    <string name="message_welcome">Witamy w Commentary Screenreader!</string>
+    <string name="message_welcome">Witamy w MS Vaani Screen Reader!</string>
     <string name="min">Minuta</string>
     <string name="more">Więcej</string>
     <string name="more_setting">Więcej ustawień</string>
@@ -1006,7 +1006,7 @@
     <string name="msg_enabled_supper_mode">Włączono ulepszony tryb szczegółowego fokusu</string>
     <string name="msg_enabled_supper_mode_error">Nie udało się włączyć ulepszonego trybu szczegółowego fokusu</string>
     <string name="msg_exit_game_mode">Wyłączono tryb gry</string>
-    <string name="msg_export_all_file">To spowoduje wyeksportowanie wszystkich ustawień i plików Jieshuo do %s w celu zaimportowania na nowym telefonie. Proszę unikać udostępniania wyeksportowanego archiwum innym, ponieważ zawiera ono Twoje dane, w tym informacje o logowaniu.</string>
+    <string name="msg_export_all_file">To spowoduje wyeksportowanie wszystkich ustawień i plików MS Vaani do %s w celu zaimportowania na nowym telefonie. Proszę unikać udostępniania wyeksportowanego archiwum innym, ponieważ zawiera ono Twoje dane, w tym informacje o logowaniu.</string>
     <string name="msg_export_all_file_fail">Nie udało się wyeksportować. Proszę spróbuj ponownie</string>
     <string name="msg_favorite_added">Dodano do ulubionych</string>
     <string name="msg_favorite_backup_done">Pomyślnie utworzono kopię zapasową ulubionych</string>
@@ -1021,9 +1021,9 @@
     <string name="msg_gesture_has_vip">Wersja darmowa nie obsługuje modyfikacji gestów góra, dół, lewo i prawo</string>
     <string name="msg_gesture_updated">Schemat gestów został zaktualizowany</string>
     <string name="msg_gestures_empty">Brak schematów gestów</string>
-    <string name="msg_has_enabled">Proszę najpierw włącz Jieshuo</string>
-    <string name="msg_has_not_enabled">Jieshuo Screenreader nie jest jeszcze włączony. Aby korzystać z jego funkcji, musisz go włączyć w ustawieniach ułatwień dostępu. Czy chcesz przejść teraz do ustawień ułatwień dostępu?</string>
-    <string name="msg_has_not_enabled_33">Jeśli masz Androida 13 lub wyżej, możesz zobaczyć komunikat o ustawieniach z ograniczonym dostępem podczas próby włączenia usługi ułatwień dostępu Jieshuo. Aby pozwolić Jieshuo działać, przejdź do informacji o aplikacji, dotknij więcej opcji, włącz ustawienia z ograniczonym dostępem i potwierdź swój wybór</string>
+    <string name="msg_has_enabled">Proszę najpierw włącz MS Vaani</string>
+    <string name="msg_has_not_enabled">MS Vaani Screen Reader nie jest jeszcze włączony. Aby korzystać z jego funkcji, musisz go włączyć w ustawieniach ułatwień dostępu. Czy chcesz przejść teraz do ustawień ułatwień dostępu?</string>
+    <string name="msg_has_not_enabled_33">Jeśli masz Androida 13 lub wyżej, możesz zobaczyć komunikat o ustawieniach z ograniczonym dostępem podczas próby włączenia usługi ułatwień dostępu MS Vaani. Aby pozwolić MS Vaani działać, przejdź do informacji o aplikacji, dotknij więcej opcji, włącz ustawienia z ograniczonym dostępem i potwierdź swój wybór</string>
     <string name="msg_has_storage">Ta funkcja wymaga przyznania uprawnienia do zapisywania i wczytywania plików z pamięci. Proszę przyznać to uprawnienie lub przerwać proces</string>
     <string name="msg_has_vip_auto_speak">Użytkownicy wersji darmowej mogą używać automatycznego czytania wiadomości czatu tylko w aplikacji QQ</string>
     <string name="msg_has_vip_dict">Użytkownicy wersji darmowej nie mogą dodać więcej niż 5 wpisów do słownika użytkownika</string>
@@ -1034,7 +1034,7 @@
     <string name="msg_hotkey_backup_done">Pomyślnie utworzono kopię zapasową profili skrótów klawiszowych</string>
     <string name="msg_hotkey_backup_error">Wystąpił błąd podczas tworzenia kopii zapasowej profili skrótów klawiszowych</string>
     <string name="msg_import">Zaimportowano %s</string>
-    <string name="msg_import_all">Ta operacja nadpisze Twoje ustawienia i zasoby Jieshuo</string>
+    <string name="msg_import_all">Ta operacja nadpisze Twoje ustawienia i zasoby MS Vaani</string>
     <string name="msg_import_strings">Importowanie tego niestandardowego tłumaczenia spowoduje albo połączenie Twoich zmian z zaimportowaną wersją, albo całkowite ich nadpisanie. Przed importem możesz wyeksportować swoje bieżące zmiany. Co chcesz zrobić?</string>
     <string name="msg_in_game_mode">Włączono tryb gry</string>
     <string name="msg_invite_code_error">Kod zaproszenia jest nieprawidłowy</string>
@@ -1066,7 +1066,7 @@
     <string name="msg_open_error">Wystąpił błąd podczas otwierania</string>
     <string name="msg_open_file_not_supported">Tego pliku nie można otworzyć, ponieważ nie jest obsługiwany</string>
     <string name="msg_plugin_empty">Brak rozszerzeń</string>
-    <string name="msg_plugin_run_error">Proszę najpierw uruchomić usługę ułatwień dostępu Jieshuo Screenreader</string>
+    <string name="msg_plugin_run_error">Proszę najpierw uruchomić usługę ułatwień dostępu MS Vaani Screen Reader</string>
     <string name="msg_plugins_empty">Brak rozszerzeń</string>
     <string name="msg_press_again_exit">Naciśnij ponownie, aby wyjść</string>
     <string name="msg_read_done">Ładowanie zakończone</string>
@@ -1136,7 +1136,7 @@
     <string name="msg_stop_video_description">Zatrzymano proces opisywania video</string>
     <string name="msg_supper_cmd_only_voice_helper">Super polecenia głosowe można wywołać tylko w asystencie głosowym</string>
     <string name="msg_supper_mode">Ulepszony tryb szczegółowego fokusu może zapewnić dostęp do większej ilości treści</string>
-    <string name="msg_talkback_enabled">TalkBack jest włączony. Uruchomienie zarówno Jieshuo, jak i TalkBack jednocześnie może powodować problemy. Proszę wyłącz TalkBack, aby przywrócić przeglądanie dotykiem.</string>
+    <string name="msg_talkback_enabled">TalkBack jest włączony. Uruchomienie zarówno MS Vaani, jak i TalkBack jednocześnie może powodować problemy. Proszę wyłącz TalkBack, aby przywrócić przeglądanie dotykiem.</string>
     <string name="msg_text_changed">Treść została zmieniona</string>
     <string name="msg_timer_backup_done">Pomyślnie utworzono kopię zapasową etykiet minutnika</string>
     <string name="msg_timer_backup_error">Wystąpił błąd podczas tworzenia kopii zapasowej etykiet minutnika</string>
@@ -1238,7 +1238,7 @@
     <string name="notification_settings_title">Ustawienia powiadomień...</string>
     <string name="notification_speak">notification_speak</string>
     <string name="notification_speak2">notification_speak2</string>
-    <string name="notification_speak_msg">Proszę wybrać, czy chcesz, aby czytnik ekranu zgłaszał powiadomienia. Powiadomienia obejmują przychodzące wiadomości SMS, prognozy pogody lub inne informacje generowane przez Twoje urządzenie. Zaleca się włączenie powiadomień, ale jeśli nie chcesz, żeby Ci przeszkadzały, możesz je wyłączyć. Warto zauważyć, że Jieshuo Screenreader ma funkcję o nazwie skrzynka powiadomień, która może znacznie ułatwić przeglądanie powiadomień na niektórych urządzeniach</string>
+    <string name="notification_speak_msg">Proszę wybrać, czy chcesz, aby czytnik ekranu zgłaszał powiadomienia. Powiadomienia obejmują przychodzące wiadomości SMS, prognozy pogody lub inne informacje generowane przez Twoje urządzenie. Zaleca się włączenie powiadomień, ale jeśli nie chcesz, żeby Ci przeszkadzały, możesz je wyłączyć. Warto zauważyć, że MS Vaani Screen Reader ma funkcję o nazwie skrzynka powiadomień, która może znacznie ułatwić przeglądanie powiadomień na niektórych urządzeniach</string>
     <string name="notification_speak_no">Nie czytaj powiadomień</string>
     <string name="notification_speak_ok">Czytaj powiadomienia</string>
     <string name="notification_speak_title">Czytaj powiadomienia:</string>
@@ -1325,7 +1325,7 @@
     <string name="only_screen_on">Tylko gdy ekran jest odblokowany</string>
     <string name="open">Otwórz</string>
     <string name="open_application_info">open_application_info</string>
-    <string name="open_application_info_title">O Jieshuo Screenreader</string>
+    <string name="open_application_info_title">O MS Vaani Screen Reader</string>
     <string name="open_project">Otwórz projekt</string>
     <string name="open_setup_setting">open_setup_setting</string>
     <string name="open_setup_setting_title">Sprawdź status uprawnień do automatycznego uruchamiania</string>
@@ -1352,8 +1352,8 @@
     <string name="plugin_title">Rozszerzenia...</string>
     <string name="point">Punktor</string>
     <string name="power_settings_title">Ustawienia energii</string>
-    <string name="pref_donate_alipay">Wesprzyj rozwój Jieshuo przez darowiznę za pomocą Alipay</string>
-    <string name="pref_donate_paypal">Wesprzyj rozwój Jieshuo przez darowiznę za pomocą PayPal</string>
+    <string name="pref_donate_alipay">Wesprzyj rozwój MS Vaani przez darowiznę za pomocą Alipay</string>
+    <string name="pref_donate_paypal">Wesprzyj rozwój MS Vaani przez darowiznę za pomocą PayPal</string>
     <string name="prevent_jump">Zapobiegaj przeskakiwaniu kursora</string>
     <string name="previous_chapter">previous_chapter</string>
     <string name="previous_chapter_default_value">Poprzedni rozdział|Poprzednia strona</string>
@@ -1373,9 +1373,9 @@
     <string name="punctuation_none">None</string>
     <string name="qq_group">qq_group</string>
     <string name="qq_group2">qq_group2</string>
-    <string name="qq_group2_title">Oficjalna grupa QQ dla Commentary Screenreader</string>
+    <string name="qq_group2_title">Oficjalna grupa QQ dla MS Vaani Screen Reader</string>
     <string name="qq_group_summary">Porozmawiaj o programie lub kup go</string>
-    <string name="qq_group_title">Oficjalna grupa QQ poświęcona Commentary Screenreader</string>
+    <string name="qq_group_title">Oficjalna grupa QQ poświęcona MS Vaani Screen Reader</string>
     <string name="questions_answers">questions_answers</string>
     <string name="questions_answers_title">Często zadawane pytania</string>
     <string name="quick_menu_title">Szybkie ustawienia</string>
@@ -1506,7 +1506,7 @@
     <string name="setup_setting_continue">Kontynuuj konfigurację</string>
     <string name="setup_setting_done">Kreator konfiguracji został ukończony</string>
     <string name="setup_setting_done_msg">Instalacja zakończona</string>
-    <string name="setup_setting_file_permission_msg">Jieshuo Screenreader używa uprawnień do zarządzania plikami, aby zapisywać i używać rozszerzeń, efektów dźwiękowych, narzędzi oraz aby tworzyć kopie zapasowe i przywracać ustawienia.</string>
+    <string name="setup_setting_file_permission_msg">MS Vaani Screen Reader używa uprawnień do zarządzania plikami, aby zapisywać i używać rozszerzeń, efektów dźwiękowych, narzędzi oraz aby tworzyć kopie zapasowe i przywracać ustawienia.</string>
     <string name="setup_setting_get_permission">Przyznaj uprawnienie</string>
     <string name="setup_setting_has_alarm_permission">Uprawnienie przyznane</string>
     <string name="setup_setting_has_battery_permission">Uprawnienie do ignorowania optymalizacji baterii zostało przyznane</string>
@@ -1519,9 +1519,9 @@
     <string name="setup_setting_not_notification_permission">Uprawnienie do wyświetlania powiadomień nie zostało przyznane</string>
     <string name="setup_setting_not_overlay_permission">Uprawnienie do wyświetlania wyskakujących okienek nie zostało przyznane</string>
     <string name="setup_setting_not_permission">Podstawowe uprawnienia nie zostały przyznane</string>
-    <string name="setup_setting_not_permission_msg">Jieshuo Screenreader nie będzie działać bez niektórych podstawowych uprawnień, których jeszcze nie przyznałeś. Kliknięcie Kontynuuj konfigurację pozwoli na przyznanie wszystkich wymaganych uprawnień i kontynuację kreatora konfiguracji, kliknięcie Przyznaj uprawnienia przyzna wszystkie wymagane uprawnienia i zakończy kreatora, a kliknięcie Wyjdź spowoduje nieprawidłowe działanie niektórych funkcji</string>
-    <string name="setup_setting_notification_permission_msg">Jieshuo Screenreader używa uprawnień do wyświetlania powiadomień do pokazywania ikony powiadomienia używanej do wznawiania gestów, korzystania z funkcji zapobiegania zabijaniu, itp. Przyznanie tego uprawnienia pomoże uczynić aplikację bardziej stabilną na Twoim urządzeniu</string>
-    <string name="setup_setting_overlay_permission_msg">Jieshuo Screenreader używa wyskakujących okienek do wyświetlania menu, wyników rozpoznawania lub do trybu kurtyny</string>
+    <string name="setup_setting_not_permission_msg">MS Vaani Screen Reader nie będzie działać bez niektórych podstawowych uprawnień, których jeszcze nie przyznałeś. Kliknięcie Kontynuuj konfigurację pozwoli na przyznanie wszystkich wymaganych uprawnień i kontynuację kreatora konfiguracji, kliknięcie Przyznaj uprawnienia przyzna wszystkie wymagane uprawnienia i zakończy kreatora, a kliknięcie Wyjdź spowoduje nieprawidłowe działanie niektórych funkcji</string>
+    <string name="setup_setting_notification_permission_msg">MS Vaani Screen Reader używa uprawnień do wyświetlania powiadomień do pokazywania ikony powiadomienia używanej do wznawiania gestów, korzystania z funkcji zapobiegania zabijaniu, itp. Przyznanie tego uprawnienia pomoże uczynić aplikację bardziej stabilną na Twoim urządzeniu</string>
+    <string name="setup_setting_overlay_permission_msg">MS Vaani Screen Reader używa wyskakujących okienek do wyświetlania menu, wyników rozpoznawania lub do trybu kurtyny</string>
     <string name="setup_setting_set_permission_and_exit">Przyznaj uprawnienia i zakończ</string>
     <string name="setup_setting_title">Kreator konfiguracji</string>
     <string name="shake_action">shake_action</string>
@@ -1536,7 +1536,7 @@
     <string name="share_all">Udostępnij wszystko</string>
     <string name="shared_cloud_label">Udostępnij niestandardowe etykiety do chmury</string>
     <string name="show_download">show_download</string>
-    <string name="show_download_title">Pobierz Jieshuo Beta</string>
+    <string name="show_download_title">Pobierz MS Vaani Beta</string>
     <string name="show_volume_ui">show_volume_ui</string>
     <string name="show_volume_ui_title">Wyświetl panel głośności systemowej podczas regulacji</string>
     <string name="sign_done">Rejestracja pomyślna</string>
@@ -1592,8 +1592,8 @@
     <string name="sound_scroll_top">Przewinięto do góry</string>
     <string name="sound_scroll_up">Przewiń w górę</string>
     <string name="sound_settings_title">Ustawienia tematu dźwiękowego</string>
-    <string name="sound_talkman_start">Uruchomienie Jieshuo Screenreader</string>
-    <string name="sound_talkman_stop">Zatrzymanie Jieshuo Screenreader</string>
+    <string name="sound_talkman_start">Uruchomienie MS Vaani Screen Reader</string>
+    <string name="sound_talkman_stop">Zatrzymanie MS Vaani Screen Reader</string>
     <string name="sound_tick">Odgłos minutnika</string>
     <string name="sound_timer_end">Koniec minutniika</string>
     <string name="sound_timer_start">Start minutnika</string>
@@ -1947,7 +1947,7 @@
     <string name="use_game_mode_no_speak">use_game_mode_no_speak</string>
     <string name="use_game_mode_no_speak_title">Wstrzymaj mowę, gdy tryb gry jest aktywny</string>
     <string name="use_gesture_detection">use_gesture_detection</string>
-    <string name="use_gesture_detection_title">在解说中处理手势</string>
+    <string name="use_gesture_detection_title">在MS Vaani中处理手势</string>
     <string name="use_headset_key">use_headset_key</string>
     <string name="use_headset_key_summary">Naciśnij klawisz zestawu słuchawkowego, aby przejść do następnego elementu, długo naciśnij klawisz, aby włączyć asystenta głosowego.</string>
     <string name="use_headset_key_title">Użyj przycisku zestawu słuchawkowego, aby sterować czytnikiem ekranu:</string>
@@ -1992,7 +1992,7 @@
     <string name="use_left_right">use_left_right</string>
     <string name="use_left_right_double_fling_gesture">use_left_right_double_fling_gesture</string>
     <string name="use_left_right_double_fling_gesture_title">Używaj gestu dwuczęściowego lewo prawo</string>
-    <string name="use_left_right_msg">Najpierw ustawmy podstawowy tryb obsługi czytnika ekranu. Domyślnie Jieshuo Screenreader używa przesunięcia w górę, aby przejść do poprzedniego elementu, przesunięcia w dół, aby przejść do następnego elementu, a przesunięć w lewo i prawo do wykonywania tzw. skrótów. Jeśli jesteś przyzwyczajony do bardziej tradycyjnej obsługi czytnika ekranu, wybierz tutaj opcję Odwróć gesty przesunięcia. Należy zauważyć, że po zastosowaniu tej zmiany przesunięcie w górę będzie wykonywać tzw. lewy skrót, podczas gdy przesunięcie w dół będzie wykonywać prawy skrót. Teraz proszę przesunąć w dół, aby znaleźć opcję, którą chcesz ustawić, i dwukrotnie dotknąć, aby ją aktywować</string>
+    <string name="use_left_right_msg">Najpierw ustawmy podstawowy tryb obsługi czytnika ekranu. Domyślnie MS Vaani Screen Reader używa przesunięcia w górę, aby przejść do poprzedniego elementu, przesunięcia w dół, aby przejść do następnego elementu, a przesunięć w lewo i prawo do wykonywania tzw. skrótów. Jeśli jesteś przyzwyczajony do bardziej tradycyjnej obsługi czytnika ekranu, wybierz tutaj opcję Odwróć gesty przesunięcia. Należy zauważyć, że po zastosowaniu tej zmiany przesunięcie w górę będzie wykonywać tzw. lewy skrót, podczas gdy przesunięcie w dół będzie wykonywać prawy skrót. Teraz proszę przesunąć w dół, aby znaleźć opcję, którą chcesz ustawić, i dwukrotnie dotknąć, aby ją aktywować</string>
     <string name="use_left_right_no">Użyj domyślnych gestów</string>
     <string name="use_left_right_ok">Odwróć gesty przesunięcia</string>
     <string name="use_left_right_summary">Używając domyślnego schematu gestów, zmieniaj fokus za pomocą przesuwania palcem od lewej do prawej, wykonuj funkcje skrótów za pomocą przesuwania w dół.</string>
@@ -2131,7 +2131,7 @@
     <string name="use_single_tap_summary">Kliknij jednokrotnie, aby aktywować obiekt, na którym się znajdujesz</string>
     <string name="use_single_tap_title">Pojedyncze dotknięcie, aby aktywować:</string>
     <string name="use_single_tts">use_single_tts</string>
-    <string name="use_single_tts_msg">Jieshuo Screenreader może używać dwóch silników TTS jednocześnie. Główny silnik TTS będzie używany do czytania większości informacji, podczas gdy dodatkowy silnik TTS będzie używany do czytania powiadomień i innych mniej ważnych treści.</string>
+    <string name="use_single_tts_msg">MS Vaani Screen Reader może używać dwóch silników TTS jednocześnie. Główny silnik TTS będzie używany do czytania większości informacji, podczas gdy dodatkowy silnik TTS będzie używany do czytania powiadomień i innych mniej ważnych treści.</string>
     <string name="use_single_tts_no">Użyj dwóch silników TTS jednocześnie</string>
     <string name="use_single_tts_ok">Użyj jednego silnika TTS</string>
     <string name="use_single_tts_summary">Wszystko będzie czytane za pomocą głównego silnika TTS, gdy ta opcja jest zaznaczona</string>
@@ -2394,10 +2394,10 @@
     <string name="view_type_move">view_type_move</string>
     <string name="view_type_move_title">Dostosuj nawigację po elementach standardowego interfejsu</string>
     <string name="vip_qq_group">vip_qq_group</string>
-    <string name="vip_qq_group_title">Commentary Screenreader VIP QQ group</string>
+    <string name="vip_qq_group_title">MS Vaani Screen Reader VIP QQ group</string>
     <string name="vip_qq_kefu">vip_qq_kefu</string>
     <string name="vip_qq_kefu_summary">Konsultacje, zakup,obsługa klienta, licencje</string>
-    <string name="vip_qq_kefu_title">Wsparcie techniczne Commentary screenreader</string>
+    <string name="vip_qq_kefu_title">Wsparcie techniczne MS Vaani Screen Reader</string>
     <string name="voice_app_name">Asystent głosowy</string>
     <string name="voice_cmd_call">Zadzwoń do</string>
     <string name="voice_cmd_input">Wprowadź</string>
@@ -2467,9 +2467,9 @@
     <string name="vr_dialog_title">Ważne informacje</string>
     <string name="waiting">Czekaj</string>
     <string name="wake_lock">wake_lock</string>
-    <string name="wallpaper_description">Jeśli nie chcesz przyznawać dodatkowych uprawnień, ustaw Jieshuo Screenreader jako swoją tapetę</string>
-    <string name="wallpaper_summary">Niektóre telefony mają domyślnie włączone ekstremalne ograniczenia baterii. Jeśli czytnik ekranu jest zamykany przez moduł optymalizacji baterii, włączenie tej opcji ustawi Jieshuo Screenreader jako hosta tapety, redukując ten efekt</string>
-    <string name="wallpaper_title">Użyj tapety Jieshuo</string>
+    <string name="wallpaper_description">Jeśli nie chcesz przyznawać dodatkowych uprawnień, ustaw MS Vaani Screen Reader jako swoją tapetę</string>
+    <string name="wallpaper_summary">Niektóre telefony mają domyślnie włączone ekstremalne ograniczenia baterii. Jeśli czytnik ekranu jest zamykany przez moduł optymalizacji baterii, włączenie tej opcji ustawi MS Vaani Screen Reader jako hosta tapety, redukując ten efekt</string>
+    <string name="wallpaper_title">Użyj tapety MS Vaani</string>
     <string name="web_app_name">Przeglądarka internetowa</string>
     <string name="web_are_you_open">Czy chcesz otworzyć ten link?</string>
     <string name="web_back">Wstecz</string>
@@ -2483,7 +2483,7 @@
     <string name="web_type_move">web_type_move</string>
     <string name="web_type_move_title">Dostosuj nawigację po elementach strony internetowej</string>
     <string name="welcome">welcome</string>
-    <string name="welcome_msg">Witamy w Jieshuo Screenreader! To oprogramowanie ma na celu pomóc osobom niewidomym w bardziej efektywnym korzystaniu z telefonów. Kliknij Kreator konfiguracji, aby ustawić podstawowe ustawienia czytnika ekranu, kliknij Pomoc dotycząca uprawnień, aby wyświetlić politykę prywatności lub kliknij Wyjdź, aby zamknąć</string>
+    <string name="welcome_msg">Witamy w MS Vaani Screen Reader! To oprogramowanie ma na celu pomóc osobom niewidomym w bardziej efektywnym korzystaniu z telefonów. Kliknij Kreator konfiguracji, aby ustawić podstawowe ustawienia czytnika ekranu, kliknij Pomoc dotycząca uprawnień, aby wyświetlić politykę prywatności lub kliknij Wyjdź, aby zamknąć</string>
     <string name="wifi_level_1">Sygnał WiFi jedna kreska</string>
     <string name="wifi_level_2">Sygnał WiFi dwie kreski</string>
     <string name="wifi_level_3">Sygnał WiFi 3 kreski</string>

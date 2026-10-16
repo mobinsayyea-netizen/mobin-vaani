@@ -61,8 +61,8 @@
         <item>60</item>
     </string-array>
     <string-array name="code_help_items" formatted="false">
-        <item>"Naudodami Lua sintaksę ir Jieshuo Screenreader API, vienu gestu galite atlikti kelis veiksmus ir kurti turtingus papildinius.
- Jei esate susipažinę su lua ir androlua, galėsite sukurti gana sudėtingas funkcijas. Šiame skyriuje aprašoma tik Jieshuo Screenreader API."</item>
+        <item>"Naudodami Lua sintaksę ir MS Vaani Screen Reader API, vienu gestu galite atlikti kelis veiksmus ir kurti turtingus papildinius.
+ Jei esate susipažinę su lua ir androlua, galėsite sukurti gana sudėtingas funkcijas. Šiame skyriuje aprašoma tik MS Vaani Screen Reader API."</item>
         <item>"Bendra informacija
  paslauga: Prieinamumo paslaugos paslauga yra ekrano skaitytuvo pagrindas, ja pagrįsti visi kiti veiksmai."</item>
         <item>"parametro aprašymas
@@ -468,7 +468,7 @@ pirmiausia žemyn, tada kairėn - balso asistentas
  Paspaudimas nepalaikomas 6 ir senesnėse versijose Android, kuri yra skirta tik peržiūrai."</item>
         <item>"Teksto iš vaizdo atpažinimas (premium funkcija):
  Spustelėkite patvirtinimo kodą, įeikite į veiksmų meniu, suraskite Išplėstiniai nustatymai, Teksto iš vaizdo atpažinimas arba pasakykite balso asistentui „Atpažinti tekstą iš vaizdo“, palaikomas angliškų žodžių ar skaičių atpažinimas, atpažinimo rezultatas automatiškai nukopijuojamas į iškarpinę."</item>
-        <item>"Jieshuo kamera (Premium funkcija):
+        <item>"MS Vaani kamera (Premium funkcija):
  Dabar fotoaparatas atpažįsta tekstą, įvykius, gyvūnus, augalus, voliutas arba pateikia informaciją, kaip teisingai nukreipti fotoaparatą norint fotografuoti. Palaikoma tik galinė kamera. Norėdami fotografuoti, naudokite garso didinimo klavišą arba garso mažinimo klavišą, kad perjungtumėte režimus."</item>
         <item>"Greitas naršymas per sąrašo elementus:
  Atidarykite Programos nustatymai – Veiksmų nustatymai – Papildomi gestų nustatymai ir pažymėkite langelį Kairėn ir dešinėn, kad galėtumėte greitai naršyti per sąrašo elementus. Galite naudoti šią funkciją, pavyzdžiui, norėdami greitai pereiti per vaizdo įrašų sąrašą YouTube programoje."</item>

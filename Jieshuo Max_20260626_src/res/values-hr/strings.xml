@@ -6,7 +6,7 @@
     <string name="accessibility_focus_appearance">accessibility_focus_appearance</string>
     <string name="accessibility_focus_appearance_stroke">accessibility_focus_appearance_stroke</string>
     <string name="accessibility_focus_appearance_title">označavanje kursora</string>
-    <string name="accessibility_service_description">"Jieshuo čitač ekrana je program koji pomaže slijepima koristiti njihove mobilne telefone. Pokušali smo biti inovativni. Za više informacija, otvorite\\pomoć.
+    <string name="accessibility_service_description">"MS Vaani čitač ekrana je program koji pomaže slijepima koristiti njihove mobilne telefone. Pokušali smo biti inovativni. Za više informacija, otvorite\\pomoć.
  Sve dok ne kupite punu verziju, nećete moći koristiti neke funkcije. Za detalje, molimo kontaktirajte tehničku podršku u QQ grupi.
  
  Značajke: 
@@ -34,7 +34,7 @@
  Napredno označavanje teksta: po riječima, rečenicama, odlomcima. Označite točno određeni tekst, koji vam treba.
  I mnoge druge operacije koje možete izvršavati uz pomoć dodatnih glasovnih komandi.
  Automatski pokretani dodaci, uvijek imajte pokrenute sve svoje dodatke.
- Jieshuo je vaš neiscrpno konfigurabilan čitač zaslona!"</string>
+ MS Vaani je vaš neiscrpno konfigurabilan čitač zaslona!"</string>
     <string name="accessibility_service_description2">Glavna usluga i pomočna su iste. Ne treba ih uključivati u istovremeno.</string>
     <string name="accessibility_volume">accessibility_volume</string>
     <string name="action_menu_title">Izbornik radnji</string>
@@ -173,7 +173,7 @@
     <string name="camera_screen_down">spustite ekran</string>
     <string name="camera_screen_up">podignite ekran prema gore</string>
     <string name="camera_tag">Prepoznavanje scena</string>
-    <string name="camera_title">Jieshuo kamera</string>
+    <string name="camera_title">MS Vaani kamera</string>
     <string name="camera_top_move_far">udaljite</string>
     <string name="camera_top_move_near">približite</string>
     <string name="camera_top_up">podignite prema gore</string>
@@ -270,7 +270,7 @@
     <string name="cmd_description">Opis (15 riječi ili više)</string>
     <string name="cmd_manager">Upravitelj komandi</string>
     <string name="code_help">code_help</string>
-    <string name="code_help_title">Jieshuo referenca API za razvojne programere</string>
+    <string name="code_help_title">MS Vaani referenca API za razvojne programere</string>
     <string name="command_accept_call">Odgovori</string>
     <string name="command_accessibility_service_setting">Postavke pristupačnosti</string>
     <string name="command_action_setting">Postavke radnji</string>
@@ -759,7 +759,7 @@
     <string name="has_vip_summary_gesture">Ove se geste ne mogu prilagođavati u besplatnoj inačici programa</string>
     <string name="help">help</string>
     <string name="help_feed">help_feed</string>
-    <string name="help_feed_summary">Jieshuo čitač ekrana koristi nekoliko tehnoloških rješenja treće strane: Tencent AI, Baidu AI, Baidu TTS, Baidu Translator, Baidu MTS, Andro LUA Plus, itd.</string>
+    <string name="help_feed_summary">MS Vaani čitač ekrana koristi nekoliko tehnoloških rješenja treće strane: Tencent AI, Baidu AI, Baidu TTS, Baidu Translator, Baidu MTS, Andro LUA Plus, itd.</string>
     <string name="help_feed_title">Pomoć i povratne informacije</string>
     <string name="help_title">Zaslon pomoći</string>
     <string name="helper_manager_title">Raširene postavke Glasovnog pomoćnika</string>
@@ -813,8 +813,8 @@
     <string name="item_current_count" formatted="false">%d od %d</string>
     <string name="item_from_to_count" formatted="false">Prikazujem stavke %d do %d od ukupno %d</string>
     <string name="jieshuo_bbs">jieshuo_bbs</string>
-    <string name="jieshuo_bbs_summary">Pošaljite vašu povratnu informaciju o Jieshuo čitaču ekrana na našem forumu</string>
-    <string name="jieshuo_bbs_title">Jieshuo forum</string>
+    <string name="jieshuo_bbs_summary">Pošaljite vašu povratnu informaciju o MS Vaani čitaču ekrana na našem forumu</string>
+    <string name="jieshuo_bbs_title">MS Vaani forum</string>
     <string name="jieshuo_beta_title">Beta verzije</string>
     <string name="keep_focus_position">keep_focus_position</string>
     <string name="keep_focus_position_speak">keep_focus_position_speak</string>
@@ -949,7 +949,7 @@
     <string name="message_title">Upozorenje</string>
     <string name="message_voice_feedback_paused">Glasovna povratna informacija je privremeno isključena.</string>
     <string name="message_voice_feedback_resume">Glasovne funkcije su ponovno uključene</string>
-    <string name="message_welcome">Jieshuo je spreman!</string>
+    <string name="message_welcome">MS Vaani je spreman!</string>
     <string name="min">minuta</string>
     <string name="more">više</string>
     <string name="more_setting">Više postavki</string>
@@ -1022,8 +1022,8 @@
     <string name="msg_gesture_updated">Tema gesti je osvježena</string>
     <string name="msg_gestures_empty">mapa gesti je prazna</string>
     <string name="msg_has_enabled">Molimo najprije isključite jieshuo</string>
-    <string name="msg_has_not_enabled">Jieshuo još nije uključen. program će raditi samo poslije uključenja odgovarajuće usluge pristupačnosti. Želite li uključiti Jieshuo sada? Takožer možete to učiniti poslije u postavkama pristupačnosti.</string>
-    <string name="msg_has_not_enabled_33">Upozorenje: ako koristite Android 13, poslije prvog pokretanja Jieshuo u postavkama pristupačnosti možete dobiti obavijest, da je ta akcija zablokirana iz sigurnosnih razloga. Poslije zatvaranja tog dijaloškog okvira, molimo otvorite dijaloški okvir informacija o aplikaciji Jieshuo, pritisnite u desnom gornjem kutu ekrana gumb više i izaberite stavku dozvoliti ograničene postavke. Poslije toga opet uključite Jieshuo u postavkama pristupačnosti. Ako koristite Android 13, ali niste dobili takvu obavijest, ignorirajte ovo upozorenje.</string>
+    <string name="msg_has_not_enabled">MS Vaani još nije uključen. program će raditi samo poslije uključenja odgovarajuće usluge pristupačnosti. Želite li uključiti MS Vaani sada? Takožer možete to učiniti poslije u postavkama pristupačnosti.</string>
+    <string name="msg_has_not_enabled_33">Upozorenje: ako koristite Android 13, poslije prvog pokretanja MS Vaani u postavkama pristupačnosti možete dobiti obavijest, da je ta akcija zablokirana iz sigurnosnih razloga. Poslije zatvaranja tog dijaloškog okvira, molimo otvorite dijaloški okvir informacija o aplikaciji MS Vaani, pritisnite u desnom gornjem kutu ekrana gumb više i izaberite stavku dozvoliti ograničene postavke. Poslije toga opet uključite MS Vaani u postavkama pristupačnosti. Ako koristite Android 13, ali niste dobili takvu obavijest, ignorirajte ovo upozorenje.</string>
     <string name="msg_has_storage">Ova značajka zahtjeva pristup memoriji. Molimo dozvolite to pravo ili obustavite proces</string>
     <string name="msg_has_vip_auto_speak">Korisnici koji koriste besplatnu verziju mogu samo čitati poruke na QQ messengeru automatski.</string>
     <string name="msg_has_vip_dict">Besplatni korisnici mogu imati do 5 pet stavaka u rječniku.</string>
@@ -1034,7 +1034,7 @@
     <string name="msg_hotkey_backup_done">Tipkovnički prečaci su uspješno kopirani</string>
     <string name="msg_hotkey_backup_error">Dogodila se pogreška prilikom kopiranja tema tipkovnice</string>
     <string name="msg_import">Uvezeno %s</string>
-    <string name="msg_import_all">Ova će radnja nadpisati sve vaše resurse Jieshuo i postavke</string>
+    <string name="msg_import_all">Ova će radnja nadpisati sve vaše resurse MS Vaani i postavke</string>
     <string name="msg_import_strings">Pri uvozu datoteke prijevoda vaše vlastite postavke prijevoda sučelja bit će zamijenjene. Možete ih sačuvati tako da ih najprije uvezete u datoteku lokalizacije.</string>
     <string name="msg_in_game_mode">Modus igrica je uključen.</string>
     <string name="msg_invite_code_error">Pozivnica je neispravna</string>
@@ -1136,7 +1136,7 @@
     <string name="msg_stop_video_description">Opis videa je zaustavljen.</string>
     <string name="msg_supper_cmd_only_voice_helper">Napredne glasnovne komande mogu se koristiti samo u glasovnom pomočćniku</string>
     <string name="msg_supper_mode">način veće pažnje</string>
-    <string name="msg_talkback_enabled">Uključili ste TalkBack. Kada su Jieshuo i TalkBack uključeni, to može prouzročiti nepravilan rad gesti. Poslije isključenja Talkback Molimo ponovo uključite istraživanje dodirom u Jieshuo.</string>
+    <string name="msg_talkback_enabled">Uključili ste TalkBack. Kada su MS Vaani i TalkBack uključeni, to može prouzročiti nepravilan rad gesti. Poslije isključenja Talkback Molimo ponovo uključite istraživanje dodirom u MS Vaani.</string>
     <string name="msg_text_changed">Sadržaj se promijenio</string>
     <string name="msg_timer_backup_done">Oznake tajmera su uspješno kopirane</string>
     <string name="msg_timer_backup_error">Dogodila se pogreška prilikom sigurnosnog kopiranja oznaka tajmera</string>
@@ -1231,7 +1231,7 @@
     <string name="notification_in_call_no_speak_title">Tijekom poziva ne čitaj obavijesti</string>
     <string name="notification_in_touch_no_speak">notification_in_touch_no_speak</string>
     <string name="notification_in_touch_no_speak_title">Ne čitaj dolazne obavijesti kada je govor uključen.</string>
-    <string name="notification_listener_summary">Ako uključite ovu značajku, Jieshuo će dobiti puni pristup dolazećim obavijestima. Obrada obavijesti bit će stabilnija te ćete tako biti detaljnije izvještavani o novim obavijestima.</string>
+    <string name="notification_listener_summary">Ako uključite ovu značajku, MS Vaani će dobiti puni pristup dolazećim obavijestima. Obrada obavijesti bit će stabilnija te ćete tako biti detaljnije izvještavani o novim obavijestima.</string>
     <string name="notification_listener_title">Dozvoli dodatna prava za pristup obavijestima</string>
     <string name="notification_select_title">Postavke čitanja obavijesti</string>
     <string name="notification_setting">notification_setting</string>
@@ -1325,7 +1325,7 @@
     <string name="only_screen_on">Samo kada je zaslon otključan</string>
     <string name="open">Otvori</string>
     <string name="open_application_info">open_application_info</string>
-    <string name="open_application_info_title">Otvorite stranicu o Jieshuo čitaču zaslona</string>
+    <string name="open_application_info_title">Otvorite stranicu o MS Vaani čitaču zaslona</string>
     <string name="open_project">Otvori projekt</string>
     <string name="open_setup_setting">open_setup_setting</string>
     <string name="open_setup_setting_title">Otvorite postavke prvog pokretanja.</string>
@@ -1373,9 +1373,9 @@
     <string name="punctuation_none">Ništa</string>
     <string name="qq_group">qq_group</string>
     <string name="qq_group2">qq_group2</string>
-    <string name="qq_group2_title">QQ grupa Jieshuo čitača ekrana</string>
+    <string name="qq_group2_title">QQ grupa MS Vaani čitača ekrana</string>
     <string name="qq_group_summary">Diskutirajte o programu ili ga kupite</string>
-    <string name="qq_group_title">Službena QQ grupa Jieshuo čitača ekrana</string>
+    <string name="qq_group_title">Službena QQ grupa MS Vaani čitača ekrana</string>
     <string name="questions_answers">questions_answers</string>
     <string name="questions_answers_title">Čpp</string>
     <string name="quick_menu_title">Brzi izbornik</string>
@@ -1501,12 +1501,12 @@
     <string name="setup_plugin">setup_plugin</string>
     <string name="setup_plugin_title">Automatski pokrenuti dodaci</string>
     <string name="setup_setting">setup_setting</string>
-    <string name="setup_setting_alarm_permission_msg">Jieshuo koristi dozvolu za pristup alarmu kako bi funkcije glasovnog sata i planera radile</string>
+    <string name="setup_setting_alarm_permission_msg">MS Vaani koristi dozvolu za pristup alarmu kako bi funkcije glasovnog sata i planera radile</string>
     <string name="setup_setting_battery_permission_msg">Ignoriranje optimizacije baterije pomaže pri boljem funkcioniranju čitača ekrana.</string>
     <string name="setup_setting_continue">Nastavi s podešavanjem.</string>
     <string name="setup_setting_done">Podešavanje je gotovo.</string>
     <string name="setup_setting_done_msg">možete postaviti općenite >ponovno pokrenuti čarobnjak za podešavanje.</string>
-    <string name="setup_setting_file_permission_msg">Jieshuo koristi pristup sustavu datoteka kako biste mogli spremati dodatke, zvučne teme, podatke rezervnih kopija i drugo.</string>
+    <string name="setup_setting_file_permission_msg">MS Vaani koristi pristup sustavu datoteka kako biste mogli spremati dodatke, zvučne teme, podatke rezervnih kopija i drugo.</string>
     <string name="setup_setting_get_permission">Dohvati prava</string>
     <string name="setup_setting_has_alarm_permission">Pristup alarmu i obavijestima je već dan</string>
     <string name="setup_setting_has_battery_permission">Pravo ignoriranja optimizacije baterije je dohvaćeno.</string>
@@ -1536,7 +1536,7 @@
     <string name="share_all">Podijeli sve</string>
     <string name="shared_cloud_label">Pošalji prilagođene oznake u oblak</string>
     <string name="show_download">show_download</string>
-    <string name="show_download_title">Preuzmite Jieshuo</string>
+    <string name="show_download_title">Preuzmite MS Vaani</string>
     <string name="show_volume_ui">show_volume_ui</string>
     <string name="show_volume_ui_title">Prikaži panel glasnoće sustava kada se podešava glasnoća</string>
     <string name="sign_done">Registracija je završena</string>
@@ -1592,8 +1592,8 @@
     <string name="sound_scroll_top">Prelazak na početak</string>
     <string name="sound_scroll_up">Pomicanej prema gore</string>
     <string name="sound_settings_title">Prilagodi zvučnu temu</string>
-    <string name="sound_talkman_start">Jieshuo je uključen</string>
-    <string name="sound_talkman_stop">Jieshuo je isključen</string>
+    <string name="sound_talkman_start">MS Vaani je uključen</string>
+    <string name="sound_talkman_stop">MS Vaani je isključen</string>
     <string name="sound_tick">Tajmer sound</string>
     <string name="sound_timer_end">Završi mjerenje</string>
     <string name="sound_timer_start">Započni mjerenje</string>
@@ -1843,9 +1843,9 @@
     <string name="use_accessibility_volume_summary">Glasnoća čitača ekrana bit će kontrolirana glasnoćom pristupačnosti umesto glasnoće multimedije. Upozorenje! Ovo podržava samo govorna jedinica sustava</string>
     <string name="use_accessibility_volume_title">Koristi glasnoću pristupačnosti</string>
     <string name="use_action_menu_show_cursor">use_action_menu_show_cursor</string>
-    <string name="use_action_menu_show_cursor_title">Pokazivati akcije elementa u izborniku akcije Jieshuo</string>
+    <string name="use_action_menu_show_cursor_title">Pokazivati akcije elementa u izborniku akcije MS Vaani</string>
     <string name="use_action_menu_show_ext">use_action_menu_show_ext</string>
-    <string name="use_action_menu_show_ext_title">Dozvoljava prikaz u izborniku akcija Jieshuo dodatne akcije (na primjer, upravljanje trakama napredka ili otvaranje linkova(, ako su dostupni za fokusirani element.</string>
+    <string name="use_action_menu_show_ext_title">Dozvoljava prikaz u izborniku akcija MS Vaani dodatne akcije (na primjer, upravljanje trakama napredka ili otvaranje linkova(, ako su dostupni za fokusirani element.</string>
     <string name="use_add_async_tts">use_add_async_tts</string>
     <string name="use_add_async_tts_summary">Ako postoji više od jedne obavjesti koja mora biti pročitana, govor neće biti prekinut. Ova opcija ne podržava način jedne govorne jedinice</string>
     <string name="use_add_async_tts_title">Skladišti obavijesti za čitanje:</string>
@@ -1938,7 +1938,7 @@
     <string name="use_float_menu_title">Koristi plivajući izbornik</string>
     <string name="use_foreground">use_foreground</string>
     <string name="use_foreground_pro">use_foreground_pro</string>
-    <string name="use_foreground_pro_summary">Postavlja Jieshuo iznad drugih programa, pomaže pri učitavanu govornih jedinica na zaključanom zaslonu</string>
+    <string name="use_foreground_pro_summary">Postavlja MS Vaani iznad drugih programa, pomaže pri učitavanu govornih jedinica na zaključanom zaslonu</string>
     <string name="use_foreground_pro_title">Napredna zaštita protiv zaključavanja</string>
     <string name="use_foreground_summary">Ako je zaslon prečesto zaključavan, oznaćite ovu opciju</string>
     <string name="use_foreground_title">Koristi čuvar zaslona</string>
@@ -1947,7 +1947,7 @@
     <string name="use_game_mode_no_speak">use_game_mode_no_speak</string>
     <string name="use_game_mode_no_speak_title">Onemogući govor u načini igranja</string>
     <string name="use_gesture_detection">use_gesture_detection</string>
-    <string name="use_gesture_detection_title">在解说中处理手势</string>
+    <string name="use_gesture_detection_title">在MS Vaani中处理手势</string>
     <string name="use_headset_key">use_headset_key</string>
     <string name="use_headset_key_summary">Pritisnite gumb na slušalicama, kako biste došli do sljedeće stavke, Pritisnite gumb duže za aktivaciju glasovnog pomoćnika.</string>
     <string name="use_headset_key_title">Koristi gumb na slušalicama za kontrolu čitača ekrana:</string>
@@ -1992,7 +1992,7 @@
     <string name="use_left_right">use_left_right</string>
     <string name="use_left_right_double_fling_gesture">use_left_right_double_fling_gesture</string>
     <string name="use_left_right_double_fling_gesture_title">Koristi višedijelnu gestu lijevo desno</string>
-    <string name="use_left_right_msg">Jieshuo čitač ekrana podržava različite načine kretanja. Podrazumjevani je način korištenja povlačenjem prsta gore i dolje. Međutim, ako ste navikli na povlačenje prstom lijevo i desno možete ga postaviti ovdje također. Povucite u lijevo za korištenje podrazumjevane geste, ili u desno za korištenje alternativnih gesti.</string>
+    <string name="use_left_right_msg">MS Vaani čitač ekrana podržava različite načine kretanja. Podrazumjevani je način korištenja povlačenjem prsta gore i dolje. Međutim, ako ste navikli na povlačenje prstom lijevo i desno možete ga postaviti ovdje također. Povucite u lijevo za korištenje podrazumjevane geste, ili u desno za korištenje alternativnih gesti.</string>
     <string name="use_left_right_no">Koristim podrazumijevanu temu gesti.</string>
     <string name="use_left_right_ok">Koristim alternativnu temu gesti.</string>
     <string name="use_left_right_summary">"Kada se koristi podrazumjevana tema gesti, mijenjanje fokusa s povlačenjem lijevo-desno, izvršava funkcije prečaca sa povlačenjem gore'dolje."</string>
@@ -2089,7 +2089,7 @@
     <string name="use_raw_click_summary">U androidu 7 i novijem, može riješiti problem aplikacija koje ne reagiruju na ulazne geste</string>
     <string name="use_raw_click_title">Koristi izravan klik umjesto pristupačnog</string>
     <string name="use_recording_stop">use_recording_stop</string>
-    <string name="use_recording_stop_title">Utišaj Jieshuo prilikom snimanja zvuka</string>
+    <string name="use_recording_stop_title">Utišaj MS Vaani prilikom snimanja zvuka</string>
     <string name="use_reverse_scroll_home_page">use_reverse_scroll_home_page</string>
     <string name="use_reverse_scroll_home_page_title">在桌面翻页时反转翻页方向</string>
     <string name="use_right_double_fling_gesture">use_right_double_fling_gesture</string>
@@ -2394,10 +2394,10 @@
     <string name="view_type_move">view_type_move</string>
     <string name="view_type_move_title">Odaberite tip navigacije koji će se koristiti na standardnim kontrolama.</string>
     <string name="vip_qq_group">vip_qq_group</string>
-    <string name="vip_qq_group_title">Jieshuo VBP QQ grupa</string>
+    <string name="vip_qq_group_title">MS Vaani VBP QQ grupa</string>
     <string name="vip_qq_kefu">vip_qq_kefu</string>
     <string name="vip_qq_kefu_summary">Ovdje možete dobiti podršku i kupiti čitač zaslona</string>
-    <string name="vip_qq_kefu_title">Jieshuo podrška</string>
+    <string name="vip_qq_kefu_title">MS Vaani podrška</string>
     <string name="voice_app_name">Glasovni pomoćnik</string>
     <string name="voice_cmd_call">Poziv</string>
     <string name="voice_cmd_input">Ulaz</string>
@@ -2467,10 +2467,10 @@
     <string name="vr_dialog_title">Važna informacija</string>
     <string name="waiting">Čekam</string>
     <string name="wake_lock">wake_lock</string>
-    <string name="wallpaper_description">Ako ne želite davati dodatna prava, molimo postavite Jieshuo čitač zaslona kao vašu pozadinu</string>
-    <string name="wallpaper_summary">Neki telefoni podrazumjevano imaju omogućena stroga ograničenja baterije. Ako modul optimizacije baterije nasilno ugasi čitač zaslona, uključenjem ove opcije Jieshuo čitač zaslona bizt će postavljen kao pozadina, što će smanjiti mogučnost tog neželjenog događaja</string>
-    <string name="wallpaper_title">Koristi Jieshuo pozadinu (Beta)</string>
-    <string name="web_app_name">Jieshuo Internetski preglednik</string>
+    <string name="wallpaper_description">Ako ne želite davati dodatna prava, molimo postavite MS Vaani čitač zaslona kao vašu pozadinu</string>
+    <string name="wallpaper_summary">Neki telefoni podrazumjevano imaju omogućena stroga ograničenja baterije. Ako modul optimizacije baterije nasilno ugasi čitač zaslona, uključenjem ove opcije MS Vaani čitač zaslona bizt će postavljen kao pozadina, što će smanjiti mogučnost tog neželjenog događaja</string>
+    <string name="wallpaper_title">Koristi MS Vaani pozadinu (Beta)</string>
+    <string name="web_app_name">MS Vaani Internetski preglednik</string>
     <string name="web_are_you_open">Dozvoljavate li otvaranje?</string>
     <string name="web_back">Nazad</string>
     <string name="web_copy_url">Kopirati adresu URL</string>
@@ -2483,7 +2483,7 @@
     <string name="web_type_move">web_type_move</string>
     <string name="web_type_move_title">Odaberite tip navigacije koji će se koristiti na web stranicama</string>
     <string name="welcome">welcome</string>
-    <string name="welcome_msg">Dobro došli u Jieshuo čitač ekrana. Najbolji čitač ekrana za Android operativni sustav. Izaberite jednu od tri opcija: Čarobnjak za postavljanje: konfigurirajte postavke kako biste brzo započeli korištenje. Kliknite na gumb pogledaj prava kako biste vidjeli različita prava i završi za zatvaranje čarobnjaka.</string>
+    <string name="welcome_msg">Dobro došli u MS Vaani čitač ekrana. Najbolji čitač ekrana za Android operativni sustav. Izaberite jednu od tri opcija: Čarobnjak za postavljanje: konfigurirajte postavke kako biste brzo započeli korištenje. Kliknite na gumb pogledaj prava kako biste vidjeli različita prava i završi za zatvaranje čarobnjaka.</string>
     <string name="wifi_level_1">1 crtica сигналу Wi-Fija</string>
     <string name="wifi_level_2">2 crtice signala Wi-Fija</string>
     <string name="wifi_level_3">3 crtice signala Wi-Fija</string>

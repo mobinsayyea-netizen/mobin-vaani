@@ -6,7 +6,7 @@
     <string name="accessibility_focus_appearance">accessibility_focus_appearance</string>
     <string name="accessibility_focus_appearance_stroke">accessibility_focus_appearance_stroke</string>
     <string name="accessibility_focus_appearance_title">Configuración del cuadro indicador de enfoque</string>
-    <string name="accessibility_service_description">"Jieshuo es un programa lector de pantalla que ayudará a las personas ciegas a usar sus teléfonos móviles. Hicimos algunos intentos de innovación. Para más detalles abrir configuración \\ ayuda.
+    <string name="accessibility_service_description">"MS Vaani es un programa lector de pantalla que ayudará a las personas ciegas a usar sus teléfonos móviles. Hicimos algunos intentos de innovación. Para más detalles abrir configuración \\ ayuda.
  Algunas funciones están restringidas hasta que compres la membresía. Para más detalles, contacta con el servicio al cliente en los grupos oficiales de qq, Whatsapp y Telegram, en ayuda y comentarios.
  
  Funciones: 
@@ -33,8 +33,8 @@
  Selección avanzada de texto: por palabra, frase, párrafo. Selecciona exactamente el texto que necesitas.
  Varias operaciones facilitadas por comandos de voz adicionales.
  Ejecución de plugins de manera automática, Tendrás tus plugins accesibles por ti.
- ¡Jieshuo es tu lector de pantallas configurable e infinitamente flexible!"</string>
-    <string name="accessibility_service_description2">解说辅助服务和主服务功能完全相同，主要用于部分会检测读屏服务名的场景，两个服务不需要同时开启。</string>
+ ¡MS Vaani es tu lector de pantallas configurable e infinitamente flexible!"</string>
+    <string name="accessibility_service_description2">MS Vaani辅助服务和主服务功能完全相同，主要用于部分会检测读屏服务名的场景，两个服务不需要同时开启。</string>
     <string name="accessibility_volume">accessibility_volume</string>
     <string name="action_menu_title">Menú de acciones</string>
     <string name="action_setting">action_setting</string>
@@ -67,7 +67,7 @@
     <string name="alarm_settings_title">Configuración de tiempo</string>
     <string name="alarm_start_hour">alarm_start_hour</string>
     <string name="alarm_start_hour_title">Hora de iniciar</string>
-    <string name="album_activity">Álbum de Jieshuo</string>
+    <string name="album_activity">Álbum de MS Vaani</string>
     <string name="all">Todo</string>
     <string name="all_description">全能识别</string>
     <string name="all_notification_count">Total de notificaciones %d</string>
@@ -178,7 +178,7 @@
     <string name="camera_screen_down">Abajo de la pantalla</string>
     <string name="camera_screen_up">arriba de la pantalla</string>
     <string name="camera_tag">Reconocer los paisajes</string>
-    <string name="camera_title">Cámara de Jieshuo</string>
+    <string name="camera_title">Cámara de MS Vaani</string>
     <string name="camera_top_move_far">alejarse</string>
     <string name="camera_top_move_near">Acercarse</string>
     <string name="camera_top_up">de abajo a arriba</string>
@@ -205,7 +205,7 @@
     <string name="check_overlay_permissions">check_overlay_permissions</string>
     <string name="check_overlay_permissions_title">Comprobar permisos de superposición, usado para mostrarse sobre otras aplicaciones</string>
     <string name="check_permissions">check_permissions</string>
-    <string name="check_permissions_msg">Jieshuo requiere algunos permisos básicos para funcionar, como el permiso de almacenamiento para usar temas de sonido. Haz click en siguiente para otorgar estos permisos. Estos son los permisos básicos del software. Al hacer click en cancelar, se cerrará el programa.</string>
+    <string name="check_permissions_msg">MS Vaani requiere algunos permisos básicos para funcionar, como el permiso de almacenamiento para usar temas de sonido. Haz click en siguiente para otorgar estos permisos. Estos son los permisos básicos del software. Al hacer click en cancelar, se cerrará el programa.</string>
     <string name="check_permissions_title">Comprobar permisos</string>
     <string name="check_read_phone_state_permission">Verifica la validez de los permisos</string>
     <string name="check_update">check_update</string>
@@ -462,7 +462,7 @@
     <string name="content_setting_title">Configuración de contenido</string>
     <string name="continue_run">Continuar ejecución</string>
     <string name="continuous_recognition">reconocimiento continuo</string>
-    <string name="copy_as_jieshuo_cmd">copiar como función de Jieshuo</string>
+    <string name="copy_as_jieshuo_cmd">copiar como función de MS Vaani</string>
     <string name="copy_text_auto_execute">"copiar el texto s'ejecutar automáticamente"</string>
     <string name="copy_username_and_userid">Copiar nombre de usuario e ID de usuario.</string>
     <string name="create">Crear</string>
@@ -626,7 +626,7 @@
     <string name="edge_gesture_width">edge_gesture_width</string>
     <string name="edge_gesture_width_title">Rango de activación del gesto de borde</string>
     <string name="edit">editar</string>
-    <string name="edit_activity">Editor-Jieshuo</string>
+    <string name="edit_activity">Editor-MS Vaani</string>
     <string name="edit_app_profiles_title">编辑单应用情景模式</string>
     <string name="edit_box_no_found">Cuadro de edición no encontrado</string>
     <string name="edit_button">Introducir una lista de botones (uno por línea)</string>
@@ -770,12 +770,12 @@
     <string name="has_vip_summary_gesture">Algunos de estos gestos no se pueden personalizar en la versión gratuita del programa</string>
     <string name="help">help</string>
     <string name="help_feed">help_feed</string>
-    <string name="help_feed_summary">Jieshuo utiliza algunas tecnologías de terceros: Tencent youtu, Tencent AI, Baidu AI, Baidu TTS, Baidu Translator, Baidu MTS, Baidu Voice, Baidu LBS, Baidu MTJ, Cloud Voice, Turing, Andro LUA Plus, entre otros.</string>
+    <string name="help_feed_summary">MS Vaani utiliza algunas tecnologías de terceros: Tencent youtu, Tencent AI, Baidu AI, Baidu TTS, Baidu Translator, Baidu MTS, Baidu Voice, Baidu LBS, Baidu MTJ, Cloud Voice, Turing, Andro LUA Plus, entre otros.</string>
     <string name="help_feed_title">Ayuda y comentarios</string>
     <string name="help_title">Pantalla de ayuda</string>
     <string name="helper_manager_title">Configuración extendida del asistente de voz</string>
     <string name="helper_supper_cmd_title">超级语音指令</string>
-    <string name="helper_tts_setting_title">语音助手与解说相机语音设置</string>
+    <string name="helper_tts_setting_title">语音助手与MS Vaani相机语音设置</string>
     <string name="hide_dialog">Ocultar cuadro de diálogo</string>
     <string name="hint_activated">Para activar</string>
     <string name="hint_change_rating">Desliza a la izquierda o a la derecha para cambiar la calificación.</string>
@@ -803,8 +803,8 @@
     <string name="hot_key_summary">Pulsa las teclas para configurarlas. No se admiten teclas de letras y de números separados.</string>
     <string name="hour">hora</string>
     <string name="hover_stat_info" formatted="false">Enfoque táctil %d veces, UN promedio de %d milisegundos.</string>
-    <string name="ignore_battery">Por favor, permite que Jieshuo ignore la optimización de la batería de Android.</string>
-    <string name="import_all_title">导入解说完整备份吗</string>
+    <string name="ignore_battery">Por favor, permite que MS Vaani ignore la optimización de la batería de Android.</string>
+    <string name="import_all_title">导入MS Vaani完整备份吗</string>
     <string name="import_file">Importar</string>
     <string name="import_voice_description">Import an eSpeak voice dictionary file from the SD card.</string>
     <string name="import_voice_title">Import eSpeak dictionary</string>
@@ -824,8 +824,8 @@
     <string name="item_current_count" formatted="false">%d de %d</string>
     <string name="item_from_to_count" formatted="false">Mostrando elementos del %d al %d. %d en total</string>
     <string name="jieshuo_bbs">jieshuo_bbs</string>
-    <string name="jieshuo_bbs_summary">Comparte retroalimentación de Jieshuo en nuestro foro</string>
-    <string name="jieshuo_bbs_title">Foro de Jieshuo</string>
+    <string name="jieshuo_bbs_summary">Comparte retroalimentación de MS Vaani en nuestro foro</string>
+    <string name="jieshuo_bbs_title">Foro de MS Vaani</string>
     <string name="jieshuo_beta_title">内测下载</string>
     <string name="keep_focus_position">keep_focus_position</string>
     <string name="keep_focus_position_speak">keep_focus_position_speak</string>
@@ -960,7 +960,7 @@
     <string name="message_title">pista</string>
     <string name="message_voice_feedback_paused">Se suspendió la respuesta de voz.</string>
     <string name="message_voice_feedback_resume">Se reanudó la respuesta de voz</string>
-    <string name="message_welcome">¡Bienvenido a Jieshuo!</string>
+    <string name="message_welcome">¡Bienvenido a MS Vaani!</string>
     <string name="min">minuto</string>
     <string name="more">Más</string>
     <string name="more_setting">Más configuraciones</string>
@@ -1035,8 +1035,8 @@
     <string name="msg_gesture_updated">se completó la actualización del tema de gestos</string>
     <string name="msg_gestures_empty">Sin gestos</string>
     <string name="msg_has_enabled">Habilite jieshuo primero</string>
-    <string name="msg_has_not_enabled">Jieshuo aún no se ha iniciado y el servicio solo se puede proporcionar después de que la función de accesibilidad habilite Jieshuo. ¿Desea ir a la función de accesibilidad para iniciar Jieshuo inmediatamente? También puede activarlo más tarde en la configuración de accesibilidad</string>
-    <string name="msg_has_not_enabled_33">Tenga en cuenta que si es un usuario de Android 13, cuando inicia Jieshuo por primera vez en configuración y Accesibilidad, puede aparecer un cuadro de diálogo de configuración restringida que indica que esta configuración no está disponible por razones de seguridad. Después de hacer clic en el botón de confirmación, abra la información de la aplicación de Jieshuo, haga clic en más opciones en la esquina superior derecha, luego haga clic en Permitir configuraciones restringidas y luego vaya a configuración y Accesibilidad nuevamente para habilitar Jieshuo, si el aviso anterior no aparece en el dispositivo, se puede ignorar esta instrucción.</string>
+    <string name="msg_has_not_enabled">MS Vaani aún no se ha iniciado y el servicio solo se puede proporcionar después de que la función de accesibilidad habilite MS Vaani. ¿Desea ir a la función de accesibilidad para iniciar MS Vaani inmediatamente? También puede activarlo más tarde en la configuración de accesibilidad</string>
+    <string name="msg_has_not_enabled_33">Tenga en cuenta que si es un usuario de Android 13, cuando inicia MS Vaani por primera vez en configuración y Accesibilidad, puede aparecer un cuadro de diálogo de configuración restringida que indica que esta configuración no está disponible por razones de seguridad. Después de hacer clic en el botón de confirmación, abra la información de la aplicación de MS Vaani, haga clic en más opciones en la esquina superior derecha, luego haga clic en Permitir configuraciones restringidas y luego vaya a configuración y Accesibilidad nuevamente para habilitar MS Vaani, si el aviso anterior no aparece en el dispositivo, se puede ignorar esta instrucción.</string>
     <string name="msg_has_storage">Esta función requiere que los archivos se almacenen en El almacenamiento interno, otorga permisos de almacenamiento o sal de la función</string>
     <string name="msg_has_vip_auto_speak">Los usuarios gratuitos solo admiten la lectura automática de mensajes QQ</string>
     <string name="msg_has_vip_dict">Solo se pueden agregar 5 elementos en la versión gratuita del programa</string>
@@ -1047,7 +1047,7 @@
     <string name="msg_hotkey_backup_done">Copia de seguridad de los atajos de teclado completada</string>
     <string name="msg_hotkey_backup_error">Error al hacer la copia de seguridad de los atajos de teclado</string>
     <string name="msg_import">%s importado</string>
-    <string name="msg_import_all">此操作会覆盖你的解说全部设置和资源</string>
+    <string name="msg_import_all">此操作会覆盖你的MS Vaani全部设置和资源</string>
     <string name="msg_import_strings">La traducción del idioma de importación sobrescribirá y fusionará la configuración de su idioma, puede exportar su propia configuración primero y luego importar, ya sea para importar directamente</string>
     <string name="msg_in_game_mode">has entrado en el modo de juego</string>
     <string name="msg_invite_code_error">邀请码不正确</string>
@@ -1079,7 +1079,7 @@
     <string name="msg_open_error">error al abrir</string>
     <string name="msg_open_file_not_supported">no se admite abrir este tipo de archivos</string>
     <string name="msg_plugin_empty">el directorio de los plugins está vacío</string>
-    <string name="msg_plugin_run_error">Activa Jieshuo en accesibilidad antes de ejecutar el plugin</string>
+    <string name="msg_plugin_run_error">Activa MS Vaani en accesibilidad antes de ejecutar el plugin</string>
     <string name="msg_plugins_empty">Sin plugins</string>
     <string name="msg_press_again_exit">presiona de nuevo para salir</string>
     <string name="msg_read_done">leer completo</string>
@@ -1245,14 +1245,14 @@
     <string name="notification_in_call_no_speak_title">No Leer notificaciones durante las llamadas.</string>
     <string name="notification_in_touch_no_speak">notification_in_touch_no_speak</string>
     <string name="notification_in_touch_no_speak_title">detener la lectura de notificaciones al tocar la pantalla</string>
-    <string name="notification_listener_summary">Después de obtener el permiso de acceso a las notificaciones, Jieshuo puede leer las notificaciones de manera más estable.</string>
+    <string name="notification_listener_summary">Después de obtener el permiso de acceso a las notificaciones, MS Vaani puede leer las notificaciones de manera más estable.</string>
     <string name="notification_listener_title">Acceso a notificaciones</string>
     <string name="notification_select_title">Tipos de notificaciones</string>
     <string name="notification_setting">notification_setting</string>
     <string name="notification_settings_title">Configuración de notificaciones</string>
     <string name="notification_speak">notification_speak</string>
     <string name="notification_speak2">notification_speak2</string>
-    <string name="notification_speak_msg">Leer notificaciones permite a Jieshuo leer las notificaciones entrantes en tiempo real. Si necesitas esta información, haz click en leer notificaciones. Haz click en no leer notificaciones para evitar interrupciones. Las notificaciones también se pueden ver en el cuadro de notificaciones.</string>
+    <string name="notification_speak_msg">Leer notificaciones permite a MS Vaani leer las notificaciones entrantes en tiempo real. Si necesitas esta información, haz click en leer notificaciones. Haz click en no leer notificaciones para evitar interrupciones. Las notificaciones también se pueden ver en el cuadro de notificaciones.</string>
     <string name="notification_speak_no">No leer notificaciones</string>
     <string name="notification_speak_ok">Leer notificaciones</string>
     <string name="notification_speak_title">Leer notificaciones:</string>
@@ -1385,7 +1385,7 @@ end)"</string>
     <string name="only_screen_on">Sólo con pantalla encendida</string>
     <string name="open">Abrir</string>
     <string name="open_application_info">open_application_info</string>
-    <string name="open_application_info_title">Abrir información de la aplicación Jieshuo</string>
+    <string name="open_application_info_title">Abrir información de la aplicación MS Vaani</string>
     <string name="open_project">Abrir proyecto</string>
     <string name="open_setup_setting">open_setup_setting</string>
     <string name="open_setup_setting_title">Abrir la configuración de arranque</string>
@@ -1411,7 +1411,7 @@ end)"</string>
  Accesos directos en el escritorio: Se usa para los plugins, herramientas y extensiones, aplicaciones ligeras, proporciona funciones agregadas al escritorio para facilitar el inicio.
  Instalar apps desconocidas: Se usa para la actualización automática del programa.
  Acceso a la red: Autenticación de usuario, reconocimiento de imagen, etiquetas en la nube y reconocimiento de voz.
- Ejecutarse al inicio: Permite iniciar Jieshuo tan pronto se inicie el dispositivo.
+ Ejecutarse al inicio: Permite iniciar MS Vaani tan pronto se inicie el dispositivo.
  Evitar que el dispositivo se bloquee: Evitar que la pantalla se apague mientras se lee contenido.
  Denegar permisos puede hacer que algunas características no funcionen correctamente."</string>
     <string name="permission_title">Descripción de los permisos:</string>
@@ -1446,9 +1446,9 @@ end)"</string>
     <string name="punctuation_none">None</string>
     <string name="qq_group">qq_group</string>
     <string name="qq_group2">qq_group2</string>
-    <string name="qq_group2_title">Grupo QQ secundario de Jieshuo</string>
+    <string name="qq_group2_title">Grupo QQ secundario de MS Vaani</string>
     <string name="qq_group_summary">Habla acerca del programa o cómpralo</string>
-    <string name="qq_group_title">Grupo oficial de Jieshuo</string>
+    <string name="qq_group_title">Grupo oficial de MS Vaani</string>
     <string name="questions_answers">questions_answers</string>
     <string name="questions_answers_title">Preguntas más frecuentes</string>
     <string name="quick_menu_title">Lista de gestos de la aplicación actual</string>
@@ -1574,12 +1574,12 @@ end)"</string>
     <string name="setup_plugin">setup_plugin</string>
     <string name="setup_plugin_title">Ejecutar plugins automáticamente</string>
     <string name="setup_setting">setup_setting</string>
-    <string name="setup_setting_alarm_permission_msg">Jieshuo usa los permisos de reloj y temporizador para transmitir la hora o realizar tareas en el momento que especifique</string>
-    <string name="setup_setting_battery_permission_msg">La optimización de la batería puede alargar la batería, pero puede hacer que Jieshuo se cierre inesperadamente o se quede inactivo. Ignorar la optimización de la batería mejora la estabilidad del lector de pantalla</string>
+    <string name="setup_setting_alarm_permission_msg">MS Vaani usa los permisos de reloj y temporizador para transmitir la hora o realizar tareas en el momento que especifique</string>
+    <string name="setup_setting_battery_permission_msg">La optimización de la batería puede alargar la batería, pero puede hacer que MS Vaani se cierre inesperadamente o se quede inactivo. Ignorar la optimización de la batería mejora la estabilidad del lector de pantalla</string>
     <string name="setup_setting_continue">Continuar configurando</string>
     <string name="setup_setting_done">Configuración completada</string>
     <string name="setup_setting_done_msg">Puedes encontrar estas configuraciones en la configuración general>asistente de configuración</string>
-    <string name="setup_setting_file_permission_msg">Jieshuo usa permisos de administración de archivos para guardar y leer complementos, efectos de sonido, herramientas y recursos de copia de seguridad, etc.</string>
+    <string name="setup_setting_file_permission_msg">MS Vaani usa permisos de administración de archivos para guardar y leer complementos, efectos de sonido, herramientas y recursos de copia de seguridad, etc.</string>
     <string name="setup_setting_get_permission">Obtener permisos</string>
     <string name="setup_setting_has_alarm_permission">Se han obtenido los permisos de reloj y temporizador</string>
     <string name="setup_setting_has_battery_permission">Optimización de batería ignorada.</string>
@@ -1593,8 +1593,8 @@ end)"</string>
     <string name="setup_setting_not_overlay_permission">No se otorgó el permiso de mostrar sobre otras apps.</string>
     <string name="setup_setting_not_permission">No se han otorgado los permisos básicos.</string>
     <string name="setup_setting_not_permission_msg">El lector de pantalla no funcionará sin los permisos básicos. Haz click en continuar configuración para continuar con el asistente. Haz click en otorgar permisos y salir del asistente. Al hacer click en salir, algunas características no funcionarán correctamente.</string>
-    <string name="setup_setting_notification_permission_msg">Jieshuo usa el permiso de notificación para colocar un icono en la pantalla de notificaciones, evitando que el programa se cierre, lo que mejora su estabilidad.</string>
-    <string name="setup_setting_overlay_permission_msg">Jieshuo usa este permiso para mostrar el menú flotante, así como la pantalla oscura, entre otras funciones.</string>
+    <string name="setup_setting_notification_permission_msg">MS Vaani usa el permiso de notificación para colocar un icono en la pantalla de notificaciones, evitando que el programa se cierre, lo que mejora su estabilidad.</string>
+    <string name="setup_setting_overlay_permission_msg">MS Vaani usa este permiso para mostrar el menú flotante, así como la pantalla oscura, entre otras funciones.</string>
     <string name="setup_setting_set_permission_and_exit">Otorgar permisos y salir del asistente.</string>
     <string name="setup_setting_title">Asistente de configuración</string>
     <string name="shake_action">shake_action</string>
@@ -1609,7 +1609,7 @@ end)"</string>
     <string name="share_all">Compartir todo</string>
     <string name="shared_cloud_label">Compartir etiqueta en la nube</string>
     <string name="show_download">show_download</string>
-    <string name="show_download_title">descargar Jieshuo</string>
+    <string name="show_download_title">descargar MS Vaani</string>
     <string name="show_volume_ui">show_volume_ui</string>
     <string name="show_volume_ui_title">Mostrar el panel de volumen del sistema al ajustar el volumen</string>
     <string name="sign_done">Registro exitoso</string>
@@ -1665,8 +1665,8 @@ end)"</string>
     <string name="sound_scroll_top">vuelve al inicio</string>
     <string name="sound_scroll_up">Desplazarse hacia arriba</string>
     <string name="sound_settings_title">Personalizar el tema de sonido</string>
-    <string name="sound_talkman_start">解说启动</string>
-    <string name="sound_talkman_stop">解说停止</string>
+    <string name="sound_talkman_start">MS Vaani启动</string>
+    <string name="sound_talkman_stop">MS Vaani停止</string>
     <string name="sound_tick">Temporizador y barras de Progreso</string>
     <string name="sound_timer_end">fin del temporizador</string>
     <string name="sound_timer_start">inicio del temporizador</string>
@@ -2020,7 +2020,7 @@ end)"</string>
     <string name="use_game_mode_no_speak">use_game_mode_no_speak</string>
     <string name="use_game_mode_no_speak_title">pausar sintetizador de voz en el modo juego</string>
     <string name="use_gesture_detection">use_gesture_detection</string>
-    <string name="use_gesture_detection_title">在解说中处理手势</string>
+    <string name="use_gesture_detection_title">在MS Vaani中处理手势</string>
     <string name="use_headset_key">use_headset_key</string>
     <string name="use_headset_key_summary">Presiona el botón del auricular para ir al siguiente elemento, mantén presionado el botón para activar el asistente de voz.</string>
     <string name="use_headset_key_title">Utilizar el botón del auricular para controlar el lector de pantalla:</string>
@@ -2065,7 +2065,7 @@ end)"</string>
     <string name="use_left_right">use_left_right</string>
     <string name="use_left_right_double_fling_gesture">use_left_right_double_fling_gesture</string>
     <string name="use_left_right_double_fling_gesture_title">habilitar los gestos deslizar a la izquierda y a la derecha</string>
-    <string name="use_left_right_msg">Jieshuo admite varios modos de navegación. El predeterminado es usar los gestos de deslizamientos hacia arriba y hacia abajo para mover el foco y deslizar a la izquierda y a la derecha para realizar funciones rápidas. Sin embargo, si quieres deslizar hacia la izquierda y hacia la derecha para mover el foco, haz click en usar el gesto alternativo. Si quieres usar el gesto predeterminado, haz click en usar el gesto predeterminado. Ten en cuenta que al usar los deslizamientos a la izquierda y a la derecha para mover el foco, se utilizará el deslizamiento hacia arriba para realizar las funciones rápidas de deslizar a la izquierda original, y deslizar abajo para realizar las funciones rápidas de deslizar a la derecha original.</string>
+    <string name="use_left_right_msg">MS Vaani admite varios modos de navegación. El predeterminado es usar los gestos de deslizamientos hacia arriba y hacia abajo para mover el foco y deslizar a la izquierda y a la derecha para realizar funciones rápidas. Sin embargo, si quieres deslizar hacia la izquierda y hacia la derecha para mover el foco, haz click en usar el gesto alternativo. Si quieres usar el gesto predeterminado, haz click en usar el gesto predeterminado. Ten en cuenta que al usar los deslizamientos a la izquierda y a la derecha para mover el foco, se utilizará el deslizamiento hacia arriba para realizar las funciones rápidas de deslizar a la izquierda original, y deslizar abajo para realizar las funciones rápidas de deslizar a la derecha original.</string>
     <string name="use_left_right_no">Usar el gesto predeterminado deslizar hacia arriba y hacia abajo</string>
     <string name="use_left_right_ok">Usar el gesto alternativo deslizar a la izquierda y a la derecha</string>
     <string name="use_left_right_summary">Cuando no utilices el tema de gestos predeterminado, mueve los elementos con deslizamientos a la izquierda o a la derecha y ejecuta funciones adicionales con deslizamientos hacia arriba o hacia abajo.</string>
@@ -2468,10 +2468,10 @@ end)"</string>
     <string name="view_type_move">view_type_move</string>
     <string name="view_type_move_title">Tipos de navegación en uso</string>
     <string name="vip_qq_group">vip_qq_group</string>
-    <string name="vip_qq_group_title">Grupo QQ VIP de Jieshuo</string>
+    <string name="vip_qq_group_title">Grupo QQ VIP de MS Vaani</string>
     <string name="vip_qq_kefu">vip_qq_kefu</string>
     <string name="vip_qq_kefu_summary">Consulta, compra, transferencia, transferencia, pase la certificación de servicio al cliente</string>
-    <string name="vip_qq_kefu_title">Soporte de Jieshuo</string>
+    <string name="vip_qq_kefu_title">Soporte de MS Vaani</string>
     <string name="voice_app_name">Asistente de voz</string>
     <string name="voice_cmd_call">Llamar</string>
     <string name="voice_cmd_input">Escribir</string>
@@ -2548,9 +2548,9 @@ end)"</string>
     <string name="vr_dialog_title">Aviso importante</string>
     <string name="waiting">Esperando</string>
     <string name="wake_lock">wake_lock</string>
-    <string name="wallpaper_description">Si deseas usar Jieshuo sin la configuración de los permisos, configúralo como fondo de pantalla</string>
-    <string name="wallpaper_summary">Debido a que algunos teléfonos móviles pueden tener el problema de que Jieshuo se desactiva, puedes configurar Jieshuo como fondo de pantalla para mejorar la estabilidad del programa en segundo plano.</string>
-    <string name="wallpaper_title">Fondo de pantalla de Jieshuo, (versión de prueba)</string>
+    <string name="wallpaper_description">Si deseas usar MS Vaani sin la configuración de los permisos, configúralo como fondo de pantalla</string>
+    <string name="wallpaper_summary">Debido a que algunos teléfonos móviles pueden tener el problema de que MS Vaani se desactiva, puedes configurar MS Vaani como fondo de pantalla para mejorar la estabilidad del programa en segundo plano.</string>
+    <string name="wallpaper_title">Fondo de pantalla de MS Vaani, (versión de prueba)</string>
     <string name="web_app_name">Navegador web</string>
     <string name="web_are_you_open">¿Tienes permiso para abrirlo?</string>
     <string name="web_back">Pestaña anterior</string>
@@ -2565,7 +2565,7 @@ Tamaño: %s"</string>
     <string name="web_type_move">web_type_move</string>
     <string name="web_type_move_title">Tipos de navegación web en uso</string>
     <string name="welcome">welcome</string>
-    <string name="welcome_msg">¡Bienvenido a Jieshuo! el mejor lector de pantalla para android. Elije una de las tres opciones acontinuación: asistente de configuración, que te permite configurar ajustes básicos para comenzar rápidamente. Haz click en descripción de permisos para leer una breve explicación de los permisos necesarios. Haz click en salir para salir de esta pantalla.</string>
+    <string name="welcome_msg">¡Bienvenido a MS Vaani! el mejor lector de pantalla para android. Elije una de las tres opciones acontinuación: asistente de configuración, que te permite configurar ajustes básicos para comenzar rápidamente. Haz click en descripción de permisos para leer una breve explicación de los permisos necesarios. Haz click en salir para salir de esta pantalla.</string>
     <string name="wifi_level_1">Una barra de señal wi-fi</string>
     <string name="wifi_level_2">Dos barras de señal wi-fi</string>
     <string name="wifi_level_3">Tres bárrate señal wi-fi</string>

@@ -6,7 +6,7 @@
     <string name="accessibility_focus_appearance">accessibility_focus_appearance</string>
     <string name="accessibility_focus_appearance_stroke">accessibility_focus_appearance_stroke</string>
     <string name="accessibility_focus_appearance_title">焦点指示框设置</string>
-    <string name="accessibility_service_description">"解说是一个视障人士的辅助软件，他可以让你更加轻松的使用手机，我们在人机交互上做了一些尝试与创新，你可能需要一些时间熟悉，更多细节请打开设置查看帮助或与我们联系。
+    <string name="accessibility_service_description">"MS Vaani是一个视障人士的辅助软件，他可以让你更加轻松的使用手机，我们在人机交互上做了一些尝试与创新，你可能需要一些时间熟悉，更多细节请打开设置查看帮助或与我们联系。
  软件未会员授权时部分功能受限制，如需购买会员请在官方QQ群联系我们的客服。
  
  特色功能：
@@ -26,7 +26,7 @@
  自动朗读消息，qq、yy、抖音公屏，消息自动朗读，轻松刷视频，
  字幕朗读，快手公屏，外文视频字幕，看国外电影so easy，
  验证码识别，人工智能识别，识别速度快如闪电，
- 解说相机，文字，场景，人脸，统统拿下，
+ MS Vaani相机，文字，场景，人脸，统统拿下，
  网页图片过滤，干净的朗读，清爽的体验，
  长复制，多长列表都能复制，告别繁琐的追加复制
  小说阅读模式，自动翻页，自动过滤，读屏秒变阅读器，
@@ -36,8 +36,8 @@
  全文选取，按段，按句，按字，想复制哪里复制哪里，
  语音指令，各种操作，一步直达，
  自启动插件，整点报时，自动抢红包，开启黑屏模式，等等等等，
- 解说是我们的，也是你们的，只要你愿意，可以完全打造属于自己的解说读屏。"</string>
-    <string name="accessibility_service_description2">解说辅助服务和主服务功能完全相同，主要用于部分会检测读屏服务名的场景，两个服务不需要同时开启。</string>
+ MS Vaani是我们的，也是你们的，只要你愿意，可以完全打造属于自己的MS Vaani读屏。"</string>
+    <string name="accessibility_service_description2">MS Vaani辅助服务和主服务功能完全相同，主要用于部分会检测读屏服务名的场景，两个服务不需要同时开启。</string>
     <string name="accessibility_volume">accessibility_volume</string>
     <string name="action_menu_title">操作菜单</string>
     <string name="action_setting">action_setting</string>
@@ -70,7 +70,7 @@
     <string name="alarm_settings_title">报时设置</string>
     <string name="alarm_start_hour">alarm_start_hour</string>
     <string name="alarm_start_hour_title">报时开始时间</string>
-    <string name="album_activity">解说相册</string>
+    <string name="album_activity">MS Vaani相册</string>
     <string name="all">全部</string>
     <string name="all_description">全能识别</string>
     <string name="all_notification_count">共%d条通知</string>
@@ -150,7 +150,7 @@
     <string name="backup_settings_summary">备份全部设置将覆盖上次备份的内容</string>
     <string name="backup_settings_title">备份设置</string>
     <string name="baidu_tieba">baidu_tieba</string>
-    <string name="baidu_tieba_title">解说读屏贴吧交流</string>
+    <string name="baidu_tieba_title">MS Vaani读屏贴吧交流</string>
     <string name="battery_charging">正在充电</string>
     <string name="battery_level">电量百分之%d</string>
     <string name="before_yesterday">前天</string>
@@ -181,7 +181,7 @@
     <string name="camera_screen_down">屏幕朝下</string>
     <string name="camera_screen_up">屏幕朝上</string>
     <string name="camera_tag">场景识别</string>
-    <string name="camera_title">解说相机</string>
+    <string name="camera_title">MS Vaani相机</string>
     <string name="camera_top_move_far">上部远一点</string>
     <string name="camera_top_move_near">上部近一点</string>
     <string name="camera_top_up">顶部朝上</string>
@@ -208,7 +208,7 @@
     <string name="check_overlay_permissions">check_overlay_permissions</string>
     <string name="check_overlay_permissions_title">检查悬浮窗权限</string>
     <string name="check_permissions">check_permissions</string>
-    <string name="check_permissions_msg">解说需要一些基本权限才能工作，如使用存储权限读取音效存储照片等，点击下一步授予这些权限，这是软件的基本权限点击取消将退出软件。</string>
+    <string name="check_permissions_msg">MS Vaani需要一些基本权限才能工作，如使用存储权限读取音效存储照片等，点击下一步授予这些权限，这是软件的基本权限点击取消将退出软件。</string>
     <string name="check_permissions_title">检查权限</string>
     <string name="check_read_phone_state_permission">检查读取电话权限</string>
     <string name="check_update">check_update</string>
@@ -465,7 +465,7 @@
     <string name="content_setting_title">内容设置</string>
     <string name="continue_run">继续执行</string>
     <string name="continuous_recognition">连续识别</string>
-    <string name="copy_as_jieshuo_cmd">复制为解说口令</string>
+    <string name="copy_as_jieshuo_cmd">复制为MS Vaani口令</string>
     <string name="copy_text_auto_execute">复制文字自动执行</string>
     <string name="copy_username_and_userid">复制用户名和用户ID</string>
     <string name="create">新建</string>
@@ -629,7 +629,7 @@
     <string name="edge_gesture_width">edge_gesture_width</string>
     <string name="edge_gesture_width_title">边缘手势触发范围</string>
     <string name="edit">编辑</string>
-    <string name="edit_activity">解说-编辑器</string>
+    <string name="edit_activity">MS Vaani-编辑器</string>
     <string name="edit_app_profiles_title">编辑单应用情景模式</string>
     <string name="edit_box_no_found">未找到输入框</string>
     <string name="edit_button">输入按钮列表(每行一个)</string>
@@ -778,7 +778,7 @@
     <string name="help_title">功能使用说明</string>
     <string name="helper_manager_title">语音助手扩展管理</string>
     <string name="helper_supper_cmd_title">超级语音指令</string>
-    <string name="helper_tts_setting_title">语音助手与解说相机语音设置</string>
+    <string name="helper_tts_setting_title">语音助手与MS Vaani相机语音设置</string>
     <string name="hide_dialog">隐藏对话框</string>
     <string name="hint_activated">激活</string>
     <string name="hint_change_rating">左右滑动更改评分</string>
@@ -807,7 +807,7 @@
     <string name="hour">时</string>
     <string name="hover_stat_info" formatted="false">共触摸焦点%d次，平均耗时%d毫秒。</string>
     <string name="ignore_battery">请设置允许忽略电池优化</string>
-    <string name="import_all_title">导入解说完整备份吗</string>
+    <string name="import_all_title">导入MS Vaani完整备份吗</string>
     <string name="import_file">导入</string>
     <string name="import_voice_description">从内存卡导入eSpeak文件.</string>
     <string name="import_voice_title">导入文件</string>
@@ -828,7 +828,7 @@
     <string name="item_from_to_count" formatted="false">第%d到%d项 共%d项</string>
     <string name="jieshuo_bbs">jieshuo_bbs</string>
     <string name="jieshuo_bbs_summary">交流，反馈，共享</string>
-    <string name="jieshuo_bbs_title">解说论坛</string>
+    <string name="jieshuo_bbs_title">MS Vaani论坛</string>
     <string name="jieshuo_beta_title">内测下载</string>
     <string name="keep_focus_position">keep_focus_position</string>
     <string name="keep_focus_position_speak">keep_focus_position_speak</string>
@@ -963,7 +963,7 @@
     <string name="message_title">提示</string>
     <string name="message_voice_feedback_paused">语音反馈已暂停</string>
     <string name="message_voice_feedback_resume">语音反馈已启用</string>
-    <string name="message_welcome">欢迎使用解说读屏</string>
+    <string name="message_welcome">欢迎使用MS Vaani读屏</string>
     <string name="min">分</string>
     <string name="more">更多</string>
     <string name="more_setting">更多功能</string>
@@ -1035,9 +1035,9 @@
     <string name="msg_gesture_has_vip">非会员版不支持修改上下左右手势</string>
     <string name="msg_gesture_updated">更新手势方案完成</string>
     <string name="msg_gestures_empty">手势为空</string>
-    <string name="msg_has_enabled">请先启用解说</string>
-    <string name="msg_has_not_enabled">解说还没有启动，在辅助功能启用解说后才能为你提供服务，是否立即前往辅助功能开启解说，你也可以在稍后解说辅助功能设置中开启</string>
-    <string name="msg_has_not_enabled_33">"注意，若您是安卓13的用户，那么您在“无障碍”或“辅助功能”中首次启动解说时，可能会跳出受限制的设置对话框，提示出于安全考虑，此设置不可用，请点击确认按钮后，打开解说的应用信息，点击右上角的更多选项，随后点击允许受限制的设置，随后再次到“无障碍”或“辅助功能”中启用解说即可，如若您的安卓13设备没有出现上述提示，可忽略本说明。
+    <string name="msg_has_enabled">请先启用MS Vaani</string>
+    <string name="msg_has_not_enabled">MS Vaani还没有启动，在辅助功能启用MS Vaani后才能为你提供服务，是否立即前往辅助功能开启MS Vaani，你也可以在稍后MS Vaani辅助功能设置中开启</string>
+    <string name="msg_has_not_enabled_33">"注意，若您是安卓13的用户，那么您在“无障碍”或“辅助功能”中首次启动MS Vaani时，可能会跳出受限制的设置对话框，提示出于安全考虑，此设置不可用，请点击确认按钮后，打开MS Vaani的应用信息，点击右上角的更多选项，随后点击允许受限制的设置，随后再次到“无障碍”或“辅助功能”中启用MS Vaani即可，如若您的安卓13设备没有出现上述提示，可忽略本说明。
 "</string>
     <string name="msg_has_storage">该功能需要存储文件到内置存储，请授予存储权限或退出该功能</string>
     <string name="msg_has_vip_auto_speak">非会员仅支持自动朗读QQ消息</string>
@@ -1049,7 +1049,7 @@
     <string name="msg_hotkey_backup_done">快捷键备份完成</string>
     <string name="msg_hotkey_backup_error">快捷键备份出错</string>
     <string name="msg_import">已导入%s</string>
-    <string name="msg_import_all">此操作会覆盖你的解说全部设置和资源</string>
+    <string name="msg_import_all">此操作会覆盖你的MS Vaani全部设置和资源</string>
     <string name="msg_import_strings">导入语言翻译将会覆盖合并你的语言设置，你可以先导出自己的设置后导入，是否直接导入</string>
     <string name="msg_in_game_mode">已进入游戏模式</string>
     <string name="msg_invite_code_error">邀请码不正确</string>
@@ -1081,7 +1081,7 @@
     <string name="msg_open_error">打开出错</string>
     <string name="msg_open_file_not_supported">不支持打开该文件</string>
     <string name="msg_plugin_empty">插件为空</string>
-    <string name="msg_plugin_run_error">先在辅助功能启动解说再运行插件</string>
+    <string name="msg_plugin_run_error">先在辅助功能启动MS Vaani再运行插件</string>
     <string name="msg_plugins_empty">插件为空</string>
     <string name="msg_press_again_exit">再按一次退出</string>
     <string name="msg_read_done">读取完成</string>
@@ -1151,7 +1151,7 @@
     <string name="msg_stop_video_description">视频描述已停止</string>
     <string name="msg_supper_cmd_only_voice_helper">超级语音指令只能在语音助手中调用</string>
     <string name="msg_supper_mode">强力模式可以获得更多焦点内容</string>
-    <string name="msg_talkback_enabled">你已开启talkback，同时开启解说和talkback可能导致触摸异常，请在关闭talkback后恢复解说的触摸浏览。</string>
+    <string name="msg_talkback_enabled">你已开启talkback，同时开启MS Vaani和talkback可能导致触摸异常，请在关闭talkback后恢复MS Vaani的触摸浏览。</string>
     <string name="msg_text_changed">内容已更改</string>
     <string name="msg_timer_backup_done">计时器备份完成</string>
     <string name="msg_timer_backup_error">计时器备份出错</string>
@@ -1247,7 +1247,7 @@
     <string name="notification_in_call_no_speak_title">通话时通知免打扰</string>
     <string name="notification_in_touch_no_speak">notification_in_touch_no_speak</string>
     <string name="notification_in_touch_no_speak_title">触摸屏幕时通知免打扰</string>
-    <string name="notification_listener_summary">获取通知使用权后解说可以更加稳定的记录和播报通知</string>
+    <string name="notification_listener_summary">获取通知使用权后MS Vaani可以更加稳定的记录和播报通知</string>
     <string name="notification_listener_title">通知使用权</string>
     <string name="notification_select_title">要朗读的通知</string>
     <string name="notification_setting">notification_setting</string>
@@ -1387,7 +1387,7 @@ end)"</string>
     <string name="only_screen_on">仅开屏</string>
     <string name="open">打开</string>
     <string name="open_application_info">open_application_info</string>
-    <string name="open_application_info_title">打开解说应用信息</string>
+    <string name="open_application_info_title">打开MS Vaani应用信息</string>
     <string name="open_project">打开工程</string>
     <string name="open_setup_setting">open_setup_setting</string>
     <string name="open_setup_setting_title">打开开机启动设置</string>
@@ -1427,8 +1427,8 @@ end)"</string>
     <string name="plugin_title">扩展插件</string>
     <string name="point">点</string>
     <string name="power_settings_title">电池设置</string>
-    <string name="pref_donate_alipay">使用支付宝支持解说的开发</string>
-    <string name="pref_donate_paypal">使用贝宝支持解说的开发</string>
+    <string name="pref_donate_alipay">使用支付宝支持MS Vaani的开发</string>
+    <string name="pref_donate_paypal">使用贝宝支持MS Vaani的开发</string>
     <string name="prevent_jump">防跳转</string>
     <string name="previous_chapter">previous_chapter</string>
     <string name="previous_chapter_default_value">*上一页*|*上一章*|*上页*|*上章*|*上一个*</string>
@@ -1448,9 +1448,9 @@ end)"</string>
     <string name="punctuation_none">无</string>
     <string name="qq_group">qq_group</string>
     <string name="qq_group2">qq_group2</string>
-    <string name="qq_group2_title">解说读屏官方QQ二群</string>
+    <string name="qq_group2_title">MS Vaani读屏官方QQ二群</string>
     <string name="qq_group_summary">咨询，建议或者购买会员</string>
-    <string name="qq_group_title">解说读屏官方QQ群(已满)</string>
+    <string name="qq_group_title">MS Vaani读屏官方QQ群(已满)</string>
     <string name="questions_answers">questions_answers</string>
     <string name="questions_answers_title">常见问题</string>
     <string name="quick_menu_title">快捷菜单</string>
@@ -1538,7 +1538,7 @@ end)"</string>
     <string name="ringer_mode_silent">已设置为静音</string>
     <string name="ringer_mode_vibate">已设置为振动</string>
     <string name="run">运行</string>
-    <string name="runnimg_background">解说后台保护中</string>
+    <string name="runnimg_background">MS Vaani后台保护中</string>
     <string name="sample_text">正在朗读的是%s的语音示例</string>
     <string name="save">保存</string>
     <string name="save_as_cloud">保存为云笔记</string>
@@ -1611,7 +1611,7 @@ end)"</string>
     <string name="share_all">分享全部</string>
     <string name="shared_cloud_label">分享到云标签</string>
     <string name="show_download">show_download</string>
-    <string name="show_download_title">解说读屏下载</string>
+    <string name="show_download_title">MS Vaani读屏下载</string>
     <string name="show_volume_ui">show_volume_ui</string>
     <string name="show_volume_ui_title">调节音量时显示音量面板</string>
     <string name="sign_done">注册完成</string>
@@ -1667,8 +1667,8 @@ end)"</string>
     <string name="sound_scroll_top">滚动到顶部</string>
     <string name="sound_scroll_up">向上滚动</string>
     <string name="sound_settings_title">音效方案设置</string>
-    <string name="sound_talkman_start">解说启动</string>
-    <string name="sound_talkman_stop">解说停止</string>
+    <string name="sound_talkman_start">MS Vaani启动</string>
+    <string name="sound_talkman_stop">MS Vaani停止</string>
     <string name="sound_tick">计时</string>
     <string name="sound_timer_end">结束计时</string>
     <string name="sound_timer_start">开始计时</string>
@@ -2013,7 +2013,7 @@ end)"</string>
     <string name="use_float_menu_title">使用悬浮菜单</string>
     <string name="use_foreground">use_foreground</string>
     <string name="use_foreground_pro">use_foreground_pro</string>
-    <string name="use_foreground_pro_summary">如果手机关屏休眠严重，可以尝试该选项，他在关屏时将解说设置为前台窗口</string>
+    <string name="use_foreground_pro_summary">如果手机关屏休眠严重，可以尝试该选项，他在关屏时将MS Vaani设置为前台窗口</string>
     <string name="use_foreground_pro_title">加强型防止锁屏休眠</string>
     <string name="use_foreground_summary">如果读屏频繁休眠建议勾选该选项</string>
     <string name="use_foreground_title">后台保护</string>
@@ -2022,7 +2022,7 @@ end)"</string>
     <string name="use_game_mode_no_speak">use_game_mode_no_speak</string>
     <string name="use_game_mode_no_speak_title">游戏模式时禁用语音合成</string>
     <string name="use_gesture_detection">use_gesture_detection</string>
-    <string name="use_gesture_detection_title">在解说中处理手势</string>
+    <string name="use_gesture_detection_title">在MS Vaani中处理手势</string>
     <string name="use_headset_key">use_headset_key</string>
     <string name="use_headset_key_summary">短按耳机按键下一个焦点，长按启动语音助手</string>
     <string name="use_headset_key_title">使用耳机按键控制读屏</string>
@@ -2067,7 +2067,7 @@ end)"</string>
     <string name="use_left_right">use_left_right</string>
     <string name="use_left_right_double_fling_gesture">use_left_right_double_fling_gesture</string>
     <string name="use_left_right_double_fling_gesture_title">使用先左后右滑动两步手势</string>
-    <string name="use_left_right_msg">解说默认使用上滑向前移动焦点，下滑向后移动焦点，左滑和右滑执行快捷功能，如果你习惯使用左滑和右滑移动焦点请点击使用左右，如果使用上滑和下滑请点击使用上下，需要注意，在使用左滑右滑移动焦点时将使用上滑执行原左滑的快捷功能，下滑使用原右滑的快捷功能</string>
+    <string name="use_left_right_msg">MS Vaani默认使用上滑向前移动焦点，下滑向后移动焦点，左滑和右滑执行快捷功能，如果你习惯使用左滑和右滑移动焦点请点击使用左右，如果使用上滑和下滑请点击使用上下，需要注意，在使用左滑右滑移动焦点时将使用上滑执行原左滑的快捷功能，下滑使用原右滑的快捷功能</string>
     <string name="use_left_right_no">使用上下滑动</string>
     <string name="use_left_right_ok">使用左右滑动</string>
     <string name="use_left_right_summary">使用默认手势时，左右切换焦点，上下执行快捷功能</string>
@@ -2115,7 +2115,7 @@ end)"</string>
     <string name="use_navigation_gesture_summary">单指从屏幕边缘向内滑动操作全面屏手势（仅支持安卓11以上）</string>
     <string name="use_navigation_gesture_title">单指全面屏手势</string>
     <string name="use_new_text_move_type">use_new_text_move_type</string>
-    <string name="use_new_text_move_type_title">使用解说风格处理文字移动操作</string>
+    <string name="use_new_text_move_type_title">使用MS Vaani风格处理文字移动操作</string>
     <string name="use_new_web_type">use_new_web_type</string>
     <string name="use_new_web_type_summary">新的网页焦点移动方式可以获得更加快速的浏览速度，但是也可能产生不兼容，如果打开后出现网页焦点移动异常请关闭此选项</string>
     <string name="use_new_web_type_title">使用新的默认网页浏览方式</string>
@@ -2472,10 +2472,10 @@ end)"</string>
     <string name="view_type_move">view_type_move</string>
     <string name="view_type_move_title">使用中的视图类型</string>
     <string name="vip_qq_group">vip_qq_group</string>
-    <string name="vip_qq_group_title">解说会员交流群</string>
+    <string name="vip_qq_group_title">MS Vaani会员交流群</string>
     <string name="vip_qq_kefu">vip_qq_kefu</string>
     <string name="vip_qq_kefu_summary">咨询，购买，移机，过户请务必通过认证客服</string>
-    <string name="vip_qq_kefu_title">解说客服</string>
+    <string name="vip_qq_kefu_title">MS Vaani客服</string>
     <string name="voice_app_name">语音助手</string>
     <string name="voice_cmd_call">呼叫</string>
     <string name="voice_cmd_input">输入</string>
@@ -2534,14 +2534,14 @@ end)"</string>
     <string name="voice_question">语音问答</string>
     <string name="voice_recognizer">voice_recognizer</string>
     <string name="voice_recognizer_title">识别引擎</string>
-    <string name="vr_camera">解说VR助视</string>
+    <string name="vr_camera">MS VaaniVR助视</string>
     <string name="vr_camera_ae">曝光</string>
     <string name="vr_camera_distance">瞳距</string>
     <string name="vr_camera_flash_off">闪光灯已关闭</string>
     <string name="vr_camera_flash_on">闪光灯已打开</string>
     <string name="vr_camera_light">亮度</string>
     <string name="vr_camera_zoom">变焦</string>
-    <string name="vr_dialog_message">"解说VR助视功能需配合VR眼镜盒子和蓝牙遥控器使用，本功能主要辅助低视力用户看周围环境、书籍或电脑，电视等。
+    <string name="vr_dialog_message">"MS VaaniVR助视功能需配合VR眼镜盒子和蓝牙遥控器使用，本功能主要辅助低视力用户看周围环境、书籍或电脑，电视等。
  因放大后的视角与刷新率问题，该功能不适用于行走出行等场景使用。
  如果外出需要观察周围环境，如看公交站牌，地铁站，寻找店铺牌匾等，请务必在停止行走并确认周围安全情况下使用。
  使用方法：
@@ -2552,10 +2552,10 @@ end)"</string>
     <string name="vr_dialog_title">重要提示</string>
     <string name="waiting">请稍后</string>
     <string name="wake_lock">wake_lock</string>
-    <string name="wallpaper_description">如果你想读屏不用权限设置不死，请把解说设置为你的壁纸</string>
-    <string name="wallpaper_summary">因为部分手机可能存在读屏被后台杀死问题，可以把解说设置为壁纸，以提高后台稳定性。</string>
-    <string name="wallpaper_title">解说壁纸(测试功能)</string>
-    <string name="web_app_name">解说-浏览器</string>
+    <string name="wallpaper_description">如果你想读屏不用权限设置不死，请把MS Vaani设置为你的壁纸</string>
+    <string name="wallpaper_summary">因为部分手机可能存在读屏被后台杀死问题，可以把MS Vaani设置为壁纸，以提高后台稳定性。</string>
+    <string name="wallpaper_title">MS Vaani壁纸(测试功能)</string>
+    <string name="web_app_name">MS Vaani-浏览器</string>
     <string name="web_are_you_open">允许打开吗</string>
     <string name="web_back">后退</string>
     <string name="web_copy_url">复制网址</string>
@@ -2569,7 +2569,7 @@ end)"</string>
     <string name="web_type_move">web_type_move</string>
     <string name="web_type_move_title">使用中的网页类型</string>
     <string name="welcome">welcome</string>
-    <string name="welcome_msg">解说是一个盲人辅助软件，他能帮助你更加高效的使用手机，点击设置向导可以帮助你进行基本的读屏设置，点击权限说明查看软件对使用隐私权限目的的说明，点击退出退出向导。</string>
+    <string name="welcome_msg">MS Vaani是一个盲人辅助软件，他能帮助你更加高效的使用手机，点击设置向导可以帮助你进行基本的读屏设置，点击权限说明查看软件对使用隐私权限目的的说明，点击退出退出向导。</string>
     <string name="wifi_level_1">WIFI信号1格</string>
     <string name="wifi_level_2">WIFI信号2格</string>
     <string name="wifi_level_3">WIFI信号3格</string>

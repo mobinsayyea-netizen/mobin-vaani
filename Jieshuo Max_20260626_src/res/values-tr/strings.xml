@@ -6,7 +6,7 @@
     <string name="accessibility_focus_appearance">accessibility_focus_appearance</string>
     <string name="accessibility_focus_appearance_stroke">accessibility_focus_appearance_stroke</string>
     <string name="accessibility_focus_appearance_title">Odak görünüm ayarları</string>
-    <string name="accessibility_service_description">"Jieshuo Ekran Okuyucu, görme engelli kişilerin Android sistemli akıllı telefonlarını daha etkin kullanmalarını kolaylaştırmayı amaçlayan bir uygulamadır. Jieshuo, insan-makine etkileşimi alanında birçok yenilik sunmaktadır. Uygulamayı tam anlamıyla keşfederek kullanabilmenin zaman alabileceğini biliyoruz, bu nedenle yardım almak veya bizimle iletişime geçmek için ayarları keşfetmenizi içtenlikle öneririz.
+    <string name="accessibility_service_description">"MS Vaani Ekran Okuyucu, görme engelli kişilerin Android sistemli akıllı telefonlarını daha etkin kullanmalarını kolaylaştırmayı amaçlayan bir uygulamadır. MS Vaani, insan-makine etkileşimi alanında birçok yenilik sunmaktadır. Uygulamayı tam anlamıyla keşfederek kullanabilmenin zaman alabileceğini biliyoruz, bu nedenle yardım almak veya bizimle iletişime geçmek için ayarları keşfetmenizi içtenlikle öneririz.
  Tam sürümü satın alıncaya kadar bazı işlevler kısıtlıdır. Ayrıntılar için lütfen Resmi Telegram grubunu ziyaret edin.
  
  Bu ekran okuyucunun en dikkat çekici özellikleri şunlardır:
@@ -16,7 +16,7 @@
  Parmağınızı kaldırarak altındaki öğeyi etkinleştirin: Sayısız hareketi hatırlamaya gerek kalmadan arayüzde hızlı bir şekilde gezinebilirsiniz.
  Özel ses şemaları: Size en uygun ses şemasıyla her zaman kulaklarınıza hitap eden bir deneyim yaşayın.
  Kopyalama ve seçme: Her zaman yalnızca ihtiyacınız olanı seçin ve kopyalayın.
- Dinamik hareketler: Jieshuo, ekrandaki mevcut koşullara uyum sağlar ve bulunduğunuz duruma göre en uygun hareket şemasını seçer.
+ Dinamik hareketler: MS Vaani, ekrandaki mevcut koşullara uyum sağlar ve bulunduğunuz duruma göre en uygun hareket şemasını seçer.
  Genişletilebilir özel hareket sistemi: İstediğiniz herhangi bir hareketi dilediğiniz gibi yeniden atayın, tamamen yeni bir hareket şeması oluşturun ve bunu arkadaşlarınızla paylaşın.
  Çift ses motoru: Önemsiz içeriklerin ana okumanı asla rahatsız etmemesi için aynı anda iki sentezleyici kullanın.
  
@@ -26,18 +26,18 @@
  Otomatik mesaj okuma: QQ, YY, TikTok ve çok daha fazlasından gelen mesajları otomatik olarak okuyun.
  Otomatik altyazı okuma: Yabancı film izlemek hiç bu kadar kolay olmamıştı! Video altyazılarını otomatik olarak okuyun ve hayatınızı kolaylaştırın.
  Güvenlik Resmi tanıma: Güvenlik resmi görüntülerini yıldırım hızıyla tanımak için gelişmiş yapay zeka özelliklerini kullanın.
- Jieshuo Kamera: Çevrenizdeki sahneler, resimler, insanlar ve metinler hakkında bilgi edinin.
+ MS Vaani Kamera: Çevrenizdeki sahneler, resimler, insanlar ve metinler hakkında bilgi edinin.
  Web içeriği filtreleme: Önemsiz içeriğin okumanızı zorlaştırmasına asla izin vermeyin. Resimleri, reklam metinlerini ve diğer istenmeyen öğeleri filtreleyin.
  Liste kopyalama: Uzun listeleri kopyalamak için kullanılan zahmetli yöntemlere veda edin. En uzun listeyi bile kopyalamak için tek bir tıklama yeterlidir.
- Makale okuma modu: Otomatik sayfa çevirme, içerik filtreleme veya arka plan okuma modu. Jieshuo Ekran Okuyucu'nun aynı zamanda E-Kitap okuyucunuz olmasına izin verin.
+ Makale okuma modu: Otomatik sayfa çevirme, içerik filtreleme veya arka plan okuma modu. MS Vaani Ekran Okuyucu'nun aynı zamanda E-Kitap okuyucunuz olmasına izin verin.
  Uygulamaya özgü hareket şemaları: Dilediğiniz her uygulama için özel hareket şemaları oluşturun. Bu özellik sonsuz olanaklar sunar.
  Favoriler: Sık kullandığınız içeriği istediğiniz zaman, istediğiniz yerde toplayın ve bunlara kolayca erişin.
  Ayrıntılı düzenleme modu: Metni karakterlere, sözcüklere, cümlelere veya paragraflara göre daha hızlı düzenleyin ve istenen tüm değişiklikleri doğru bir şekilde yapın.
  Tam metin seçimi: Metni tam istediğiniz yere kopyalamak için karakterlere, sözcüklere, cümlelere veya paragraflara göre seçin.
  Özel sesli komutlar: Eklenti sistemini çalıştıran aynı motor tarafından çalıştırılan sesli yardımcıyı güncellemek ve ayarlamak için sonsuz olanaklar sizi beklemektedir.
  Otomatik başlatılan eklenti sistemi: Çeşitli eklentileri belirtilen zaman aralıklarında otomatik olarak başlatın.
- Jieshuo Ekran Okuyucu bizim olduğu kadar sizindir. Sonsuz yapılandırma seçenekleriyle kendi Jieshuo deneyiminizi yaratın."</string>
-    <string name="accessibility_service_description2">Jieshuo yardımcı hizmeti ve ana hizmetin işlevleri tamamen aynıdır; bu, ekran okuyucu hizmet adını kontrol eden belirli durumlar için kullanılır. İki hizmetin aynı anda açılması gerekmez.</string>
+ MS Vaani Ekran Okuyucu bizim olduğu kadar sizindir. Sonsuz yapılandırma seçenekleriyle kendi MS Vaani deneyiminizi yaratın."</string>
+    <string name="accessibility_service_description2">MS Vaani yardımcı hizmeti ve ana hizmetin işlevleri tamamen aynıdır; bu, ekran okuyucu hizmet adını kontrol eden belirli durumlar için kullanılır. İki hizmetin aynı anda açılması gerekmez.</string>
     <string name="accessibility_volume">accessibility_volume</string>
     <string name="action_menu_title">Eylem menüsü</string>
     <string name="action_setting">action_setting</string>
@@ -70,7 +70,7 @@
     <string name="alarm_settings_title">Zamanlayıcı ayarları</string>
     <string name="alarm_start_hour">alarm_start_hour</string>
     <string name="alarm_start_hour_title">Alarm başlama zamanı</string>
-    <string name="album_activity">Jieshuo Albümü</string>
+    <string name="album_activity">MS Vaani Albümü</string>
     <string name="all">Tümü</string>
     <string name="all_description">Ekran içeriğini tanımla</string>
     <string name="all_notification_count">Toplam %d bildirim</string>
@@ -105,7 +105,7 @@
     <string name="async_tts_engine_summary">Bildirimler ve ek bilgilerin seslendirilmesi için kullanılan ses motorudur. Ana ses motoru ile aynı ses motorunu seçmek, yalnızca bir ses motoru kullanımıyla sonuçlanacaktır.</string>
     <string name="async_tts_engine_title">İkincil Sentezleyici</string>
     <string name="audio_focus">audio_focus</string>
-    <string name="audio_focus_summary">Jieshuo konuşurken diğer tüm seslerin ses seviyesinin azaltılıp azaltılmayacağını belirler</string>
+    <string name="audio_focus_summary">MS Vaani konuşurken diğer tüm seslerin ses seviyesinin azaltılıp azaltılmayacağını belirler</string>
     <string name="audio_focus_title">Ses azaltma</string>
     <string name="auto">auto</string>
     <string name="auto_click">Otomatik tıkla</string>
@@ -150,7 +150,7 @@ Yıldız işareti olmayan ifadeler tam eşleşmeyi gösterir."</string>
     <string name="backup_settings_summary">Bu seçeneğin seçilmesi, yeni bir yedek oluşturacaktır. Yeni bir yedek oluşturulduğunda, önceki yedek dosyası silinir.</string>
     <string name="backup_settings_title">Ayarları yedekle</string>
     <string name="baidu_tieba">baidu_tieba</string>
-    <string name="baidu_tieba_title">Jieshuo paylaşım alanı</string>
+    <string name="baidu_tieba_title">MS Vaani paylaşım alanı</string>
     <string name="battery_charging">Şarj ediliyor</string>
     <string name="battery_level">Pil seviyesi: %d</string>
     <string name="before_yesterday">Dünden önceki gün</string>
@@ -181,7 +181,7 @@ Yıldız işareti olmayan ifadeler tam eşleşmeyi gösterir."</string>
     <string name="camera_screen_down">Ekran aşağı</string>
     <string name="camera_screen_up">Ekran yukarı</string>
     <string name="camera_tag">Çevre tanıma</string>
-    <string name="camera_title">Jieshuo kamera</string>
+    <string name="camera_title">MS Vaani kamera</string>
     <string name="camera_top_move_far">En üst uzağa kaydırın</string>
     <string name="camera_top_move_near">En üst yakına kaydırın</string>
     <string name="camera_top_up">En üst</string>
@@ -208,7 +208,7 @@ Yıldız işareti olmayan ifadeler tam eşleşmeyi gösterir."</string>
     <string name="check_overlay_permissions">check_overlay_permissions</string>
     <string name="check_overlay_permissions_title">Diğer uygulamalar üzerinde göster iznini ayarla</string>
     <string name="check_permissions">check_permissions</string>
-    <string name="check_permissions_msg">"Jieshuo Ekran Okuyucu'nun çalışabilmesi için bazı temel izinlere ihtiyaç vardır. Örneğin, depolama izni, ses şemalarını, eklentileri veya cihazdaki diğer harici verileri okumak için kullanılır. Gerekli tüm izinleri vermek için “Sonraki adım”a tıklayın, ya da yazılımdan çıkmak için “İptal”e tıklayın."</string>
+    <string name="check_permissions_msg">"MS Vaani Ekran Okuyucu'nun çalışabilmesi için bazı temel izinlere ihtiyaç vardır. Örneğin, depolama izni, ses şemalarını, eklentileri veya cihazdaki diğer harici verileri okumak için kullanılır. Gerekli tüm izinleri vermek için “Sonraki adım”a tıklayın, ya da yazılımdan çıkmak için “İptal”e tıklayın."</string>
     <string name="check_permissions_title">İzinleri ver</string>
     <string name="check_read_phone_state_permission">Telefon durumu okuma izinlerini kontrol et</string>
     <string name="check_update">check_update</string>
@@ -278,7 +278,7 @@ Yıldız işareti olmayan ifadeler tam eşleşmeyi gösterir."</string>
     <string name="cmd_description">Açıklama (15 veya daha fazla karakter)</string>
     <string name="cmd_manager">Sesli komutları yönet</string>
     <string name="code_help">code_help</string>
-    <string name="code_help_title">Jieshuo Ekran Okuyucu API yardımı</string>
+    <string name="code_help_title">MS Vaani Ekran Okuyucu API yardımı</string>
     <string name="command_accept_call">Aramayı yanıtla</string>
     <string name="command_accessibility_service_setting">Erişilebilirlik</string>
     <string name="command_action_setting">@string/action_setting_title</string>
@@ -347,7 +347,7 @@ Yıldız işareti olmayan ifadeler tam eşleşmeyi gösterir."</string>
     <string name="command_node_menu">Odak menüsü</string>
     <string name="command_node_mode">Düğüm tarama modu</string>
     <string name="command_nothing">Komut yok</string>
-    <string name="command_notification_box">Jieshuo bildirim kutusu</string>
+    <string name="command_notification_box">MS Vaani bildirim kutusu</string>
     <string name="command_notification_setting">@string/notification_settings_title</string>
     <string name="command_notifications">Bildirim çubuğu</string>
     <string name="command_now_time">Mevcut saat</string>
@@ -465,7 +465,7 @@ Yıldız işareti olmayan ifadeler tam eşleşmeyi gösterir."</string>
     <string name="content_setting_title">İçerik okuma ayarları</string>
     <string name="continue_run">Devam et</string>
     <string name="continuous_recognition">Sürekli tanıma</string>
-    <string name="copy_as_jieshuo_cmd">Jieshuo komudu olarak kopyala</string>
+    <string name="copy_as_jieshuo_cmd">MS Vaani komudu olarak kopyala</string>
     <string name="copy_text_auto_execute">Otomatik metin kopyalama</string>
     <string name="copy_username_and_userid">Kullanıcı adını ve kullanıcı kimliğini kopyala</string>
     <string name="create">Oluştur</string>
@@ -629,7 +629,7 @@ Yıldız işareti olmayan ifadeler tam eşleşmeyi gösterir."</string>
     <string name="edge_gesture_width">edge_gesture_width</string>
     <string name="edge_gesture_width_title">Kenar hareketi tetiklenme genişliği</string>
     <string name="edit">düzenle</string>
-    <string name="edit_activity">Jieshuo metin düzenleyici</string>
+    <string name="edit_activity">MS Vaani metin düzenleyici</string>
     <string name="edit_app_profiles_title">Uygulamaya özgü kullanıcı profilini düzenle</string>
     <string name="edit_box_no_found">Yazma alanı bulunamadı</string>
     <string name="edit_button">Bir düğme listesi girin (Her satıra bir adet)</string>
@@ -773,7 +773,7 @@ Yıldız işareti olmayan ifadeler tam eşleşmeyi gösterir."</string>
     <string name="has_vip_summary_gesture">Yukarı, aşağı, sola ve sağa kaydırma hareketlerinin özelleştirilmesi yalnızca tam sürüm kullanıcıları için kullanılabilir</string>
     <string name="help">help</string>
     <string name="help_feed">help_feed</string>
-    <string name="help_feed_summary">Jieshuo Ekran Okuyucu, Ömer Yeşiltaş tarafından Türkçe diline çevrilmiştir. Katkıda bulunanlar: Ahmet Çeliker. Uygulama işlevleri için, Tencent AI, Baidu AI, Baidu TTS, Baidu Çevirmen, Baidu MTS, Andro LUA Plus gibi bazı üçüncü taraf teknolojiler kullanılır.</string>
+    <string name="help_feed_summary">MS Vaani Ekran Okuyucu, Ömer Yeşiltaş tarafından Türkçe diline çevrilmiştir. Katkıda bulunanlar: Ahmet Çeliker. Uygulama işlevleri için, Tencent AI, Baidu AI, Baidu TTS, Baidu Çevirmen, Baidu MTS, Andro LUA Plus gibi bazı üçüncü taraf teknolojiler kullanılır.</string>
     <string name="help_feed_title">Yardım ve geri bildirim</string>
     <string name="help_title">Yardım ekranı</string>
     <string name="helper_manager_title">Sesli Yardımcı ek ayarları</string>
@@ -827,8 +827,8 @@ Yıldız işareti olmayan ifadeler tam eşleşmeyi gösterir."</string>
     <string name="item_current_count" formatted="false">Gösterilen: %d öğe - Toplam %d öğe</string>
     <string name="item_from_to_count" formatted="false">%d ile %d arasındaki öğeler, toplam %d öğe</string>
     <string name="jieshuo_bbs">jieshuo_bbs</string>
-    <string name="jieshuo_bbs_summary">Jieshuo ekran okuyucu hakkındaki geri bildirimlerinizi forumumuzda paylaşın; diğer üyelerle iletişim kurun, öğrenin ve öğretin.</string>
-    <string name="jieshuo_bbs_title">Jieshuo ekran okuyucu forumu</string>
+    <string name="jieshuo_bbs_summary">MS Vaani ekran okuyucu hakkındaki geri bildirimlerinizi forumumuzda paylaşın; diğer üyelerle iletişim kurun, öğrenin ve öğretin.</string>
+    <string name="jieshuo_bbs_title">MS Vaani ekran okuyucu forumu</string>
     <string name="jieshuo_beta_title">Beta Sürümleri</string>
     <string name="keep_focus_position">keep_focus_position</string>
     <string name="keep_focus_position_speak">keep_focus_position_speak</string>
@@ -963,7 +963,7 @@ Yıldız işareti olmayan ifadeler tam eşleşmeyi gösterir."</string>
     <string name="message_title">Uyarı</string>
     <string name="message_voice_feedback_paused">Konuşma askıya alındı</string>
     <string name="message_voice_feedback_resume">Konuşma etkin</string>
-    <string name="message_welcome">Jieshuo ekran okuyucuya hoş geldiniz!</string>
+    <string name="message_welcome">MS Vaani ekran okuyucuya hoş geldiniz!</string>
     <string name="min">Dakika</string>
     <string name="more">Daha fazla</string>
     <string name="more_setting">Daha fazla seçenek</string>
@@ -979,7 +979,7 @@ Yıldız işareti olmayan ifadeler tam eşleşmeyi gösterir."</string>
     <string name="msg_added">Eklendi</string>
     <string name="msg_all_copyed">Tümü kopyalandı</string>
     <string name="msg_auto_trans_has_vip">Otomatik çeviri için tam sürüm gereklidir</string>
-    <string name="msg_backup_done">Yedek dosyası Yerleşik depolama/Jieshuo/Yedek klasörü içine yüklendi. Tüm hareketler, araçlar, eklentiler ve ses efektleri vb. Jieshuo klasörüne kaydedilir. Klasörün adı: 备份 şeklinde görünecektir. Türkçe sentezleyiciler bu klasör adını Virgül olarak seslendirebilirler.</string>
+    <string name="msg_backup_done">Yedek dosyası Yerleşik depolama/MS Vaani/Yedek klasörü içine yüklendi. Tüm hareketler, araçlar, eklentiler ve ses efektleri vb. MS Vaani klasörüne kaydedilir. Klasörün adı: 备份 şeklinde görünecektir. Türkçe sentezleyiciler bu klasör adını Virgül olarak seslendirebilirler.</string>
     <string name="msg_backuped">Yedek oluşturuldu.</string>
     <string name="msg_backups_empty">Yedek yok</string>
     <string name="msg_battery_full">Batarya dolu</string>
@@ -1020,7 +1020,7 @@ Yıldız işareti olmayan ifadeler tam eşleşmeyi gösterir."</string>
     <string name="msg_enabled_supper_mode">Ayrıntılı odak algılama açıldı</string>
     <string name="msg_enabled_supper_mode_error">Ayrıntılı odak algılama etkinleştirilemedi</string>
     <string name="msg_exit_game_mode">Oyuncu modundan çıkıldı</string>
-    <string name="msg_export_all_file">Bu işlem, tüm Jieshuo ayarlarını ve dosyalarını %s konumuna aktaracaktır, böylece bunlar yeni bir telefona aktarılabilir. Lütfen, giriş bilgileriniz dahil olmak üzere kişisel verilerinizi içerdiği için dışa aktarılan arşivi başkalarıyla paylaşmaktan kaçının.</string>
+    <string name="msg_export_all_file">Bu işlem, tüm MS Vaani ayarlarını ve dosyalarını %s konumuna aktaracaktır, böylece bunlar yeni bir telefona aktarılabilir. Lütfen, giriş bilgileriniz dahil olmak üzere kişisel verilerinizi içerdiği için dışa aktarılan arşivi başkalarıyla paylaşmaktan kaçının.</string>
     <string name="msg_export_all_file_fail">Dışa aktarma başarısız oldu, lütfen tekrar deneyin.</string>
     <string name="msg_favorite_added">Favorilere eklendi</string>
     <string name="msg_favorite_backup_done">Favoriler başarıyla yedeklendi</string>
@@ -1035,9 +1035,9 @@ Yıldız işareti olmayan ifadeler tam eşleşmeyi gösterir."</string>
     <string name="msg_gesture_has_vip">Ücretsiz sürüm yukarı, aşağı, sola ve sağa yönelik hareketleri değiştirmeyi desteklemez</string>
     <string name="msg_gesture_updated">Hareket şeması güncellendi</string>
     <string name="msg_gestures_empty">Hareket şemaları yok</string>
-    <string name="msg_has_enabled">"Lütfen önce Jieshuo'yu etkinleştirin"</string>
-    <string name="msg_has_not_enabled">Jieshuo Ekran Okuyucu henüz etkinleştirilmedi. Özelliklerini kullanabilmek için erişilebilirlik ayarlarından açmanız gerekiyor. Şimdi erişilebilirlik ayarlarına gitmek ister misiniz?</string>
-    <string name="msg_has_not_enabled_33">"Dikkat, eğer Android 13 kullanıyorsanız ve Jieshuo'yu “Erişilebilirlik” ayarlarından ilk defa etkinleştiriyorsanız, “Kısıtlanmış Ayarlar” ile ilgili bir uyarı ile karşılaşabilirsiniz. Bu ayar güvenlik nedeniyle Android 13 ile getirilmiştir. Bu ekranı onayladıktan sonra, Jieshuo uygulamasının bilgilerine gidin. Bu işlemi cihazınızın ayarlarına giderek “Uygulamalar” veya “Uygulamaları yönet” kısmından yapabilirsiniz. Sağ üst köşedeki “Daha fazla seçenek” veya “Diğer Seçenekler” öğesine dokunun. “Kısıtlanmış Ayarlara izin ver”i tıklayın. Daha sonra “Erişilebilirlik” üzerinden hizmeti etkinleştirebilirsiniz."</string>
+    <string name="msg_has_enabled">"Lütfen önce MS Vaani'yu etkinleştirin"</string>
+    <string name="msg_has_not_enabled">MS Vaani Ekran Okuyucu henüz etkinleştirilmedi. Özelliklerini kullanabilmek için erişilebilirlik ayarlarından açmanız gerekiyor. Şimdi erişilebilirlik ayarlarına gitmek ister misiniz?</string>
+    <string name="msg_has_not_enabled_33">"Dikkat, eğer Android 13 kullanıyorsanız ve MS Vaani'yu “Erişilebilirlik” ayarlarından ilk defa etkinleştiriyorsanız, “Kısıtlanmış Ayarlar” ile ilgili bir uyarı ile karşılaşabilirsiniz. Bu ayar güvenlik nedeniyle Android 13 ile getirilmiştir. Bu ekranı onayladıktan sonra, MS Vaani uygulamasının bilgilerine gidin. Bu işlemi cihazınızın ayarlarına giderek “Uygulamalar” veya “Uygulamaları yönet” kısmından yapabilirsiniz. Sağ üst köşedeki “Daha fazla seçenek” veya “Diğer Seçenekler” öğesine dokunun. “Kısıtlanmış Ayarlara izin ver”i tıklayın. Daha sonra “Erişilebilirlik” üzerinden hizmeti etkinleştirebilirsiniz."</string>
     <string name="msg_has_storage">Bu işlevin dosyaları yerleşik hafızada depolaması gerekiyor, lütfen depolama izni verin veya bu işlevi kapatın</string>
     <string name="msg_has_vip_auto_speak">"Ücretsiz sürüm kullanıcıları, sohbet mesajlarını otomatik okuma özelliğini yalnızca QQ'da kullanabilir"</string>
     <string name="msg_has_vip_dict">Ücretsiz sürüm kullanıcıları, en fazla 5 girdi ekleyebilir</string>
@@ -1048,7 +1048,7 @@ Yıldız işareti olmayan ifadeler tam eşleşmeyi gösterir."</string>
     <string name="msg_hotkey_backup_done">Klavye kısayol yedeklemesi tamamlandı</string>
     <string name="msg_hotkey_backup_error">Klavye kısayol yedeklemesi başarısız oldu</string>
     <string name="msg_import">%s içe aktarıldı</string>
-    <string name="msg_import_all">Bu işlem tüm Jieshuo ayarlarınız ve kaynakların üzerine yazılacaktır</string>
+    <string name="msg_import_all">Bu işlem tüm MS Vaani ayarlarınız ve kaynakların üzerine yazılacaktır</string>
     <string name="msg_import_strings">Bu özel çeviriyi içe aktarmak, değişikliklerinizi içe aktarılan sürümle birleştirecek veya tamamen üzerine yazacaktır. İçe aktarmadan önce mevcut değişikliklerinizi dışa aktarabilirsiniz. Ne yapmak istersiniz?</string>
     <string name="msg_in_game_mode">Oyuncu moduna girildi</string>
     <string name="msg_invite_code_error">Davet kodu hatalı</string>
@@ -1080,7 +1080,7 @@ Yıldız işareti olmayan ifadeler tam eşleşmeyi gösterir."</string>
     <string name="msg_open_error">Açılırken hata oluştu</string>
     <string name="msg_open_file_not_supported">Bu dosya türü desteklenmediği için açılamıyor</string>
     <string name="msg_plugin_empty">Eklenti boş</string>
-    <string name="msg_plugin_run_error">Eklentiyi çalıştırmadan önce lütfen erişilebilirlik ayarlarından Jieshuo Ekran okuyucu etkinleştirin</string>
+    <string name="msg_plugin_run_error">Eklentiyi çalıştırmadan önce lütfen erişilebilirlik ayarlarından MS Vaani Ekran okuyucu etkinleştirin</string>
     <string name="msg_plugins_empty">Eklenti yok</string>
     <string name="msg_press_again_exit">çıkmak için Tekrar basın</string>
     <string name="msg_read_done">Yükleme tamamlandı</string>
@@ -1150,7 +1150,7 @@ Yıldız işareti olmayan ifadeler tam eşleşmeyi gösterir."</string>
     <string name="msg_stop_video_description">Video betimlemeyi sonlandır</string>
     <string name="msg_supper_cmd_only_voice_helper">Süper sesli komutlar yalnızca Sesli Yardımcı ile kullanılabilir.</string>
     <string name="msg_supper_mode">Ayrıntılı odak algılama modu daha fazla içeriğe erişmenize izin verir.</string>
-    <string name="msg_talkback_enabled">"TalkBack açık. Jieshuo ve TalkBack'i aynı anda çalıştırmak sorunlara yol açabilir. Dokunarak gezinme özelliğini geri yüklemek için lütfen TalkBack'i kapatın."</string>
+    <string name="msg_talkback_enabled">"TalkBack açık. MS Vaani ve TalkBack'i aynı anda çalıştırmak sorunlara yol açabilir. Dokunarak gezinme özelliğini geri yüklemek için lütfen TalkBack'i kapatın."</string>
     <string name="msg_text_changed">İçerik değiştirildi</string>
     <string name="msg_timer_backup_done">Zamanlayıcı yedeklemesi tamamlandı</string>
     <string name="msg_timer_backup_error">Zamanlayıcı yedeklemesi başarısız oldu</string>
@@ -1238,7 +1238,7 @@ Yıldız işareti olmayan ifadeler tam eşleşmeyi gösterir."</string>
     <string name="notification_black_list_description">Kara listeye alınmış metin içeren bildirimler otomatik olarak okunmayacaktır, ancak yine de bildirim kutusunda kaydedilecektir. Düzenli ifadeler desteklenmektedir. Sadece bir yıldız işareti eklenirse, uygulamadan gelen tüm bildirimler otomatik olarak duyurulmayacaktır.</string>
     <string name="notification_black_list_summary">Kara listeye alınmış içerik içeren bildirimler, bildirim okuma etkin olsa bile hiçbir zaman okunmayacaktır</string>
     <string name="notification_black_list_title">Bildirim kara listesi</string>
-    <string name="notification_box">Jieshuo bildirim kutusu</string>
+    <string name="notification_box">MS Vaani bildirim kutusu</string>
     <string name="notification_from">Yeni %s bildirimi</string>
     <string name="notification_in_auto_read_no_speak">notification_in_auto_read_no_speak</string>
     <string name="notification_in_auto_read_no_speak_title">Okuma modu veya Otomatik tarama kullanıldığında bildirimler otomatik olarak okunmasın</string>
@@ -1253,7 +1253,7 @@ Yıldız işareti olmayan ifadeler tam eşleşmeyi gösterir."</string>
     <string name="notification_settings_title">Bildirim okuma ayarları</string>
     <string name="notification_speak">notification_speak</string>
     <string name="notification_speak2">notification_speak2</string>
-    <string name="notification_speak_msg">"Lütfen ekran okuyucunun bildirimleri okumasını isteyip istemediğinizi seçin. Bildirimler, gelen SMS mesajları, hava durumu tahminleri veya cihazınız tarafından oluşturulan diğer bilgileri içerebilir. Bildirimlerin etkinleştirilmesi önerilir; ancak, çalışmanız sırasında kesintiye uğramak istemiyorsanız bu özelliği devre dışı bırakabilirsiniz. Ayrıca, Jieshuo Ekran Okuyucu'nun bazı cihazlarda bildirimleri görüntülemeyi kolaylaştırabilecek Bildirim Kutusu adlı bir özelliğe sahip olduğunu belirtmekte fayda var."</string>
+    <string name="notification_speak_msg">"Lütfen ekran okuyucunun bildirimleri okumasını isteyip istemediğinizi seçin. Bildirimler, gelen SMS mesajları, hava durumu tahminleri veya cihazınız tarafından oluşturulan diğer bilgileri içerebilir. Bildirimlerin etkinleştirilmesi önerilir; ancak, çalışmanız sırasında kesintiye uğramak istemiyorsanız bu özelliği devre dışı bırakabilirsiniz. Ayrıca, MS Vaani Ekran Okuyucu'nun bazı cihazlarda bildirimleri görüntülemeyi kolaylaştırabilecek Bildirim Kutusu adlı bir özelliğe sahip olduğunu belirtmekte fayda var."</string>
     <string name="notification_speak_no">Bildirimler okunmasın</string>
     <string name="notification_speak_ok">Bildirimleri oku</string>
     <string name="notification_speak_title">Bildirimleri oku</string>
@@ -1386,7 +1386,7 @@ end)"</string>
     <string name="only_screen_on">Yalnızca ekran açıkken</string>
     <string name="open">Aç</string>
     <string name="open_application_info">open_application_info</string>
-    <string name="open_application_info_title">Jieshuo ekran okuyucu bilgilerini uygulama yöneticisinde görüntüle</string>
+    <string name="open_application_info_title">MS Vaani ekran okuyucu bilgilerini uygulama yöneticisinde görüntüle</string>
     <string name="open_project">Mevcut projeyi aç</string>
     <string name="open_setup_setting">open_setup_setting</string>
     <string name="open_setup_setting_title">Otomatik başlatma ayarlarını aç</string>
@@ -1449,9 +1449,9 @@ end)"</string>
     <string name="punctuation_none">Hiçbiri</string>
     <string name="qq_group">qq_group</string>
     <string name="qq_group2">qq_group2</string>
-    <string name="qq_group2_title">Jieshuo Ekran okuyucu ikinci QQ grubu</string>
+    <string name="qq_group2_title">MS Vaani Ekran okuyucu ikinci QQ grubu</string>
     <string name="qq_group_summary">Program hakkında konuşun, önerilerde bulunun veya satın alın</string>
-    <string name="qq_group_title">Jieshuo Ekran okuyucu resmi QQ grubu</string>
+    <string name="qq_group_title">MS Vaani Ekran okuyucu resmi QQ grubu</string>
     <string name="questions_answers">questions_answers</string>
     <string name="questions_answers_title">SSS</string>
     <string name="quick_menu_title">Mevcut uygulamaya özgü hareketler menüsü</string>
@@ -1578,7 +1578,7 @@ end)"</string>
     <string name="setup_plugin_title">Otomatik çalışan eklentiler</string>
     <string name="setup_setting">setup_setting</string>
     <string name="setup_setting_alarm_permission_msg">Ekran okuyucu, alarm ve hatırlatıcı izinlerini kullanarak belirlediğiniz zamanda saat bilgisini sesli olarak duyurabilir veya ilgili görevleri gerçekleştirebilir.</string>
-    <string name="setup_setting_battery_permission_msg">Pil optimizasyonu pil ömrünü uzatabilir, ancak ekran okuyucunun beklenmedik şekilde kapanmasına veya hazırda bekletilmesine neden olabilir. Pil optimizasyonunu yoksayma iznini vererek Jieshuo ekran okuyucunun tümleşik pil tasarrufu modunu kullanmanızı öneririz.</string>
+    <string name="setup_setting_battery_permission_msg">Pil optimizasyonu pil ömrünü uzatabilir, ancak ekran okuyucunun beklenmedik şekilde kapanmasına veya hazırda bekletilmesine neden olabilir. Pil optimizasyonunu yoksayma iznini vererek MS Vaani ekran okuyucunun tümleşik pil tasarrufu modunu kullanmanızı öneririz.</string>
     <string name="setup_setting_continue">Kuruluma devam et</string>
     <string name="setup_setting_done">Kurulum sihirbazı tamamlandı</string>
     <string name="setup_setting_done_msg">Uygulama ayarlarından genel kullanım ayarlarınızı belirleyebilirsiniz veya Temel Ayar sihirbazını yeniden çalıştırmak isterseniz, Genel ayarlar > Ayar sihirbazına gidebilirsiniz.</string>
@@ -1595,9 +1595,9 @@ end)"</string>
     <string name="setup_setting_not_notification_permission">Bildirim izinleri verilmedi</string>
     <string name="setup_setting_not_overlay_permission">Diğer uygulamalar üzerinde göster izni verilmedi</string>
     <string name="setup_setting_not_permission">Temel izinler verilmedi</string>
-    <string name="setup_setting_not_permission_msg">Jieshuo Ekran Okuyucu, henüz vermediğiniz bazı temel izinler olmadan çalışmaz. “Kuruluma devam et” seçeneğine tıklamak, gerekli tüm izinleri vererek kurulum sihirbazına devam etmenizi sağlar. “İzinleri ver” seçeneğine tıklamak, gerekli tüm izinleri vererek sihirbazdan çıkmanızı sağlar. “Çıkış” seçeneğine tıklarsanız, bazı özellikler düzgün çalışmayabilir.</string>
+    <string name="setup_setting_not_permission_msg">MS Vaani Ekran Okuyucu, henüz vermediğiniz bazı temel izinler olmadan çalışmaz. “Kuruluma devam et” seçeneğine tıklamak, gerekli tüm izinleri vererek kurulum sihirbazına devam etmenizi sağlar. “İzinleri ver” seçeneğine tıklamak, gerekli tüm izinleri vererek sihirbazdan çıkmanızı sağlar. “Çıkış” seçeneğine tıklarsanız, bazı özellikler düzgün çalışmayabilir.</string>
     <string name="setup_setting_notification_permission_msg">Ekran Okuyucu, uygulama bildirimlerini, geri bildirimleri ve arka plan koruma bildirimlerini görüntülemek için bildirim izinlerini kullanır.</string>
-    <string name="setup_setting_overlay_permission_msg">Jieshuo ekran okuyucu, menüleri görüntüleme, metin tanıma sonuçları veya ekran karartma modu gibi işlevler için diğer uygulamalar üzerinde göster iznini kullanır.</string>
+    <string name="setup_setting_overlay_permission_msg">MS Vaani ekran okuyucu, menüleri görüntüleme, metin tanıma sonuçları veya ekran karartma modu gibi işlevler için diğer uygulamalar üzerinde göster iznini kullanır.</string>
     <string name="setup_setting_set_permission_and_exit">İzinleri ver ve çık</string>
     <string name="setup_setting_title">Kurulum sihirbazı</string>
     <string name="shake_action">shake_action</string>
@@ -1612,7 +1612,7 @@ end)"</string>
     <string name="share_all">Tümünü yükle</string>
     <string name="shared_cloud_label">Özel etiketleri bulutta paylaş</string>
     <string name="show_download">show_download</string>
-    <string name="show_download_title">Jieshuo Beta sürümü indir</string>
+    <string name="show_download_title">MS Vaani Beta sürümü indir</string>
     <string name="show_volume_ui">show_volume_ui</string>
     <string name="show_volume_ui_title">Sistem ses ayar panelini göster</string>
     <string name="sign_done">Hesap oluşturma tamam</string>
@@ -1668,8 +1668,8 @@ end)"</string>
     <string name="sound_scroll_top">En üste kaydır</string>
     <string name="sound_scroll_up">Yukarı kaydır</string>
     <string name="sound_settings_title">Ses şeması ayarları</string>
-    <string name="sound_talkman_start">Jieshuo açıldı</string>
-    <string name="sound_talkman_stop">Jieshuo kapatıldı</string>
+    <string name="sound_talkman_start">MS Vaani açıldı</string>
+    <string name="sound_talkman_stop">MS Vaani kapatıldı</string>
     <string name="sound_tick">Zamanlayıcı sesi</string>
     <string name="sound_timer_end">Zamanlayıcıyı durdur</string>
     <string name="sound_timer_start">Zamanlayıcıyı başlat</string>
@@ -2014,9 +2014,9 @@ end)"</string>
     <string name="use_float_menu_title">Kayan menüyü kullan</string>
     <string name="use_foreground">use_foreground</string>
     <string name="use_foreground_pro">use_foreground_pro</string>
-    <string name="use_foreground_pro_summary">Bu seçeneğin etkinleştirilmesi, pil optimizasyonu hizmetinin ekran okuyucuyu kapatmasını engeller. Bunu, ekran karartıldığında Jieshuo Ekran Okuyucu’yu ön plan penceresi olarak ayarlayarak yapar.</string>
+    <string name="use_foreground_pro_summary">Bu seçeneğin etkinleştirilmesi, pil optimizasyonu hizmetinin ekran okuyucuyu kapatmasını engeller. Bunu, ekran karartıldığında MS Vaani Ekran Okuyucu’yu ön plan penceresi olarak ayarlayarak yapar.</string>
     <string name="use_foreground_pro_title">Sistemin uygulamayı arka planda sonlandırmasını engelle</string>
-    <string name="use_foreground_summary">Bu seçeneğin ayarlanması, pil tasarrufu hizmetinin ekran okuyucuyu durdurmasını önleyecektir. Etkinleştirilirse, ekran kilitlendiğinde, Jieshuo ön plan uygulaması olarak ayarlanır.</string>
+    <string name="use_foreground_summary">Bu seçeneğin ayarlanması, pil tasarrufu hizmetinin ekran okuyucuyu durdurmasını önleyecektir. Etkinleştirilirse, ekran kilitlendiğinde, MS Vaani ön plan uygulaması olarak ayarlanır.</string>
     <string name="use_foreground_title">Ekran okuyucunun arka planda sonlandırılmasını engelle</string>
     <string name="use_game_mode_no_edge">use_game_mode_no_edge</string>
     <string name="use_game_mode_no_edge_title">Oyuncu modunda kenar hareketlerini devre dışı bırak</string>
@@ -2068,7 +2068,7 @@ end)"</string>
     <string name="use_left_right">use_left_right</string>
     <string name="use_left_right_double_fling_gesture">use_left_right_double_fling_gesture</string>
     <string name="use_left_right_double_fling_gesture_title">Sola sonra sağa kaydır hareketini kullan</string>
-    <string name="use_left_right_msg">Öncelikle, ekran okuyucunun temel çalışma modunu ayarlayalım. Varsayılan olarak, Jieshuo Ekran Okuyucu önceki öğeye geçmek için yukarı kaydırma, sonraki öğeye geçmek için aşağı kaydırma ve kısayolları çalıştırmak için sola ve sağa kaydırma hareketlerini kullanır. Daha geleneksel bir ekran okuyucu kullanımına alışkınsanız, burada “Kaydırma hareketlerini tersine çevir” seçeneğini seçebilirsiniz. Bu değişiklik uygulandığında, yukarı kaydırma sol kısayolu, aşağı kaydırma ise sağ kısayolu çalıştıracaktır. Şimdi, ayarlamak istediğiniz seçeneği bulmak için aşağı kaydırın ve etkinleştirmek için çift dokunun.</string>
+    <string name="use_left_right_msg">Öncelikle, ekran okuyucunun temel çalışma modunu ayarlayalım. Varsayılan olarak, MS Vaani Ekran Okuyucu önceki öğeye geçmek için yukarı kaydırma, sonraki öğeye geçmek için aşağı kaydırma ve kısayolları çalıştırmak için sola ve sağa kaydırma hareketlerini kullanır. Daha geleneksel bir ekran okuyucu kullanımına alışkınsanız, burada “Kaydırma hareketlerini tersine çevir” seçeneğini seçebilirsiniz. Bu değişiklik uygulandığında, yukarı kaydırma sol kısayolu, aşağı kaydırma ise sağ kısayolu çalıştıracaktır. Şimdi, ayarlamak istediğiniz seçeneği bulmak için aşağı kaydırın ve etkinleştirmek için çift dokunun.</string>
     <string name="use_left_right_no">Varsayılan hareketleri kullan</string>
     <string name="use_left_right_ok">Kaydırma hareketlerini tersine çevir</string>
     <string name="use_left_right_summary">Varsayılan hareket düzeninde kaydırma hareketlerinin tersine çevrilip çevrilmeyeceğini belirler. Tersine çevrildiğinde, sola ve sağa kaydırmalar öğeler arasında gezinmeyi; yukarı ve aşağı kaydırmalar ise kısayol eylemlerini gerçekleştirir</string>
@@ -2207,7 +2207,7 @@ end)"</string>
     <string name="use_single_tap_summary">Öğeye yalnızca bir kez tıklanarak etkinleştirilip etkinleştirilmeyeceğini belirler</string>
     <string name="use_single_tap_title">Odaklanılan öğeyi etkinleştirmek için tek dokunma kullan</string>
     <string name="use_single_tts">use_single_tts</string>
-    <string name="use_single_tts_msg">Jieshuo ekran okuyucu aynı anda iki sentezleyici motorunu kullanabilir. Birincil sentezleyici motoru, bilgilerin çoğunu okumak için kullanılırken, ikincil sentezleyici motoru ise bildirimleri ve diğer daha az önemli içeriği okumak için kullanılır. Henüz bu işleve alışmadıysanız, tek bir sentezleyici motoru kullanmanız önerilir.</string>
+    <string name="use_single_tts_msg">MS Vaani ekran okuyucu aynı anda iki sentezleyici motorunu kullanabilir. Birincil sentezleyici motoru, bilgilerin çoğunu okumak için kullanılırken, ikincil sentezleyici motoru ise bildirimleri ve diğer daha az önemli içeriği okumak için kullanılır. Henüz bu işleve alışmadıysanız, tek bir sentezleyici motoru kullanmanız önerilir.</string>
     <string name="use_single_tts_no">Çift sentezleyici kullan</string>
     <string name="use_single_tts_ok">Tek sentezleyici kullan</string>
     <string name="use_single_tts_summary">Bu seçenek işaretliyken tüm içerik ana sentezleyici motoru kullanılarak okunacaktır</string>
@@ -2217,7 +2217,7 @@ end)"</string>
     <string name="use_small_filter">use_small_filter</string>
     <string name="use_small_filter_title">İstenmeyen kontrolleri filtrele</string>
     <string name="use_sound">use_sound</string>
-    <string name="use_sound_summary">Jieshuo Ekran Okuyucusunun bilgi sağlamak için sesler kullanıp kullanmayacağını belirler</string>
+    <string name="use_sound_summary">MS Vaani Ekran Okuyucusunun bilgi sağlamak için sesler kullanıp kullanmayacağını belirler</string>
     <string name="use_sound_title">Sesli geri bildirim</string>
     <string name="use_speak_call_phone">use_speak_call_phone</string>
     <string name="use_speak_call_phone_summary">Gelen bir aramada arayanın adı ve numarasının otomatik olarak okunup okunmayacağını belirler</string>
@@ -2313,7 +2313,7 @@ end)"</string>
     <string name="use_wake_lock_pro">use_wake_lock_pro</string>
     <string name="use_wake_lock_pro_summary">Diğer seçenek işe yaramazsa bu seçeneği işaretlemeniz önerilir</string>
     <string name="use_wake_lock_pro_title">Gelişmiş ekran kilitleme önleme mekanizması</string>
-    <string name="use_wake_lock_summary">Jieshuo konuşurken ekranın açık kalıp kalmayacağını belirler</string>
+    <string name="use_wake_lock_summary">MS Vaani konuşurken ekranın açık kalıp kalmayacağını belirler</string>
     <string name="use_wake_lock_title">Konuşurken ekranın kilitlenmesini önle</string>
     <string name="use_web_type_move">use_web_type_move</string>
     <string name="use_web_type_move_title">Web görünümlerinde öğe türlerine göre tarama kullan</string>
@@ -2450,7 +2450,7 @@ Boyut: %s
 İndirme sayısı: %s"</string>
     <string name="vibrate_intensity">vibrate_intensity</string>
     <string name="vibrate_intensity_title">Titreşim yoğunluğu</string>
-    <string name="vibrate_summary">Jieshuo Ekran Okuyucusunun bilgi sağlamak için dokunsal titreşimli geri bildirim kullanıp kullanmayacağını belirler</string>
+    <string name="vibrate_summary">MS Vaani Ekran Okuyucusunun bilgi sağlamak için dokunsal titreşimli geri bildirim kullanıp kullanmayacağını belirler</string>
     <string name="vibrate_title">Titreşimli geri bildirim</string>
     <string name="video_description">Video betimlemesi</string>
     <string name="view_changed_settings_title">Dinamik içerik okuma ayarları</string>
@@ -2472,10 +2472,10 @@ Boyut: %s
     <string name="view_type_move">view_type_move</string>
     <string name="view_type_move_title">Standart görünüm öğelerinde gezinmeyi özelleştir</string>
     <string name="vip_qq_group">vip_qq_group</string>
-    <string name="vip_qq_group_title">Jieshuo Ekran okuyucu VIP QQ grubu</string>
+    <string name="vip_qq_group_title">MS Vaani Ekran okuyucu VIP QQ grubu</string>
     <string name="vip_qq_kefu">vip_qq_kefu</string>
     <string name="vip_qq_kefu_summary">Danışma, satın alma, transfer gibi durumları lütfen bize iletin</string>
-    <string name="vip_qq_kefu_title">Jieshuo ekran okuyucu desteği</string>
+    <string name="vip_qq_kefu_title">MS Vaani ekran okuyucu desteği</string>
     <string name="voice_app_name">Sesli yardımcı</string>
     <string name="voice_cmd_call">Ara</string>
     <string name="voice_cmd_input">Giriş</string>
@@ -2545,10 +2545,10 @@ Boyut: %s
     <string name="vr_dialog_title">Sanal Görsel Yardımcı için Önemli Uyarı!</string>
     <string name="waiting">Lütfen bekleyin</string>
     <string name="wake_lock">wake_lock</string>
-    <string name="wallpaper_description">"Ek izinler vermek istemiyorsanız, lütfen Jieshuo Ekran Okuyucu'yu duvar kağıdınız olarak ayarlayın"</string>
-    <string name="wallpaper_summary">"Bazı telefonlarda varsayılan olarak aşırı pil kısıtlamaları etkin olabilir. Ekran okuyucu pil optimizasyonu modülü tarafından sonlandırılırsa, bu seçeneğin etkinleştirilmesi Jieshuo Ekran Okuyucu'yu bir duvar kâğıdı barındırıcısı olarak ayarlar ve bu etkiyi azaltır."</string>
-    <string name="wallpaper_title">Jieshuo Duvar Kağıdı (Deneysel Özellik)</string>
-    <string name="web_app_name">Jieshuo Web tarayıcı</string>
+    <string name="wallpaper_description">"Ek izinler vermek istemiyorsanız, lütfen MS Vaani Ekran Okuyucu'yu duvar kağıdınız olarak ayarlayın"</string>
+    <string name="wallpaper_summary">"Bazı telefonlarda varsayılan olarak aşırı pil kısıtlamaları etkin olabilir. Ekran okuyucu pil optimizasyonu modülü tarafından sonlandırılırsa, bu seçeneğin etkinleştirilmesi MS Vaani Ekran Okuyucu'yu bir duvar kâğıdı barındırıcısı olarak ayarlar ve bu etkiyi azaltır."</string>
+    <string name="wallpaper_title">MS Vaani Duvar Kağıdı (Deneysel Özellik)</string>
+    <string name="web_app_name">MS Vaani Web tarayıcı</string>
     <string name="web_are_you_open">Sayfa açılsın mı?</string>
     <string name="web_back">Geri</string>
     <string name="web_copy_url">Adresi kopyala</string>
@@ -2562,7 +2562,7 @@ Boyut: %s"</string>
     <string name="web_type_move">web_type_move</string>
     <string name="web_type_move_title">Web sayfası öğelerinde gezinmeyi özelleştir</string>
     <string name="welcome">welcome</string>
-    <string name="welcome_msg">Jieshuo Ekran Okuyucuya Hoş Geldiniz! Bu uygulama, görme engelli kişilerin telefonlarını daha verimli kullanmalarına yardımcı olmayı amaçlamaktadır. Ekran okuyucunun temel ayarlarını yapmak için “Kurulum sihirbazı”na tıklayın, gizlilik politikasını görüntülemek için “İzin Açıklamaları”na tıklayın veya programdan çıkmak için “Çıkış”a tıklayın.</string>
+    <string name="welcome_msg">MS Vaani Ekran Okuyucuya Hoş Geldiniz! Bu uygulama, görme engelli kişilerin telefonlarını daha verimli kullanmalarına yardımcı olmayı amaçlamaktadır. Ekran okuyucunun temel ayarlarını yapmak için “Kurulum sihirbazı”na tıklayın, gizlilik politikasını görüntülemek için “İzin Açıklamaları”na tıklayın veya programdan çıkmak için “Çıkış”a tıklayın.</string>
     <string name="wifi_level_1">Kablosuz sinyali 1 çubuk</string>
     <string name="wifi_level_2">Kablosuz sinyali 2 çubuk</string>
     <string name="wifi_level_3">Kablosuz sinyali 3 çubuk</string>

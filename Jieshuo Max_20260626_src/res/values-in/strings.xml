@@ -6,7 +6,7 @@
     <string name="accessibility_focus_appearance">accessibility_focus_appearance</string>
     <string name="accessibility_focus_appearance_stroke">accessibility_focus_appearance_stroke</string>
     <string name="accessibility_focus_appearance_title">Pengaturan kotak indikator fokus</string>
-    <string name="accessibility_service_description">Jieshuo+ adalah program yang akan membantu tunanetra untuk menggunakan ponsel mereka. Kami melakukan beberapa upaya untuk inovasi. Untuk lebih jelas, buka pengaturanbantuan. Beberapa fitur dibatasi sampai Anda membeli versi lengkap. Untuk informasi lebih lanjut, silakan hubungi kami di grup QQ resmi. fitur: Voice Assistant: gunakan ponsel Anda tanpa harus menyentuh layar dengan Voice Assistant. Extensions: pasang ekstensi untuk meningkatkan pengalaman Anda. Jelajahi berdasarkan karakter, kata, paragraf ... Selalu ada mode penelusuran yang tepat untuk kebutuhan Anda. Program ini cepat dan responsif. Instal tema suara yang akan selalu memanjakan telinga Anda. Fungsi penyalinan lanjutan memungkinkan untuk menyalin teks dengan tepat apa yang Anda butuhkan. Gerakan kontekstual memungkinkan fleksibilitas tinggi. Gerakan yang bisa di kostumisasi. Pengaturan pemberitahuan fleksibel, Anda tidak akan pernah terganggu oleh pemberitahuan yang tidak diinginkan. Fungsionalitas premium: Layar virtual untuk aplikasi yang tidak dapat diakses untuk membuka dunia baru bagi Anda. Identifikasi OCR otomatis: mengidentifikasi gambar dan membaca teks dengan mudah. Pennyelesaian cepat CAPTCHA yang di dukung oleh kecerdasan buatan. Identifikasi semua yang ada di depan Anda. Orang, adegan, dan objek. Penyaringan halaman web: membaca halaman web dengan mudah, tanpa gambar dan konten menganggu. Salin seluruh layar dengan mudah. Mode membaca artikel: berpindah halaman secara otomatis, pemfilteran konten… Gerakan per-aplikasi yang dapat disesuaikan. Daftar favorit: memiliki akses ke konten favorit Anda, di mana saja, kapan saja. Pengeditan cepat: temukan kalimat, kata, atau paragraf yang ingin Anda edit dengan cepat. Pemilihan teks lanjutan: berdasarkan kata, kalimat, paragraf. Pilih teks yang Anda butuhkan. Berbagai operasi dipermudah dengan perintah suara tambahan. Secara otomatis menjalankan plugin, selalu menyediakan plugin favorit Anda. Jieshuo+ adalah pembaca layar yang fleksibel tampa batas!</string>
+    <string name="accessibility_service_description">MS Vaani+ adalah program yang akan membantu tunanetra untuk menggunakan ponsel mereka. Kami melakukan beberapa upaya untuk inovasi. Untuk lebih jelas, buka pengaturanbantuan. Beberapa fitur dibatasi sampai Anda membeli versi lengkap. Untuk informasi lebih lanjut, silakan hubungi kami di grup QQ resmi. fitur: Voice Assistant: gunakan ponsel Anda tanpa harus menyentuh layar dengan Voice Assistant. Extensions: pasang ekstensi untuk meningkatkan pengalaman Anda. Jelajahi berdasarkan karakter, kata, paragraf ... Selalu ada mode penelusuran yang tepat untuk kebutuhan Anda. Program ini cepat dan responsif. Instal tema suara yang akan selalu memanjakan telinga Anda. Fungsi penyalinan lanjutan memungkinkan untuk menyalin teks dengan tepat apa yang Anda butuhkan. Gerakan kontekstual memungkinkan fleksibilitas tinggi. Gerakan yang bisa di kostumisasi. Pengaturan pemberitahuan fleksibel, Anda tidak akan pernah terganggu oleh pemberitahuan yang tidak diinginkan. Fungsionalitas premium: Layar virtual untuk aplikasi yang tidak dapat diakses untuk membuka dunia baru bagi Anda. Identifikasi OCR otomatis: mengidentifikasi gambar dan membaca teks dengan mudah. Pennyelesaian cepat CAPTCHA yang di dukung oleh kecerdasan buatan. Identifikasi semua yang ada di depan Anda. Orang, adegan, dan objek. Penyaringan halaman web: membaca halaman web dengan mudah, tanpa gambar dan konten menganggu. Salin seluruh layar dengan mudah. Mode membaca artikel: berpindah halaman secara otomatis, pemfilteran konten… Gerakan per-aplikasi yang dapat disesuaikan. Daftar favorit: memiliki akses ke konten favorit Anda, di mana saja, kapan saja. Pengeditan cepat: temukan kalimat, kata, atau paragraf yang ingin Anda edit dengan cepat. Pemilihan teks lanjutan: berdasarkan kata, kalimat, paragraf. Pilih teks yang Anda butuhkan. Berbagai operasi dipermudah dengan perintah suara tambahan. Secara otomatis menjalankan plugin, selalu menyediakan plugin favorit Anda. MS Vaani+ adalah pembaca layar yang fleksibel tampa batas!</string>
     <string name="accessibility_service_description2">Dijelaskan bahwa fungsi layanan tambahan dan layanan utama sama persis. Keduanya terutama digunakan dalam beberapa skenario di saat nama layanan pembacaan layar terdeteksi. Kedua layanan tersebut tidak perlu diaktifkan secara bersamaan .</string>
     <string name="accessibility_volume">accessibility_volume</string>
     <string name="action_menu_title">Menu tindakan</string>
@@ -145,7 +145,7 @@
     <string name="camera_screen_down">Turunkan layar ke bawah</string>
     <string name="camera_screen_up">Naikan layar ke atas</string>
     <string name="camera_tag">Kenali pemandangan.</string>
-    <string name="camera_title">Jieshuo camera</string>
+    <string name="camera_title">MS Vaani camera</string>
     <string name="camera_top_move_far">Top move far</string>
     <string name="camera_top_move_near">Top move near</string>
     <string name="camera_top_up">ke atas</string>
@@ -242,7 +242,7 @@
     <string name="cmd_description">Deskripsi (Maximal 15 kata)</string>
     <string name="cmd_manager">Kelola perintah suara buatan</string>
     <string name="code_help">code_help</string>
-    <string name="code_help_title">Jieshuo API reference</string>
+    <string name="code_help_title">MS Vaani API reference</string>
     <string name="command_accept_call">Jawab panggilan</string>
     <string name="command_accessibility_service_setting">Pengaturan aksesibilitas</string>
     <string name="command_action_setting">@string/action_setting_title</string>
@@ -731,7 +731,7 @@
     <string name="has_vip_summary_gesture">gerakan ini tidak dapat dikustomisasi untuk non premium</string>
     <string name="help">help</string>
     <string name="help_feed">help_feed</string>
-    <string name="help_feed_summary">Pembaca layar Jieshuo menggunakan beberapa teknologi pihak ketiga: Tencent AI, Baidu AI, Baidu TTS, Baidu Translator, Baidu MTS, Andro LUA Plus, ETC.</string>
+    <string name="help_feed_summary">Pembaca layar MS Vaani menggunakan beberapa teknologi pihak ketiga: Tencent AI, Baidu AI, Baidu TTS, Baidu Translator, Baidu MTS, Andro LUA Plus, ETC.</string>
     <string name="help_feed_title">Bantuan dan umpan balik</string>
     <string name="help_title">Layar bantuan</string>
     <string name="helper_manager_title">Pengaturan asisten suara</string>
@@ -785,9 +785,9 @@
     <string name="item_current_count" formatted="false">%d dari %d</string>
     <string name="item_from_to_count" formatted="false">Menampilkan item %d hingga %d dari %d</string>
     <string name="jieshuo_bbs">jieshuo_bbs</string>
-    <string name="jieshuo_bbs_summary">Bagikan saran kamu tentang Jieshuo di forum kami</string>
-    <string name="jieshuo_bbs_title">"Jieshuo Screenreader's forum"</string>
-    <string name="jieshuo_beta_title">Jieshuo beta internal</string>
+    <string name="jieshuo_bbs_summary">Bagikan saran kamu tentang MS Vaani di forum kami</string>
+    <string name="jieshuo_bbs_title">"MS Vaani Screen Reader's forum"</string>
+    <string name="jieshuo_beta_title">MS Vaani beta internal</string>
     <string name="keep_focus_position">keep_focus_position</string>
     <string name="keep_focus_position_speak">keep_focus_position_speak</string>
     <string name="keep_focus_position_speak_title">Bacakan posisi fokus sebelumnya:</string>
@@ -921,7 +921,7 @@
     <string name="message_title">Petunjuk</string>
     <string name="message_voice_feedback_paused">Umpan balik suara dimatikan.</string>
     <string name="message_voice_feedback_resume">Umpan balik suara diaktifkan</string>
-    <string name="message_welcome">Selamat Datang Di Jieshuo screen reader</string>
+    <string name="message_welcome">Selamat Datang Di MS Vaani Screen Reader</string>
     <string name="min">Minute</string>
     <string name="more">Lebih</string>
     <string name="more_setting">Pengaturan lainnya</string>
@@ -978,7 +978,7 @@
     <string name="msg_enabled_supper_mode">Mengaktifkan Mode navigasi terperinci</string>
     <string name="msg_enabled_supper_mode_error">Gagal mengaktifkan mode navigasi terperinci</string>
     <string name="msg_exit_game_mode">keluar dari mod gamer</string>
-    <string name="msg_export_all_file">Ini akan mengekspor semua pengaturan dan file Jieshuo ke %s untuk diimpor pada ponsel baru. Harap hindari berbagi arsip yang diekspor dengan orang lain karena berisi data Anda sendiri, termasuk informasi login Anda.</string>
+    <string name="msg_export_all_file">Ini akan mengekspor semua pengaturan dan file MS Vaani ke %s untuk diimpor pada ponsel baru. Harap hindari berbagi arsip yang diekspor dengan orang lain karena berisi data Anda sendiri, termasuk informasi login Anda.</string>
     <string name="msg_export_all_file_fail">Gagal mengekspor. Silakan coba lagi</string>
     <string name="msg_favorite_added">Favorit</string>
     <string name="msg_favorite_backup_done">favorite berhasil di backup</string>
@@ -993,8 +993,8 @@
     <string name="msg_gesture_has_vip">Versi gratis tidak mendukung modifikasi gerakan atas, bawah, kiri dan kanan</string>
     <string name="msg_gesture_updated">Skema gerakan pembaruan sudah selesai</string>
     <string name="msg_gestures_empty">Daftar gerakan kosong</string>
-    <string name="msg_has_enabled">Harap aktifkan Jieshuo terlebih dahulu</string>
-    <string name="msg_has_not_enabled">Jieshuo belum diaktifkan, dan layanan hanya dapat dijalankan setelah mengaktifkan jieshuo. Apakah Anda ingin membuka setelan tambahan untuk segera memulai jieshuo? Anda juga dapat mengaktifkannya nanti di pengaturan setelan tambahan</string>
+    <string name="msg_has_enabled">Harap aktifkan MS Vaani terlebih dahulu</string>
+    <string name="msg_has_not_enabled">MS Vaani belum diaktifkan, dan layanan hanya dapat dijalankan setelah mengaktifkan jieshuo. Apakah Anda ingin membuka setelan tambahan untuk segera memulai jieshuo? Anda juga dapat mengaktifkannya nanti di pengaturan setelan tambahan</string>
     <string name="msg_has_not_enabled_33">Perhatikan bahwa jika Anda adalah pengguna Android 13, saat Anda memulai jieshuo di Aksesibilitas, kotak dialog setelan terbatas mungkin muncul, membuat setelan ini tidak tersedia karena alasan keamanan. Setelah mengklik tombol Ok, buka informasi aplikasi jieshuo, klik opsi lainnya di pojok kanan atas, lalu klik Izinkan pengaturan terbatas, lalu buka Aksesibilitas lagi untuk mengaktifkan jieshuo, jika Android 13 Anda tidak muncul peringatan di perangkat, instruksi ini dapat diabaikan.</string>
     <string name="msg_has_storage">Fungsi ini perlu menyimpan file dalam penyimpanan internal. Berikan izin penyimpanan atau keluar dari fungsi ini.</string>
     <string name="msg_has_vip_auto_speak">versi gratis hanya mendukung pesan QQ membaca otomatis</string>
@@ -1006,7 +1006,7 @@
     <string name="msg_hotkey_backup_done">tombol pintasan berhasil di backup</string>
     <string name="msg_hotkey_backup_error">tombol pintasan gagal di backup</string>
     <string name="msg_import">%s diimpor</string>
-    <string name="msg_import_all">Operasi ini akan menimpa pengaturan dan sumber daya Jieshuo Anda</string>
+    <string name="msg_import_all">Operasi ini akan menimpa pengaturan dan sumber daya MS Vaani Anda</string>
     <string name="msg_import_strings">Impor terjemahan bahasa akan menimpa dan menggabungkan pengaturan bahasa Anda, Anda dapat mengekspor pengaturan Anda sendiri terlebih dahulu lalu mengimpor, apakah akan mengimpor secara langsung</string>
     <string name="msg_in_game_mode">memasuki mod gamer</string>
     <string name="msg_invite_code_error">Kode undangan salah</string>
@@ -1108,7 +1108,7 @@
     <string name="msg_stop_video_description">Deskripsi video dihentikan</string>
     <string name="msg_supper_cmd_only_voice_helper">Perintah suara super hanya dapat dipanggil dengan asisten suara</string>
     <string name="msg_supper_mode">Mode navigasi detail memungkinkan konten yang lebih terfokus</string>
-    <string name="msg_talkback_enabled">Anda telah mengaktifkan TalkBack, dan mengaktifkan Jieshuo dan TalkBack secara bersamaan dapat menyebabkan sentuhan yang tidak normal. Harap kembalikan penjelajahan sentuh Jieshuo setelah mematikan TalkBack.</string>
+    <string name="msg_talkback_enabled">Anda telah mengaktifkan TalkBack, dan mengaktifkan MS Vaani dan TalkBack secara bersamaan dapat menyebabkan sentuhan yang tidak normal. Harap kembalikan penjelajahan sentuh MS Vaani setelah mematikan TalkBack.</string>
     <string name="msg_text_changed">teks diubah</string>
     <string name="msg_timer_backup_done">timer berhasil di backup</string>
     <string name="msg_timer_backup_error">timer gagal di backup</string>
@@ -1203,7 +1203,7 @@
     <string name="notification_in_call_no_speak_title">Jangan ganggu notifikasi selama panggilan:</string>
     <string name="notification_in_touch_no_speak">notification_in_touch_no_speak</string>
     <string name="notification_in_touch_no_speak_title">Jangan ganggu saat Anda menyentuh layar:</string>
-    <string name="notification_listener_summary">Setelah mendapatkan izin untuk membaca notifikasi, Jieshuo dapat merekam dan menyiarkan notifikasi dengan lebih stabil</string>
+    <string name="notification_listener_summary">Setelah mendapatkan izin untuk membaca notifikasi, MS Vaani dapat merekam dan menyiarkan notifikasi dengan lebih stabil</string>
     <string name="notification_listener_title">Izin baca notifikasi aplikasi.</string>
     <string name="notification_select_title">Pengaturan pembacaan pemberitahuan</string>
     <string name="notification_setting">notification_setting</string>
@@ -1342,7 +1342,7 @@ end)"</string>
     <string name="only_screen_on">Layar menyala saja.</string>
     <string name="open">Buka</string>
     <string name="open_application_info">open_application_info</string>
-    <string name="open_application_info_title">Buka info aplikasi Jieshuo.</string>
+    <string name="open_application_info_title">Buka info aplikasi MS Vaani.</string>
     <string name="open_project">Buka rancangan</string>
     <string name="open_setup_setting">open_setup_setting</string>
     <string name="open_setup_setting_title">Buka pengaturan Mulai otomatis aplikasi, jika tersedia.</string>
@@ -1369,8 +1369,8 @@ end)"</string>
     <string name="plugin_title">Ekstensi</string>
     <string name="point">Butir</string>
     <string name="power_settings_title">Pengaturan daya</string>
-    <string name="pref_donate_alipay">Donasi melalui alipay untuk mendukung perkembangan Jieshuo.</string>
-    <string name="pref_donate_paypal">Donasi melalui paypal untuk mendukung perkembangan Jieshuo.</string>
+    <string name="pref_donate_alipay">Donasi melalui alipay untuk mendukung perkembangan MS Vaani.</string>
+    <string name="pref_donate_paypal">Donasi melalui paypal untuk mendukung perkembangan MS Vaani.</string>
     <string name="prevent_jump">Anti-lompatan.</string>
     <string name="previous_chapter">previous_chapter</string>
     <string name="previous_chapter_default_value">*Halaman Sebelumnya*|*Bab Sebelumnya*|*Bagian Sebelumnya*|*Chapter Sebelumnya*|*Sebelumnya*</string>
@@ -1390,9 +1390,9 @@ end)"</string>
     <string name="punctuation_none">Tidak ada</string>
     <string name="qq_group">qq_group</string>
     <string name="qq_group2">qq_group2</string>
-    <string name="qq_group2_title">"Commentary Screenreader's official QQ group"</string>
+    <string name="qq_group2_title">"MS Vaani Screen Reader's official QQ group"</string>
     <string name="qq_group_summary">dapatkan informasi lebih lanjut tentang aplikasi, atau membeli aplikasi ini</string>
-    <string name="qq_group_title">Commentary Screenreader official QQ group</string>
+    <string name="qq_group_title">MS Vaani Screen Reader official QQ group</string>
     <string name="questions_answers">questions_answers</string>
     <string name="questions_answers_title">FAQ</string>
     <string name="quick_menu_title">Menu cepat</string>
@@ -1519,7 +1519,7 @@ end)"</string>
     <string name="setup_plugin_title">Pengaturan plugin otomatis</string>
     <string name="setup_setting">setup_setting</string>
     <string name="setup_setting_alarm_permission_msg">Pembaca layar dapat menggunakan izin jam alarm untuk menyiarkan waktu atau melakukan tugas pada waktu yang Anda tentukan</string>
-    <string name="setup_setting_battery_permission_msg">Menghidupkan opsi ini dapat mengoptimalkan Jieshuo.</string>
+    <string name="setup_setting_battery_permission_msg">Menghidupkan opsi ini dapat mengoptimalkan MS Vaani.</string>
     <string name="setup_setting_continue">Lanjutkan panduan pengaturan.</string>
     <string name="setup_setting_done">Pengaturan selesai.</string>
     <string name="setup_setting_done_msg">Anda dapat mengulang pengaturan ini lagi tiap waktu.</string>
@@ -1609,8 +1609,8 @@ end)"</string>
     <string name="sound_scroll_top">suara teks di awal</string>
     <string name="sound_scroll_up">Suara bergulir ke atas</string>
     <string name="sound_settings_title">Pengaturan tema suara</string>
-    <string name="sound_talkman_start">Suara aksesibilitas Jieshuo dimulai</string>
-    <string name="sound_talkman_stop">Suara aksesibilitas Jieshuo dimatikan</string>
+    <string name="sound_talkman_start">Suara aksesibilitas MS Vaani dimulai</string>
+    <string name="sound_talkman_stop">Suara aksesibilitas MS Vaani dimatikan</string>
     <string name="sound_tick">Suara timer</string>
     <string name="sound_timer_end">suara timer berakhir</string>
     <string name="sound_timer_start">suara timer dimulai</string>
@@ -1964,7 +1964,7 @@ end)"</string>
     <string name="use_game_mode_no_speak">use_game_mode_no_speak</string>
     <string name="use_game_mode_no_speak_title">Nonaktifkan sintesis ucapan dalam mode permainan:</string>
     <string name="use_gesture_detection">use_gesture_detection</string>
-    <string name="use_gesture_detection_title">在解说中处理手势</string>
+    <string name="use_gesture_detection_title">在MS Vaani中处理手势</string>
     <string name="use_headset_key">use_headset_key</string>
     <string name="use_headset_key_summary">Tekan tombol headset untuk menuju ke item berikutnya, tekan lama tombol untuk mengaktifkan asisten suara.</string>
     <string name="use_headset_key_title">Gunakan tombol headset untuk mengontrol pembaca layar:</string>
@@ -2009,7 +2009,7 @@ end)"</string>
     <string name="use_left_right">use_left_right</string>
     <string name="use_left_right_double_fling_gesture">use_left_right_double_fling_gesture</string>
     <string name="use_left_right_double_fling_gesture_title">Gunakan usap ke kiri kanan multipart gestur.</string>
-    <string name="use_left_right_msg">Jieshuo mendukung dua cara untuk bernavigasi, bisa dengan cara mengusap ke atas dan ke bawah, ataupun kekiri atau ke kanan, atur sesuai dengan kenyamanan anda.</string>
+    <string name="use_left_right_msg">MS Vaani mendukung dua cara untuk bernavigasi, bisa dengan cara mengusap ke atas dan ke bawah, ataupun kekiri atau ke kanan, atur sesuai dengan kenyamanan anda.</string>
     <string name="use_left_right_no">Menggunakan gestur default..</string>
     <string name="use_left_right_ok">Gunakan gestur alternative saat bernavigasi (usap ke kiri dan kanan).</string>
     <string name="use_left_right_summary">Ketika menggunakan tema gerakan standar, mengubah fokus dengan mengusap ke kiri-kanan, jalankan fungsi pintas dengan mengusap ke atas-bawah.</string>
@@ -2413,10 +2413,10 @@ end)"</string>
     <string name="view_type_move">view_type_move</string>
     <string name="view_type_move_title">Jenis tampilan yang digunakan:</string>
     <string name="vip_qq_group">vip_qq_group</string>
-    <string name="vip_qq_group_title">Commentary Screenreader VIP QQ group</string>
+    <string name="vip_qq_group_title">MS Vaani Screen Reader VIP QQ group</string>
     <string name="vip_qq_kefu">vip_qq_kefu</string>
     <string name="vip_qq_kefu_summary">Untuk konsultasi, pembelian, pergantian perangkat, dan pengalihan kepemilikan, pastikan untuk melalui layanan pelanggan bersertifikat</string>
-    <string name="vip_qq_kefu_title">Jieshuo screenreader support</string>
+    <string name="vip_qq_kefu_title">MS Vaani Screen Reader support</string>
     <string name="voice_app_name">Voice assistant</string>
     <string name="voice_cmd_call">Panggil</string>
     <string name="voice_cmd_input">Masukan</string>
@@ -2486,10 +2486,10 @@ end)"</string>
     <string name="vr_dialog_title">petunjuk penting</string>
     <string name="waiting">Menunggu</string>
     <string name="wake_lock">wake_lock</string>
-    <string name="wallpaper_description">Jika Anda ingin pembaca layar tanpa pengaturan izin, harap atur Jieshuo sebagai wallpaper Anda</string>
-    <string name="wallpaper_summary">Karena beberapa ponsel mungkin mengalami masalah layar mati di latar belakang, Anda dapat mengatur Jieshuo sebagai wallpaper untuk meningkatkan stabilitas latar belakang.</string>
-    <string name="wallpaper_title">Wallpaper Jieshuo.</string>
-    <string name="web_app_name">Jieshuo Web browser</string>
+    <string name="wallpaper_description">Jika Anda ingin pembaca layar tanpa pengaturan izin, harap atur MS Vaani sebagai wallpaper Anda</string>
+    <string name="wallpaper_summary">Karena beberapa ponsel mungkin mengalami masalah layar mati di latar belakang, Anda dapat mengatur MS Vaani sebagai wallpaper untuk meningkatkan stabilitas latar belakang.</string>
+    <string name="wallpaper_title">Wallpaper MS Vaani.</string>
+    <string name="web_app_name">MS Vaani Web browser</string>
     <string name="web_are_you_open">Apakah anda akan membuka</string>
     <string name="web_back">mundur</string>
     <string name="web_copy_url">Salin URL</string>

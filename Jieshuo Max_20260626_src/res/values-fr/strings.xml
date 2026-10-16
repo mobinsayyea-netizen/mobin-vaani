@@ -6,7 +6,7 @@
     <string name="accessibility_focus_appearance">accessibility_focus_appearance</string>
     <string name="accessibility_focus_appearance_stroke">accessibility_focus_appearance_stroke</string>
     <string name="accessibility_focus_appearance_title">apparence du focus:</string>
-    <string name="accessibility_service_description">"Jieshuo est un programme qui aidera les personnes aveugles à utiliser leur téléphone portable. Nous avons fait quelques tentatives d'innovation. Pour plus de détails, ouvrez paramètres \\ Aide et commentaires.
+    <string name="accessibility_service_description">"MS Vaani est un programme qui aidera les personnes aveugles à utiliser leur téléphone portable. Nous avons fait quelques tentatives d'innovation. Pour plus de détails, ouvrez paramètres \\ Aide et commentaires.
  Certaines fonctionnalités sont limitées jusqu'à l'achat de la version complète. Pour plus de détails, veuillez contacter le service clientèle du groupe QQ officiel..
  
  Caractéristiques:
@@ -34,7 +34,7 @@
  Diverses opérations facilitées par des commandes vocales supplémentaires.
  Exécution automatique des plugins, ayez toujours vos plugins préférés accessibles immédiatement.
  Le commentaire est votre lecteur d'écran flexible, configurable à l'infini!"</string>
-    <string name="accessibility_service_description2">解说辅助服务和主服务功能完全相同，主要用于部分会检测读屏服务名的场景，两个服务不需要同时开启。</string>
+    <string name="accessibility_service_description2">MS Vaani辅助服务和主服务功能完全相同，主要用于部分会检测读屏服务名的场景，两个服务不需要同时开启。</string>
     <string name="accessibility_volume">accessibility_volume</string>
     <string name="action_menu_title">menu des actions du texte</string>
     <string name="action_setting">action_setting</string>
@@ -67,7 +67,7 @@
     <string name="alarm_settings_title">"Paramètres d'alarme"</string>
     <string name="alarm_start_hour">alarm_start_hour</string>
     <string name="alarm_start_hour_title">Heure du début:</string>
-    <string name="album_activity">Album Jieshuo</string>
+    <string name="album_activity">Album MS Vaani</string>
     <string name="all">Tout</string>
     <string name="all_description">multi reconnaissance</string>
     <string name="all_notification_count">Il y a %d notifications.</string>
@@ -199,7 +199,7 @@
     <string name="check_overlay_permissions">check_overlay_permissions</string>
     <string name="check_overlay_permissions_title">Superposer aux autres applis</string>
     <string name="check_permissions">check_permissions</string>
-    <string name="check_permissions_msg">"Jieshuo, nécessite des autorisations de base pour fonctionner, telles que l'utilisation du stockage pour lire les effets sonores ou pour stocker des photos. Cliquez sur Suivant pour accorder ces autorisations. Il s'agit des autorisations de base de l'application. Cliquez sur Annuler pour quitter."</string>
+    <string name="check_permissions_msg">"MS Vaani, nécessite des autorisations de base pour fonctionner, telles que l'utilisation du stockage pour lire les effets sonores ou pour stocker des photos. Cliquez sur Suivant pour accorder ces autorisations. Il s'agit des autorisations de base de l'application. Cliquez sur Annuler pour quitter."</string>
     <string name="check_permissions_title">Vérifier les autorisations</string>
     <string name="check_read_phone_state_permission">vérifier la validité des permissions.</string>
     <string name="check_update">check_update</string>
@@ -269,7 +269,7 @@
     <string name="cmd_description">description (De 15 à 500 caractères).</string>
     <string name="cmd_manager">gérer les commandes vocales</string>
     <string name="code_help">code_help</string>
-    <string name="code_help_title">"Référence de l'API Jieshuo"</string>
+    <string name="code_help_title">"Référence de l'API MS Vaani"</string>
     <string name="command_accept_call">décrocher</string>
     <string name="command_accessibility_service_setting">accessibilité</string>
     <string name="command_action_setting">@string/action_setting_title</string>
@@ -351,7 +351,7 @@
     <string name="command_paste_from_cloud">coller depuis le cloud</string>
     <string name="command_pasue_timer">Suspendre le minuteur</string>
     <string name="command_pause_a11y_volume">"Basculer le volume d'accessibilité"</string>
-    <string name="command_pause_gesture">suspendre les gestes de Jieshuo</string>
+    <string name="command_pause_gesture">suspendre les gestes de MS Vaani</string>
     <string name="command_play_control">Contrôle de la lecture</string>
     <string name="command_power_dialog">"Menu d'arrêt"</string>
     <string name="command_previous_window">fenêtre précédente</string>
@@ -614,7 +614,7 @@
     <string name="edge_gesture_width">edge_gesture_width</string>
     <string name="edge_gesture_width_title">Plage de déclenchement des gestes du bords:</string>
     <string name="edit">modifier</string>
-    <string name="edit_activity">éditeur Jieshuo</string>
+    <string name="edit_activity">éditeur MS Vaani</string>
     <string name="edit_app_profiles_title">编辑单应用情景模式</string>
     <string name="edit_box_no_found">Zone de texte introuvable</string>
     <string name="edit_button">Entrez une liste des boutons, (un par ligne).</string>
@@ -814,7 +814,7 @@
     <string name="jieshuo_bbs">jieshuo_bbs</string>
     <string name="jieshuo_bbs_summary">"Vous pouvez partager des commentaires concernant le lecteur d'écran sur Le forum."</string>
     <string name="jieshuo_bbs_title">Le forum</string>
-    <string name="jieshuo_beta_title">Jieshuo beta</string>
+    <string name="jieshuo_beta_title">MS Vaani beta</string>
     <string name="keep_focus_position">keep_focus_position</string>
     <string name="keep_focus_position_speak">keep_focus_position_speak</string>
     <string name="keep_focus_position_speak_title">Lire le focus précédent:</string>
@@ -1016,15 +1016,15 @@
     <string name="msg_filter">%d Résultats</string>
     <string name="msg_gesture_backup_done">Les gestes sont exportés</string>
     <string name="msg_gesture_backup_error">"Erreur lors de l'exportation des gestes"</string>
-    <string name="msg_gesture_disabled">Les gestes de Jieshuo sont suspendus</string>
+    <string name="msg_gesture_disabled">Les gestes de MS Vaani sont suspendus</string>
     <string name="msg_gesture_empty">Le répertoire des gestes est vide</string>
-    <string name="msg_gesture_enabled">Les gestes de Jieshuo sont repris</string>
+    <string name="msg_gesture_enabled">Les gestes de MS Vaani sont repris</string>
     <string name="msg_gesture_has_vip">Les quatre premiers gestes ne peuvent pas être personnalisés dans la version gratuite</string>
     <string name="msg_gesture_updated">Les gestes ont été mis à jour</string>
     <string name="msg_gestures_empty">Le répertoire des gestes est vide</string>
-    <string name="msg_has_enabled">"Veuillez d'abord activer Jieshuo."</string>
-    <string name="msg_has_not_enabled">"Jieshuo n'est pas encore activé. Voulez-vous accéder à Accessibilité afin de l'activer?"</string>
-    <string name="msg_has_not_enabled_33">"Notez que si vous êtes un utilisateur d'Android 13, lorsque vous démarrez Jieshuo pour la première fois dans Accessibilité, une boîte de dialogue de réglage restreint peuvent apparaisse, indiquant que ce paramètre n'est pas disponible pour des raisons de sécurité. veuillez Après avoir cliqué sur le bouton de confirmation. ouvrez les informations d'application Jieshuo, cliquez sur plus d'options dans le coin supérieur droit, puis cliquez sur Autoriser les paramètres restreints, puis accédez à nouveau à Accessibilité, pour activer Jieshuo. si votre Android 13 Si l'invite ci-dessus n'apparaît pas sur l'appareil, cette instruction peut être ignorée."</string>
+    <string name="msg_has_enabled">"Veuillez d'abord activer MS Vaani."</string>
+    <string name="msg_has_not_enabled">"MS Vaani n'est pas encore activé. Voulez-vous accéder à Accessibilité afin de l'activer?"</string>
+    <string name="msg_has_not_enabled_33">"Notez que si vous êtes un utilisateur d'Android 13, lorsque vous démarrez MS Vaani pour la première fois dans Accessibilité, une boîte de dialogue de réglage restreint peuvent apparaisse, indiquant que ce paramètre n'est pas disponible pour des raisons de sécurité. veuillez Après avoir cliqué sur le bouton de confirmation. ouvrez les informations d'application MS Vaani, cliquez sur plus d'options dans le coin supérieur droit, puis cliquez sur Autoriser les paramètres restreints, puis accédez à nouveau à Accessibilité, pour activer MS Vaani. si votre Android 13 Si l'invite ci-dessus n'apparaît pas sur l'appareil, cette instruction peut être ignorée."</string>
     <string name="msg_has_storage">"Cette fonction doit stocker des fichiers dans le stockage intégré, veuillez accorder l'autorisation du stockage ou quitter cette fonction"</string>
     <string name="msg_has_vip_auto_speak">"elle supporte seulement l'application qq dans la version gratuite"</string>
     <string name="msg_has_vip_dict">Seulement 5 éléments peuvent être ajoutés dans la version gratuite</string>
@@ -1035,7 +1035,7 @@
     <string name="msg_hotkey_backup_done">Les raccourcis clavier sont exportés</string>
     <string name="msg_hotkey_backup_error">"Erreur lors de l'exportation du raccourcis clavier"</string>
     <string name="msg_import">%s importé.</string>
-    <string name="msg_import_all">Cette opération écrasera tous les paramètres et ressources de Jieshuo</string>
+    <string name="msg_import_all">Cette opération écrasera tous les paramètres et ressources de MS Vaani</string>
     <string name="msg_import_strings">"Veuillez d'abord exporter la traduction actuelle pour y revenir à tout moment, L'importation de la traduction remplacera la traduction actuelle. Vous souhaitez importer ?"</string>
     <string name="msg_in_game_mode">mode libre activé</string>
     <string name="msg_invite_code_error">"Le code d'invitation est incorrect"</string>
@@ -1137,7 +1137,7 @@
     <string name="msg_stop_video_description">description de la vidéo est arrêtée</string>
     <string name="msg_supper_cmd_only_voice_helper">"Les commandes vocales supérieures ne peuvent être utilisées que via l'assistant vocal."</string>
     <string name="msg_supper_mode">Mode de navigation détaillé.</string>
-    <string name="msg_talkback_enabled">"TalkBack activé. L'activation simultanée de TalkBack et de Jieshuo entraînera des problèmes d'exploration tactile.. veuillez réactivez l'exploration tactile après la désactivation de talkBack"</string>
+    <string name="msg_talkback_enabled">"TalkBack activé. L'activation simultanée de TalkBack et de MS Vaani entraînera des problèmes d'exploration tactile.. veuillez réactivez l'exploration tactile après la désactivation de talkBack"</string>
     <string name="msg_text_changed">texte changé</string>
     <string name="msg_timer_backup_done">le minuteur a été a été exportés</string>
     <string name="msg_timer_backup_error">"Erreur lors de l'exportation du minuteur"</string>
@@ -1562,12 +1562,12 @@ end)"</string>
     <string name="setup_plugin">setup_plugin</string>
     <string name="setup_plugin_title">Exécution automatique des plugins</string>
     <string name="setup_setting">setup_setting</string>
-    <string name="setup_setting_alarm_permission_msg">"Jieshuo utilise l'autorisation de des alarmes &amp; rappels pour diffuser l'heure ou effectuer des tâches à l'heure que vous spécifiez"</string>
+    <string name="setup_setting_alarm_permission_msg">"MS Vaani utilise l'autorisation de des alarmes &amp; rappels pour diffuser l'heure ou effectuer des tâches à l'heure que vous spécifiez"</string>
     <string name="setup_setting_battery_permission_msg">"L'optimisation de la batterie peut prolonger la durée de vie de la batterie, mais peut entraîner la fermeture inattendue ou la mise en veille prolongée de jieshuo. Ignorer l'optimisation de la batterie pour améliorer sa stabilité."</string>
     <string name="setup_setting_continue">Continuer</string>
     <string name="setup_setting_done">effectuer</string>
     <string name="setup_setting_done_msg">"Vous pouvez l'exécuter à nouveau dans Paramètres généraux, Assistant de configuration"</string>
-    <string name="setup_setting_file_permission_msg">"Jieshuo utilise l'autorisations d'accès à tous les fichiers pour enregistrer et lire les plugins, les effets sonores, les outils et les sauvegardes, etc."</string>
+    <string name="setup_setting_file_permission_msg">"MS Vaani utilise l'autorisations d'accès à tous les fichiers pour enregistrer et lire les plugins, les effets sonores, les outils et les sauvegardes, etc."</string>
     <string name="setup_setting_get_permission">Autoriser</string>
     <string name="setup_setting_has_alarm_permission">Les alarmes et les rappels sont autorisés.</string>
     <string name="setup_setting_has_battery_permission">"L'optimisation de la batterie est ignorée."</string>
@@ -1653,8 +1653,8 @@ end)"</string>
     <string name="sound_scroll_top">Premier élément:</string>
     <string name="sound_scroll_up">"Faites défiler vers l'arrière:"</string>
     <string name="sound_settings_title">personnaliser le Thème sonore:</string>
-    <string name="sound_talkman_start">Activation Jieshuo:</string>
-    <string name="sound_talkman_stop">Désactivation Jieshuo:</string>
+    <string name="sound_talkman_start">Activation MS Vaani:</string>
+    <string name="sound_talkman_stop">Désactivation MS Vaani:</string>
     <string name="sound_tick">"indication de l'heure ou de la durée du minuteur:"</string>
     <string name="sound_timer_end">fin du minuteur.</string>
     <string name="sound_timer_start">début du minuteur.</string>
@@ -2053,7 +2053,7 @@ end)"</string>
     <string name="use_left_right">use_left_right</string>
     <string name="use_left_right_double_fling_gesture">use_left_right_double_fling_gesture</string>
     <string name="use_left_right_double_fling_gesture_title">Utilisez le balayage Vers la gauche puis vers la droite:</string>
-    <string name="use_left_right_msg">"Jieshuo, utilise le balayage vers le bas pour passer à l'élément suivant, ou vers le haut pour revenir à l'élément précédent. et vers la gauche ou ver la droite pour exécuter des fonctions de raccourci. Si vous êtes habitué à utiliser le balayage vers la droite ou vers la gauche pour naviguez entre les éléments, cliquez sur Utiliser le balayage vers la droite ou vers la gauche. Si vous êtes habitué à utiliser le balayage vers le bas ou vers le haut, cliquez sur Utiliser le balayage vers le bas ou vers le haut. veuillez noter que lorsque vous utilisez le balayage vers la droite ou vers la gauche pour naviguez entre les éléments, vous utiliserez le balayage vers le bas ou vers le haut pour exécuter des fonctions de raccourci. ou inversement. le balayage vers la droite est alternatif au balayage vers le bas. le balayage vers la gauche est alternatif au balayage vers le haut."</string>
+    <string name="use_left_right_msg">"MS Vaani, utilise le balayage vers le bas pour passer à l'élément suivant, ou vers le haut pour revenir à l'élément précédent. et vers la gauche ou ver la droite pour exécuter des fonctions de raccourci. Si vous êtes habitué à utiliser le balayage vers la droite ou vers la gauche pour naviguez entre les éléments, cliquez sur Utiliser le balayage vers la droite ou vers la gauche. Si vous êtes habitué à utiliser le balayage vers le bas ou vers le haut, cliquez sur Utiliser le balayage vers le bas ou vers le haut. veuillez noter que lorsque vous utilisez le balayage vers la droite ou vers la gauche pour naviguez entre les éléments, vous utiliserez le balayage vers le bas ou vers le haut pour exécuter des fonctions de raccourci. ou inversement. le balayage vers la droite est alternatif au balayage vers le bas. le balayage vers la gauche est alternatif au balayage vers le haut."</string>
     <string name="use_left_right_no">Utiliser le balayage vers le bas ou vers le haut</string>
     <string name="use_left_right_ok">Utiliser le balayage vers la droite ou vers la gauche</string>
     <string name="use_left_right_summary">"Lorsqu'il est activé, déplacez-vous entre les éléments en balayant vers la droite ou vers la gauche. Effectuer des fonctions supplémentaires en balayant Vers le bas ou vers le haut"</string>
@@ -2101,7 +2101,7 @@ end)"</string>
     <string name="use_navigation_gesture_summary">"Faites glisser avec un doigt vers le haut depuis le bas de l'écran Pour accéder à l'écran d'accueil. （Prend uniquement en charge Android 11 et supérieur）"</string>
     <string name="use_navigation_gesture_title">Gestes en mode plein écran avec un doigt:</string>
     <string name="use_new_text_move_type">use_new_text_move_type</string>
-    <string name="use_new_text_move_type_title">Utiliser le style de navigation de Jieshuo en mode mot par mot:</string>
+    <string name="use_new_text_move_type_title">Utiliser le style de navigation de MS Vaani en mode mot par mot:</string>
     <string name="use_new_web_type">use_new_web_type</string>
     <string name="use_new_web_type_summary">Cette option vous donne une vitesse de navigation plus rapide. En cas du problème avec le Web, veuillez désactiver cette option.</string>
     <string name="use_new_web_type_title">utiliser la nouvelle affichage web:</string>
@@ -2460,7 +2460,7 @@ end)"</string>
     <string name="view_type_move">view_type_move</string>
     <string name="view_type_move_title">"Choisissez les types de navigation dans l'affichage standard:"</string>
     <string name="vip_qq_group">vip_qq_group</string>
-    <string name="vip_qq_group_title">Jieshuo VIP QQ group</string>
+    <string name="vip_qq_group_title">MS Vaani VIP QQ group</string>
     <string name="vip_qq_kefu">vip_qq_kefu</string>
     <string name="vip_qq_kefu_summary">咨询，购买，移机，过户请务必通过认证客服</string>
     <string name="vip_qq_kefu_title">support</string>
@@ -2529,7 +2529,7 @@ end)"</string>
     <string name="vr_camera_flash_on">flash activé</string>
     <string name="vr_camera_light">luminosité:</string>
     <string name="vr_camera_zoom">zoom:</string>
-    <string name="vr_dialog_message">"La fonction d'assistance visuelle VR permet aux malvoyants de voir les objets environnants, les livres, les ordinateurs, la télévision, etc. Ils peuvent voir le contenu plus clairement en utilisant le zoom, et le texte dans les bannières et autres peut être lu via Jieshuo par OCR. Nous avons besoin d'un casque VR de téléphone, et il est préférable d'avoir avec lui le contrôleur qui est relié au téléphone via Bluetooth. Nous pouvons utiliser cette fonctionnalité par téléphone. Mais il est préférable d'utiliser l'appareil mentionné pour de meilleurs résultats. En raison de l'angle de vision agrandi et du taux de rafraîchissement, cette fonction n'est pas adaptée à des scénarios tels que la marche et les voyages. Si vous avez besoin de surveiller l'environnement environnant lorsque vous sortez, par exemple en regardant les panneaux d'arrêt de bus, les stations de métro, en cherchant des enseignes de magasin, etc., arrêtez de marcher et utilisez-le après vous être assuré de la sécurité environnante. comment utiliser? Après avoir vu que l'écran est divisé en deux parties, placez le téléphone horizontalement à l'intérieur des lunettes à l'endroit désigné. L'écran du téléphone doit être en face de vous. Les touches fléchées de la télécommande sont utilisées pour changer de valeur et les textes peuvent être reconnus en appuyant sur la touche OK. En l'absence de télécommande, vous pouvez utiliser les touches de volume du téléphone ou du casque pour régler le rapport d'agrandissement, et dans ce dernier, nous trouvons le bouton multimédia que nous utilisons pour reconnaître les textes. Il y a aussi des lunettes qui ont des boutons de volume et un bouton multimédia que nous pouvons utiliser dans le même but. En raison de la taille variable des lunettes VR, certaines peuvent bloquer la caméra, ce qui entraîne l'impossibilité d'utiliser cette fonction normalement. Vous devez l'essayer sur votre téléphone avant d'acheter, pour vous assurer qu'il correspond à votre téléphone. Remarque: Si vous ne l'utilisez pas conformément aux instructions, vous serez responsable de toutes les conséquences"</string>
+    <string name="vr_dialog_message">"La fonction d'assistance visuelle VR permet aux malvoyants de voir les objets environnants, les livres, les ordinateurs, la télévision, etc. Ils peuvent voir le contenu plus clairement en utilisant le zoom, et le texte dans les bannières et autres peut être lu via MS Vaani par OCR. Nous avons besoin d'un casque VR de téléphone, et il est préférable d'avoir avec lui le contrôleur qui est relié au téléphone via Bluetooth. Nous pouvons utiliser cette fonctionnalité par téléphone. Mais il est préférable d'utiliser l'appareil mentionné pour de meilleurs résultats. En raison de l'angle de vision agrandi et du taux de rafraîchissement, cette fonction n'est pas adaptée à des scénarios tels que la marche et les voyages. Si vous avez besoin de surveiller l'environnement environnant lorsque vous sortez, par exemple en regardant les panneaux d'arrêt de bus, les stations de métro, en cherchant des enseignes de magasin, etc., arrêtez de marcher et utilisez-le après vous être assuré de la sécurité environnante. comment utiliser? Après avoir vu que l'écran est divisé en deux parties, placez le téléphone horizontalement à l'intérieur des lunettes à l'endroit désigné. L'écran du téléphone doit être en face de vous. Les touches fléchées de la télécommande sont utilisées pour changer de valeur et les textes peuvent être reconnus en appuyant sur la touche OK. En l'absence de télécommande, vous pouvez utiliser les touches de volume du téléphone ou du casque pour régler le rapport d'agrandissement, et dans ce dernier, nous trouvons le bouton multimédia que nous utilisons pour reconnaître les textes. Il y a aussi des lunettes qui ont des boutons de volume et un bouton multimédia que nous pouvons utiliser dans le même but. En raison de la taille variable des lunettes VR, certaines peuvent bloquer la caméra, ce qui entraîne l'impossibilité d'utiliser cette fonction normalement. Vous devez l'essayer sur votre téléphone avant d'acheter, pour vous assurer qu'il correspond à votre téléphone. Remarque: Si vous ne l'utilisez pas conformément aux instructions, vous serez responsable de toutes les conséquences"</string>
     <string name="vr_dialog_title">Message important:</string>
     <string name="waiting">Veuillez patienter...</string>
     <string name="wake_lock">wake_lock</string>
@@ -2549,7 +2549,7 @@ end)"</string>
     <string name="web_type_move">web_type_move</string>
     <string name="web_type_move_title">"Choisissez les types de navigation dans l'affichage web:"</string>
     <string name="welcome">welcome</string>
-    <string name="welcome_msg">"Jieshuo, est un logiciel pour les aveugles et les malvoyants. Il peut vous aider à utiliser votre téléphone mobile plus efficacement. Cliquez sur assistant de configuration pour vous aider à effectuer les paramètres de base de lecteur d'écran. Cliquez sur description d'autorisation pour savoir l'utilisation de chaque autorisation."</string>
+    <string name="welcome_msg">"MS Vaani, est un logiciel pour les aveugles et les malvoyants. Il peut vous aider à utiliser votre téléphone mobile plus efficacement. Cliquez sur assistant de configuration pour vous aider à effectuer les paramètres de base de lecteur d'écran. Cliquez sur description d'autorisation pour savoir l'utilisation de chaque autorisation."</string>
     <string name="wifi_level_1">signal wifi très faible.</string>
     <string name="wifi_level_2">signal Wi-Fi faible.</string>
     <string name="wifi_level_3">signal wifi moyen.</string>

@@ -64,7 +64,7 @@
         <item>60</item>
     </string-array>
     <string-array name="code_help_items" formatted="false">
-        <item>"解说多功能手势和插件以lua语法配合解说专有API实现一个手势多个功能。
+        <item>"MS Vaani多功能手势和插件以lua语法配合MS Vaani专有API实现一个手势多个功能。
  如果对lua和androlua比较熟悉，还可以实现更多功能，本文档只讲述专有API部分。"</item>
         <item>"基本概念，
  service，辅助功能服务，是这个读屏服务的核心，各个功能都是以这个服务为核心。"</item>
@@ -76,7 +76,7 @@
  返回true则拦截该手势，false返回上一层执行，如在单程序手势返回false，则由全局手势接管处理，全局手势返回false，由默认手势处理。"</item>
         <item>" 常用命令，
  service.execute(命令,node)
- 这个命令就是解说为了简化开发内置的一些指令，如果执行成功返回true，失败返回false。 "</item>
+ 这个命令就是MS Vaani为了简化开发内置的一些指令，如果执行成功返回true，失败返回false。 "</item>
         <item>" service.postExecute(时间,命令,node)
  延时执行命令， "</item>
         <item>"text=service.getText(node)
@@ -234,7 +234,7 @@
         <item>" service.plugin(插件名称,node)
  执行一个插件，
  返回插件自定义返回的值。 "</item>
-        <item>解说手势以自动点击最为灵活，基础形式是</item>
+        <item>MS Vaani手势以自动点击最为灵活，基础形式是</item>
         <item>"按钮列表={}
  service.click(按钮列表)
  return true"</item>
@@ -260,8 +260,8 @@
         <item>在花括号中嵌套括号可以实现连续点击，</item>
         <item>在按钮列表中我们用一些符号来增强功能，</item>
         <item>最常用的是 * 星号，英文星号，这个符号在按钮文字的前后，表示可以有其它内容</item>
-        <item>比如，在QQ主界面要点击，解说读屏交流群，而这个列表内容有时候后面会有99条未读之类内容，这时候就要写成，</item>
-        <item>解说读屏交流群*</item>
+        <item>比如，在QQ主界面要点击，MS Vaani读屏交流群，而这个列表内容有时候后面会有99条未读之类内容，这时候就要写成，</item>
+        <item>MS Vaani读屏交流群*</item>
         <item>\# 井号，表示第几个结果，有时候一个界面有很多个名字一样的按钮，这时候需要用井号来说明点击第几个，</item>
         <item>如，确定#1，表示第一个，也可以是负数，如确定#-1，表示最后一个。</item>
         <item>这个井号在文字开头表示要查找的是按钮的标签，而不是按钮的名字，比如有的按钮没有名字，可以自己添加标签，并使用标签查找，</item>
@@ -326,24 +326,24 @@
         <item>"模拟滑动还可以指定滑动次数
  [300,500,300,800,1000,10]
  模拟从左算 300 像素，从上算 500 像素的位置，用 1000 毫秒时间滑动到 300,800 的位置，10 次,"</item>
-        <item>"在手势执行中有时会有一些不同情况出现，比如打开QQ，点击解说读屏交流群，点击群资料卡，点击文件，
+        <item>"在手势执行中有时会有一些不同情况出现，比如打开QQ，点击MS Vaani读屏交流群，点击群资料卡，点击文件，
  如果有群公告，会在点击群资料卡那一步卡住，不能执行，
  这时需要分支代码来执行这些突发情况，
  我只是手写例子，可能会有错字导致不能执行，理解意思就可以了，"</item>
         <item>" 按钮列表={
  { >QQ,
- 解说读屏交流群*,
+ MS Vaani读屏交流群*,
  { 我已阅读群公告|我知道了
  },
  群资料卡,
  文件
  } } "</item>
         <item>"因为QQ版本不同，确定群公告按钮也不一样，
- 可以看到，在点击解说读屏交流群后，多了一对花括号括起来按钮，这个括号中的按钮，有则执行，没有则跳过，不影响后边按钮的执行，
+ 可以看到，在点击MS Vaani读屏交流群后，多了一对花括号括起来按钮，这个括号中的按钮，有则执行，没有则跳过，不影响后边按钮的执行，
  如果分支中有复杂操作，或者多种场景，我们还可以套入多个括号，"</item>
         <item>" 按钮列表={
  { >QQ,
- 解说读屏交流群*,
+ MS Vaani读屏交流群*,
  { { 我已阅读群公告,确定},
  { 我知道了,确定},
  },
@@ -366,24 +366,24 @@
     <string-array name="gesture_help_items">
         <item>"Standardbevægelser:
  Bevægelser med en finger, skal udføres lige, og foregå i et almindeligt tempo.
- Bevægelser med en finger, bruges f.eks. til at flytte Jieshuo-markøren, eller benytte bevægelsesgenveje. Til info! Hjælpebeskrivelsen forholder sig til at invertering af bevægelser ikke er valgt."</item>
+ Bevægelser med en finger, bruges f.eks. til at flytte MS Vaani-markøren, eller benytte bevægelsesgenveje. Til info! Hjælpebeskrivelsen forholder sig til at invertering af bevægelser ikke er valgt."</item>
         <item>"Bevægelser med en finger:
- Stryg op og så ned med en finger: flytter Jieshuo-markøren til det første element i skærmbilledet.
- Stryg ned og så op med en finger: flytter Jieshuo-markøren til det sidste element i skærmbilledet.
+ Stryg op og så ned med en finger: flytter MS Vaani-markøren til det første element i skærmbilledet.
+ Stryg ned og så op med en finger: flytter MS Vaani-markøren til det sidste element i skærmbilledet.
  Stryg til venstre og så højre med en finger: viser skærmbillede over seneste apps.
  Stryg til højre og så venstre med en finger: går tilbage til det forrige skærmbillede.
  Stryg op og så til højre med en finger: åbner funktionsmenuen.
- Stryg ned og så til højre med en finger: Åbner Jieshuo menuen.
- Stryg op og så til venstre med en finger: viser udvidelser til Jieshuo.
+ Stryg ned og så til højre med en finger: Åbner MS Vaani menuen.
+ Stryg op og så til venstre med en finger: viser udvidelser til MS Vaani.
  Stryg ned og så til venstre med en finger: aktivere tale assistenten.
- Stryg til venstre og så ned med en finger: Slår tekstnavigeringsmarkøren til, udfør samme bevægelse igen, for at slå Jieshuo-markøren til.
+ Stryg til venstre og så ned med en finger: Slår tekstnavigeringsmarkøren til, udfør samme bevægelse igen, for at slå MS Vaani-markøren til.
  Stryg til venstre og så op med en finger: viser enhedens notifikationscenter.
  Stryg til højre og så op med en finger: læser fra det næste element.
  Stryg til højre og så ned med en finger: Foretager en skærmsøgning i skærmbilledet.
 "</item>
-        <item>"Almindelig navigering med Jieshuo-markøren:
- Stryg ned med en finger: flytter Jieshuo-markøren til næste element.
- Stryg op med en finger: flytter Jieshuo-markøren til forrige element."</item>
+        <item>"Almindelig navigering med MS Vaani-markøren:
+ Stryg ned med en finger: flytter MS Vaani-markøren til næste element.
+ Stryg op med en finger: flytter MS Vaani-markøren til forrige element."</item>
         <item>"Justering af skydværdi:
  Stryg til venstre med en finger: sænker skyderværdi.
  Stryg til højre med en finger: forøger skyderværdi."</item>
@@ -401,7 +401,7 @@
  Stryg til højre og så ned med en finger: flytter tekstnavigeringsmarkøren en sætning fremad af gangen.
  Stryg til venstre og så op med en finger: flytter tekstnavigeringsmarkøren en sætning tilbage af gangen.
  Stryg op og så til højre med en finger: Slår markeringsmarkøren til, udfør samme bevægelse igen, for at slå tekstnavigeringsmarkøren til.
- Stryg til venstre og så ned med en finger: slår Jieshuo-markøren til.
+ Stryg til venstre og så ned med en finger: slår MS Vaani-markøren til.
  Til Info!
  Bruger du tilpassede bevægelser, kan bevægelser med tekstnavigeringsmarkøren, ikke bruges. Du kan undgå denne konflikt, ved at gå ind i Bevægelse og navigering > Bevægelseshåndtering, vælg herinde, at slå midlertidig tilpasset bevægelser fra, når tekstnavigeringsmarkøren er slået til."</item>
         <item>"Bevægelser med markeringsmarkøren: 
@@ -413,7 +413,7 @@
  Stryg til venstre og så ned med en finger: markerer en sætning frem af gangen.
  Stryg til højre og så op med en finger: markerer en sætning tilbage af gangen.
  Stryg op og så til højre med en finger: Slår tekstnavigeringsmarkøren til.
- Stryg til venstre og så ned med en finger: slår Jieshuo-markøren til.
+ Stryg til venstre og så ned med en finger: slår MS Vaani-markøren til.
  Stryg ned og så til højre med en finger: kopiere markeret tekst til udklipsholderen.
  Stryg op og så til venstre med en finger: tilføjer markeret tekst til udklipsholderen.
  Stryg til højre og så op med en finger: kopiere alt tekst til udklipsholderen."</item>
@@ -421,21 +421,21 @@
  Sig åbn, plus navn på specifik app: åbner den specifikke app. Sig send + tekst der skal sendes: sender tekst du har sagt i beskedapps, eksempelvis beskeder, Messenger og WhatsApp. Sig søg efter, plus hvad du gerne vil søge efter: udfører en online søgning, efter det indhold du beder om. Tale assistenten kan udvides med funktioner, ved at du går ind i Avancerede funktioner > Tale assistent og oversættelse > Tale assistent funktioner. Tale assistenten har muligheden, for at kunne tilgå og bruge dine udvidelser, og Tilføjelsesprogrammer."</item>
     </string-array>
     <string-array name="help_items">
-        <item>"Standard navigering med Jieshuo-markøren:
- Et stryg op med en finger, flytter som standard Jieshuo-markøren til det forrige element. Et stryg ned med en finger, flytter som standard Jieshuo-markøren til det næste element.
- Du kan ændre hvordan Jieshuo-markøren skal navigerer, ved at gå ind i Jieshuos grundlæggende indstillinger, vælg herinde inverter bevægelser, for at flytte Jieshuo-markøren til det næste og forrige element, ved at stryge til højre eller venstre med en finger. du har også mulighed for at vælge en foretrukken navigeringsmetode, ved at gå ind i Bevægelse og navigering > Bevægelseshåndtering > Navigeringsmetode."</item>
-        <item>"Jieshuo menu: 
- Et stryg ned og så til højre med en finger, åbner som standard Jieshuo menuen. Når Jieshuo menuen er åbnet, vil der som standard være otte funktioner du kan tilgå. Det er muligt at udvide Jieshuo menuens funktioner, flyt markøren til mere, tryk to gange med en finger på det pågældende element, hvilket udvider Jieshuo menuen. Til Info! Jieshuo menuen, kan sammelagt udvides op til to gange, hvilket vil vise alle funktioner.
- Du kan selv tilpasse, hvilke funktioner Jieshuo menuen skal vise, ved at gå ind i Avancerede funktioner > Jieshuo menu og funktionsmenu."</item>
+        <item>"Standard navigering med MS Vaani-markøren:
+ Et stryg op med en finger, flytter som standard MS Vaani-markøren til det forrige element. Et stryg ned med en finger, flytter som standard MS Vaani-markøren til det næste element.
+ Du kan ændre hvordan MS Vaani-markøren skal navigerer, ved at gå ind i Jieshuos grundlæggende indstillinger, vælg herinde inverter bevægelser, for at flytte MS Vaani-markøren til det næste og forrige element, ved at stryge til højre eller venstre med en finger. du har også mulighed for at vælge en foretrukken navigeringsmetode, ved at gå ind i Bevægelse og navigering > Bevægelseshåndtering > Navigeringsmetode."</item>
+        <item>"MS Vaani menu: 
+ Et stryg ned og så til højre med en finger, åbner som standard MS Vaani menuen. Når MS Vaani menuen er åbnet, vil der som standard være otte funktioner du kan tilgå. Det er muligt at udvide MS Vaani menuens funktioner, flyt markøren til mere, tryk to gange med en finger på det pågældende element, hvilket udvider MS Vaani menuen. Til Info! MS Vaani menuen, kan sammelagt udvides op til to gange, hvilket vil vise alle funktioner.
+ Du kan selv tilpasse, hvilke funktioner MS Vaani menuen skal vise, ved at gå ind i Avancerede funktioner > MS Vaani menu og funktionsmenu."</item>
         <item>"tale assistent:
  Som standard, aktiveres tale assistenten, med et stryg ned og så til venstre med en finger. En lyd vil blive afspillet, som en Identifikation på tale assistenten lytter, herefter, vil du kunne sige den handling du ønsker udført af tale assistenten. Tryk på skærmen med en finger, for at afbryde tale assistenten , mens den er i gang med at lytte.
  Du kan tilpasse tale assistentens funktioner og muligheder, ved at gå ind i Avancerede funktioner > Tale assistent og oversættelse.
 "</item>
         <item>"Funktionsmenu: 
- Som standard, åbnes funktionsmenuen, med et stryg op og så til højre med en finger. Du kan vælge og få vist forskellige elementer i funktionsmenuen, ved at gå ind i Avancerede funktioner > Jieshuo menu og funktionsmenu."</item>
+ Som standard, åbnes funktionsmenuen, med et stryg op og så til højre med en finger. Du kan vælge og få vist forskellige elementer i funktionsmenuen, ved at gå ind i Avancerede funktioner > MS Vaani menu og funktionsmenu."</item>
         <item>"Udvidelser:
  Som standard, åbnes udvidelsesvinduet, med et stryg op og så til venstre med en finger.
- Du kan hente udvidelser ved at gå ind under Hent indhold til Jieshuo > Udvidelser."</item>
+ Du kan hente udvidelser ved at gå ind under Hent indhold til MS Vaani > Udvidelser."</item>
         <item>"Kopier og føj til udklipsholder, udklipsholderen, og opslagstavlen:
  Du finder de beskrevne funktioner nedenfor i funktionsmenuen.
  Kopier til udklipsholder: kopierer det fokuserede element til udklipsholderen.
@@ -444,7 +444,7 @@
  Opslagstavle: Tilgå opslagstavlen for at se gemt indhold du har føjet hertil. Står du placeret i et tekstfelt, kan du trykke to gange med en finger på indhold i opslagstavlen, for at indsætte det. Udfør et langt tryk, for at kopiere til udklipsholderen, redigere tekst, slette tekst, gemme tekst internt på din enhed, eller føj til notesblokken.
  Du kan sikkerhedskopierer eller slette alt indhold I udklipsholderen og opslagstavlen, ved at gå ind i Avancerede funktioner > Overførsler > Administrer udklipsholderen"</item>
         <item>"Listekopiering (kun tilgængelig i den fulde version):
- Listekopiering kan kopiere indhold fra Jieshuo-markørens placering, til det sidste element, som Jieshuo-markøren indrammer.
+ Listekopiering kan kopiere indhold fra MS Vaani-markørens placering, til det sidste element, som MS Vaani-markøren indrammer.
  Efter listekopiering er startet, skal du vente til processen er fuldført, varigheden på en listekopiering, varierer af mængden på det indhold der kopieres. Når processen er fuldført, vil du blive informeret omkring antallet af linjer og elementer der er blevet kopieret til udklipsholderen.
  Under en listekopiering, kan du stoppe processen, ved at stryge i hvilken som helst retning med en finger."</item>
         <item>"Fuld adgang til tekstmarkering (kun tilgængelig i den fulde version):
@@ -455,27 +455,27 @@
  Tryk to gange med en finger på et element, for at redigere det, udfør et langt tryk på et element, for at få yderligere funktioner fremvist til det specifikke element.
  Det er også muligt at gemme redigerede tekst internt på enheden. Tryk to gange med en finger på eksporter, navngiv teksten du gerne vil gemme, afslut nu processen, ved at trykke to gange med en finger på ok."</item>
         <item>"Skærmsøgning:
- En skærmsøgning med Jieshuo, tilbyder at du kan søge efter specifikke elementer i det pågældende skærmbillede. Du foretager som standard en skærmsøgning, ved at stryge til højre og så ned med en finger. Når skærmsøgningsvinduet er åbnet, kan du søge efter specifikt indhold, Vises der ikke nogle søgeresultater, kan du vælge og trykke på en af de to rulleknapper, hvorved skærmsøgningsvinduet vil rulle ned eller op, indtil et matchende resultat vises. Vises der matchende resultater i skærmsøgningen, vil du kunne flytte Jieshuo-markøren ned gennem resultaterne. Elementet, du vælger og trykke på, vil blive aktiveret omgående, hvis det har mulighed for interaktion, takket være intelligens fra Jieshuo. Består elementet af almindelig tekst, vil Jieshuo-markøren blive flyttet dertil, hvis du integrere med det i skærmsøgningen. En skærmsøgning med Jieshuo, er praktisk ved navigering inde i apps og på websider, da det i visse situationer, giver et bedre overblik over indhold, hvorved skærmlæser-brugere får en bedre forståelse for sidens indhold."</item>
+ En skærmsøgning med MS Vaani, tilbyder at du kan søge efter specifikke elementer i det pågældende skærmbillede. Du foretager som standard en skærmsøgning, ved at stryge til højre og så ned med en finger. Når skærmsøgningsvinduet er åbnet, kan du søge efter specifikt indhold, Vises der ikke nogle søgeresultater, kan du vælge og trykke på en af de to rulleknapper, hvorved skærmsøgningsvinduet vil rulle ned eller op, indtil et matchende resultat vises. Vises der matchende resultater i skærmsøgningen, vil du kunne flytte MS Vaani-markøren ned gennem resultaterne. Elementet, du vælger og trykke på, vil blive aktiveret omgående, hvis det har mulighed for interaktion, takket være intelligens fra MS Vaani. Består elementet af almindelig tekst, vil MS Vaani-markøren blive flyttet dertil, hvis du integrere med det i skærmsøgningen. En skærmsøgning med MS Vaani, er praktisk ved navigering inde i apps og på websider, da det i visse situationer, giver et bedre overblik over indhold, hvorved skærmlæser-brugere får en bedre forståelse for sidens indhold."</item>
         <item>"Læsetilstand (kun tilgængelig i den fulde version):
  Du kan læse websiders artikler I din browser, filtrer uønsket indhold fra, og få læst indhold automatisk op."</item>
-        <item>"Jieshuo kamera (kun tilgængelig i den fulde version):
- Funktionen Jieshuo kamera, kan hjælpe med og give beskrivelse af scener, tekst, ansigter, billeder, dyr, planter, frugt og grøntsager, valuta, eller hjælpe dig med at få kameravejledning. Jieshuo kamera, kan kun bruges med enhedens bagerste kamera. Et tryk på lydstyrke op-tasten, starter registreringsprocessen, et tryk på lydstyrke ned-tasten, skifter imellem registreringsfunktionerne."</item>
+        <item>"MS Vaani kamera (kun tilgængelig i den fulde version):
+ Funktionen MS Vaani kamera, kan hjælpe med og give beskrivelse af scener, tekst, ansigter, billeder, dyr, planter, frugt og grøntsager, valuta, eller hjælpe dig med at få kameravejledning. MS Vaani kamera, kan kun bruges med enhedens bagerste kamera. Et tryk på lydstyrke op-tasten, starter registreringsprocessen, et tryk på lydstyrke ned-tasten, skifter imellem registreringsfunktionerne."</item>
         <item>"Hurtignavigering igennem lister:
  Jieshuos Bevægelsesgenveje, er bevægelser der gør navigering igennem lister langt hurtigere, eksempelvis i Facebook, Telegram og YouTube. Bevægelsesgenveje, springer uoverflødige elementer over, for at gøre navigeringen mere simpel, hvilket gør læsning af indhold mere behagelig. Brug den højre bevægelsesgenvej, for at navigere i en liste, brug den venstre bevægelsesgenvej, for at navigere tilbage i en liste. Du kan finde flere indstillinger til Jieshuos bevægelsesgenveje, ved at gå ind under Bevægelse og navigering > Bevægelseshåndtering > Bevægelsesgenveje."</item>
         <item>"Systemdialoger der aldrig skal læses op og altid skal læses op:
  Systemdialoger der aldrig skal læses op, kan filtrere systemdialoger, indeholdende specifikt indhold.
  Systemdialoger der altid skal læses op, kan hjælpe med at læse systemdialoger, indeholdende specifikt indhold."</item>
-        <item>"Jieshuo-markør systemdialoger der aldrig skal læses op:
- Du kan filtrere Jieshuo-markørens indhold til et specifikt element, det bruges primært til at filtrere tilgængelighedsvejledninger fra."</item>
+        <item>"MS Vaani-markør systemdialoger der aldrig skal læses op:
+ Du kan filtrere MS Vaani-markørens indhold til et specifikt element, det bruges primært til at filtrere tilgængelighedsvejledninger fra."</item>
         <item>"Filtrer billeder på websider, med manglende alternative billedtekster (kun tilgængelig i den fulde version):
  Billeder, med manglende alternative billedtekster på websider, kan filtreres. Denne filtrering, gør det nemmere og hurtigere, at konstatere, at indholdet, ikke indeholder en alternativ billedtekst, hvilket hjælper med unødvendig information til et aktuelt billede."</item>
         <item>"Tilpas og hent bevægelsestemaer:
  Du kan tilpasse indbyggede og udvidet funktioner til bevægelser.
- Det er en mulighed at hente et nyt bevægelsestema, hvilket giver adgang til nye bevægelser. Du henter et nyt bevægelsestema, ved at gå ind i Hent indhold til Jieshuo > Bevægelsestema.
+ Det er en mulighed at hente et nyt bevægelsestema, hvilket giver adgang til nye bevægelser. Du henter et nyt bevægelsestema, ved at gå ind i Hent indhold til MS Vaani > Bevægelsestema.
  Efter bevægelsestemaet er hentet ned, skal du først vælge det som dit bevægelsestema, før du kan tage det i brug. For at vælge et bevægelsestema, skal du gå ind i Bevægelse og navigering > Bevægelsestema.
  Hvis du ønsker at oprette dit eget bevægelsestema, er det også en mulighed. For at oprette dit eget bevægelsestema, skal du gå ind i Bevægelse og navigering > Administrer bevægelsestemaer > Opret nyt bevægelsestema. Efter et bevægelsestema er oprettet, kan du efterfølgende gå ind og tilpasse bevægelser efter dine egene preferencer. For at kunne tilpasse bevægelser, i et specifikt bevægelsestema, skal du gå ind i Bevægelse og navigering > Tilpas bevægelsestema."</item>
         <item>"Gamer-tilstand:
- Vil du gerne spille spil på din smartphone, har Jieshuo en indbygget funktion, kaldet for gamer-tilstand, som hjælper med at levere den bedste oplevelse, når du gamer. Du kan vælge hvilke apps som skal bruge Jieshuos indbyggede gamer-tilstand, ved at gå ind i Bevægelse og navigering > Gamer-tilstand > Apps til gamer-tilstand. Det er muligt at vælge og slå Jieshuos tale fra, når gamer-tilstand er aktiv, dette hjælper med at undgå forstyrrelser, når du er ved at game. Desuden, kan du også vælge, at kant-bevægelser og menuer skal slåes fra, når gamer-tilstand er aktiv, dette hjælper med at undgå du ikke udløser en kant-bevægelse, eller trækker en kant-menu frem ved et uheld, imens du gamer. Jieshuos tale, kant-bevægelser og menuer, bliver automatisk slået til igen, når du går ud af apps, som er valgt til gamer-tilstand."</item>
+ Vil du gerne spille spil på din smartphone, har MS Vaani en indbygget funktion, kaldet for gamer-tilstand, som hjælper med at levere den bedste oplevelse, når du gamer. Du kan vælge hvilke apps som skal bruge Jieshuos indbyggede gamer-tilstand, ved at gå ind i Bevægelse og navigering > Gamer-tilstand > Apps til gamer-tilstand. Det er muligt at vælge og slå Jieshuos tale fra, når gamer-tilstand er aktiv, dette hjælper med at undgå forstyrrelser, når du er ved at game. Desuden, kan du også vælge, at kant-bevægelser og menuer skal slåes fra, når gamer-tilstand er aktiv, dette hjælper med at undgå du ikke udløser en kant-bevægelse, eller trækker en kant-menu frem ved et uheld, imens du gamer. Jieshuos tale, kant-bevægelser og menuer, bliver automatisk slået til igen, når du går ud af apps, som er valgt til gamer-tilstand."</item>
         <item>"Fingeraftrykssensor-bevægelser:
  Har du en smartphone med en fysisk fingeraftrykssensor, kan du udføre forskellige handlinger, ved at stryge til venstre, højre, op, og ned på den, f.eks. åbne en app, eller kopiere tekst. For at bruge fingeraftrykssensor-bevægelser, skal du gå ind i Bevægelse og navigering > Fingeraftrykssensor-bevægelser, vælg herinde brug fingeraftrykssensor-bevægelser. Til info! For at bruge fingeraftrykssensor-bevægelser, kræver det at enheden har en fysisk fingeraftrykssensor, samt at Android 8 eller nyere installeret."</item>
         <item>"Kant-bevægelser (kun tilgængelig i den fulde version):
@@ -484,8 +484,8 @@
  En flerparts-bevægelse, er en bevægelse der skal udføres, indenfor en bestemt tidsperiode, straks efter en anden bevægelse er udført.
  Flerparts-bevægelser kan slåes til, ved at du går ind i Bevægelse og navigering > Bevægelseshåndtering.
  Efter flerparts-bevægelser er slået til, har du som standard et halvt sekund, til at udføre en flerparts-bevægelse, denne tidsperiode, kan du tilpasse, ved at gå ind i Bevægelse og navigering > Bevægelseshåndtering > Varighed for flerparts-bevægelse. Du kan vælge, hvilke handlinger der skal udføres, til en specifik flerpartsbevægelse, ved at gå ind i Bevægelse og navigering > Bevægelseshåndtering > Indstillinger for flerparts-bevægelser."</item>
-        <item>"Jieshuo profiler:
- Er der flere brugere af den samme enhed i husstanden, f.eks. en tablet, er Jieshuo profiler, en funktion der anbefales. Med Jieshuo profiler, kan de forskellige brugere i hustanden, oprette sine egne indstillinger, som tilhører profilen de foretages i. Jieshuo profiler kan tilføjes og administreres, inde i Avancerede funktioner > Jieshuo profiler. Det er muligt at vælge hvilken Jieshuo profil der skal bruges, ved at gå ind i Avancerede funktioner > Jieshuo profiler, eller ved at tilgå Jieshuo menuen, og her finde Jieshuo profiler."</item>
+        <item>"MS Vaani profiler:
+ Er der flere brugere af den samme enhed i husstanden, f.eks. en tablet, er MS Vaani profiler, en funktion der anbefales. Med MS Vaani profiler, kan de forskellige brugere i hustanden, oprette sine egne indstillinger, som tilhører profilen de foretages i. MS Vaani profiler kan tilføjes og administreres, inde i Avancerede funktioner > MS Vaani profiler. Det er muligt at vælge hvilken MS Vaani profil der skal bruges, ved at gå ind i Avancerede funktioner > MS Vaani profiler, eller ved at tilgå MS Vaani menuen, og her finde MS Vaani profiler."</item>
     </string-array>
     <string-array name="hot_key_help_items">
         <item>Ctrl+Piletast op: Flytter til det forrige emne.</item>
@@ -500,11 +500,11 @@
         <item>Ctrl+Mellemrum: Aktivere emnet i fokus.</item>
         <item>Ctrl + L: Udfører et langt tryk på et emne.</item>
         <item>Ctrl + Q: Åbner kvikmenuen.</item>
-        <item>Alt + M: Åbner Jieshuo-menuen.</item>
+        <item>Alt + M: Åbner MS Vaani-menuen.</item>
         <item>Alt + A: Åbner funktionsmenuen.</item>
         <item>Alt + P: Viser installeret udvidelser.</item>
         <item>Alt + T: Viser installeret tilføjelsesprogrammer.</item>
-        <item>Alt + V: Aktiverer Jieshuo Assistant.</item>
+        <item>Alt + V: Aktiverer MS Vaani Assistant.</item>
         <item>Alt + S: Starter tekstbehandling.</item>
         <item>Alt + L: Åbner emnevælgeren.</item>
     </string-array>

@@ -6,10 +6,10 @@
     <string name="accessibility_focus_appearance">accessibility_focus_appearance</string>
     <string name="accessibility_focus_appearance_stroke">accessibility_focus_appearance_stroke</string>
     <string name="accessibility_focus_appearance_title">Evidențiere cursor</string>
-    <string name="accessibility_service_description">"Jieshuo Plus este o aplicație cititor de ecran care își propune să facă mai facilă și mai eficientă utilizarea dispozitivelor cu android de către nevăzători. Pentru acest lucru am realizat câteva inovații în privința interacțiunii dintre oameni și dispozitive. Știm că familiarizarea cu aplicația noastră înseamnă timp așa că vă încurajăm să explorați cu răbdare nenumăratele setări sau să ne contactați pentru mai multe informații.
+    <string name="accessibility_service_description">"MS Vaani Plus este o aplicație cititor de ecran care își propune să facă mai facilă și mai eficientă utilizarea dispozitivelor cu android de către nevăzători. Pentru acest lucru am realizat câteva inovații în privința interacțiunii dintre oameni și dispozitive. Știm că familiarizarea cu aplicația noastră înseamnă timp așa că vă încurajăm să explorați cu răbdare nenumăratele setări sau să ne contactați pentru mai multe informații.
  Anumite funcții sunt indisponibile și vor fi deblocate doar după ce achiziționați versiunea completă a aplicației. Pentru mai multe informații vizitați grupul oficial de Telegram al aplicației.
  
- Cele mai importante opțiuni ale Jieshuo Plus includ:
+ Cele mai importante opțiuni ale MS Vaani Plus includ:
  Asistent vocal: scrieți, comunicați cu prietenii sau folosiți-vă dispozitivul fără nici măcar o atingere.
  Sistem de extensii: dobândiți posibilități nelimitate cu sistemul avansat de extensii. Folosiți extensiile deja create sau creați chiar dumneavoastră altele noi.
  Navigare mod listă, navigare mod obiect, navigare automată, navigare text integral, navigare text granular, navigare caracter cu caracter: Găsiți întotdeauna conținutul dorit cu aceste moduri de navigare.
@@ -26,18 +26,18 @@
  Citirea automată a mesajelor: citiți automat mesaje din QQ, YY, Tiktok și multe altele.
  Citirea automată a subtitrărilor: urmărirea filmelor străine nu a fost nicicând mai ușoară. Citiți automat subtitrările și faceți-vă viața mai ușoară.
  Recunoaștere CAPTCHA: folosiți elementele avansate de AI pentru a recunoaște ușor imagini CAPTCHA.
- Camera Jieshuo: aflați informații despre scene, imagini, oameni și text din jurul dumneavoastră. Filtrarea conținutului web: nu lăsați niciodată conținutul neimportant să vă distragă atenția. Filtrați imagini, anunțuri și alte elemente nedorite.
+ Camera MS Vaani: aflați informații despre scene, imagini, oameni și text din jurul dumneavoastră. Filtrarea conținutului web: nu lăsați niciodată conținutul neimportant să vă distragă atenția. Filtrați imagini, anunțuri și alte elemente nedorite.
  Copierea listelor: spuneți adio metodelor obositoare pentru a copia liste lungi. Un click este suficient pentru a copia o listă oricât de lungă.
- Mod de citire a articolelor: întoarcerea automată a paginilor, filtrarea conținutului, sau citirea în fundal. Lăsați Jieshuo Plus să devină totodată și cititorul dumneavoastră de cărți electronice.
+ Mod de citire a articolelor: întoarcerea automată a paginilor, filtrarea conținutului, sau citirea în fundal. Lăsați MS Vaani Plus să devină totodată și cititorul dumneavoastră de cărți electronice.
  Scheme de gesturi pentru fiecare aplicație: creați scheme de gesturi pentru o aplicație anume. Această obțiune oferă posibilități nelimitate.
  Favorite: adunați la un loc conținut utilizat frecvent oricând, oriunde și accesați-l imediat.
  Editare granulară: editați textul pe caractere, cuvinte, propoziții sau paragrafe mai repede, și redactați cu mai multă acuratețe.
  Selectare text: selectați pe caractere, cuvinte, propoziții sau paragrafe pentru a copia textul în locul dorit.
  Comenzi de voce personalizate: procesat de motorul care rulează și extensiile, vă așteaptă posibilități nelimitate de îmbunătățire și ajustare a asistentului vocal.
  Rulare automată a extensiilor: rulați automat diverse extensii la intervale de timp prestabilite.
- Jieshuo Plus este al nostru în măsura în care este și al dumneavoastră. Creați-vă propria experiență Jieshuo cu nenumărate obțiuni de configurare."</string>
-    <string name="accessibility_service_description2">"Jieshuo serviciu alternativ este utilizat pentru a păcăli telefonul că rulează cititorul de ecran Talkback și astfel va avea acces la anumite funcții disponibile doar când Talkback-ul este activat. 
- Atenție! Nu trebuie să fie activate în același timp Jieshuo serviciu alternativ și Jieshuo Plus sau Jieshuo Lite."</string>
+ MS Vaani Plus este al nostru în măsura în care este și al dumneavoastră. Creați-vă propria experiență MS Vaani cu nenumărate obțiuni de configurare."</string>
+    <string name="accessibility_service_description2">"MS Vaani serviciu alternativ este utilizat pentru a păcăli telefonul că rulează cititorul de ecran Talkback și astfel va avea acces la anumite funcții disponibile doar când Talkback-ul este activat. 
+ Atenție! Nu trebuie să fie activate în același timp MS Vaani serviciu alternativ și MS Vaani Plus sau MS Vaani Lite."</string>
     <string name="accessibility_volume">accessibility_volume</string>
     <string name="action_menu_title">Meniu funcții</string>
     <string name="action_setting">action_setting</string>
@@ -70,7 +70,7 @@
     <string name="alarm_settings_title">Setări cronometru</string>
     <string name="alarm_start_hour">alarm_start_hour</string>
     <string name="alarm_start_hour_title">Oră începere alarmă</string>
-    <string name="album_activity">Album Jieshuo Plus</string>
+    <string name="album_activity">Album MS Vaani Plus</string>
     <string name="all">Toate</string>
     <string name="all_description">全能识别</string>
     <string name="all_notification_count">Total notificări: %d.</string>
@@ -144,7 +144,7 @@
     <string name="backup_settings_summary">Selectarea acestei opțiuni vă permite să creați un backup complet a setărilor curente. Vă rugăm să rețineți că această opțiune va suprascrie backup-ul curent.</string>
     <string name="backup_settings_title">Backup setări</string>
     <string name="baidu_tieba">baidu_tieba</string>
-    <string name="baidu_tieba_title">Platforma de postări Jieshuo Plus</string>
+    <string name="baidu_tieba_title">Platforma de postări MS Vaani Plus</string>
     <string name="battery_charging">Încărcare</string>
     <string name="battery_level">Baterie: %d</string>
     <string name="before_yesterday">Alaltăieri</string>
@@ -175,7 +175,7 @@
     <string name="camera_screen_down">Ecran jos</string>
     <string name="camera_screen_up">Ecran sus</string>
     <string name="camera_tag">Recunoaștere scenă</string>
-    <string name="camera_title">Cameră Jieshuo Plus</string>
+    <string name="camera_title">Cameră MS Vaani Plus</string>
     <string name="camera_top_move_far">Mai departe</string>
     <string name="camera_top_move_near">Puțin mai aproape de partea de sus</string>
     <string name="camera_top_up">Partea de sus în sus</string>
@@ -202,7 +202,7 @@
     <string name="check_overlay_permissions">check_overlay_permissions</string>
     <string name="check_overlay_permissions_title">Verificați permisiune afișare ferestre suprapuse</string>
     <string name="check_permissions">check_permissions</string>
-    <string name="check_permissions_msg">Jieshuo Plus are nevoie de câteva permisiuni de bază pentru a funcționa, de exemplu, permisiunea de stocare este utilizată pentru a citi schemele de sunet, extensiile sau orice alte date externe de pe dispozitiv. Faceți click pe „Următorul” pentru a continua și a acorda toate permisiunile necesare, sau faceți click pe „Anulare” pentru a ieși din software</string>
+    <string name="check_permissions_msg">MS Vaani Plus are nevoie de câteva permisiuni de bază pentru a funcționa, de exemplu, permisiunea de stocare este utilizată pentru a citi schemele de sunet, extensiile sau orice alte date externe de pe dispozitiv. Faceți click pe „Următorul” pentru a continua și a acorda toate permisiunile necesare, sau faceți click pe „Anulare” pentru a ieși din software</string>
     <string name="check_permissions_title">Verificare permisiune</string>
     <string name="check_read_phone_state_permission">Verificați permisiune citire stare telefon</string>
     <string name="check_update">check_update</string>
@@ -272,7 +272,7 @@
     <string name="cmd_description">Descriere (15 sau mai multe caractere)</string>
     <string name="cmd_manager">Gestionare comenzi</string>
     <string name="code_help">code_help</string>
-    <string name="code_help_title">Ajutor API Jieshuo Plus</string>
+    <string name="code_help_title">Ajutor API MS Vaani Plus</string>
     <string name="command_accept_call">Răspunde la apel</string>
     <string name="command_accessibility_service_setting">Setări accesibilitate</string>
     <string name="command_action_setting">@string/action_setting_title</string>
@@ -454,7 +454,7 @@
     <string name="content_setting_title">Setări citire</string>
     <string name="continue_run">Continuă</string>
     <string name="continuous_recognition">Recunoaștere în timp real</string>
-    <string name="copy_as_jieshuo_cmd">Copiați ca comandă Jieshuo Plus</string>
+    <string name="copy_as_jieshuo_cmd">Copiați ca comandă MS Vaani Plus</string>
     <string name="copy_text_auto_execute">Copiere automată text</string>
     <string name="copy_username_and_userid">Copiați numele de utilizator și ID-ul în clipboard</string>
     <string name="create">Nou</string>
@@ -618,7 +618,7 @@
     <string name="edge_gesture_width">edge_gesture_width</string>
     <string name="edge_gesture_width_title">Interval vertical pentru declanșare gesturi margine</string>
     <string name="edit">Editare</string>
-    <string name="edit_activity">Editor Jieshuo Plus</string>
+    <string name="edit_activity">Editor MS Vaani Plus</string>
     <string name="edit_app_profiles_title">编辑单应用情景模式</string>
     <string name="edit_box_no_found">Casetă de text negăsită</string>
     <string name="edit_button">Inserați butoane pentru click (câte unul pe rând)</string>
@@ -635,7 +635,7 @@
     <string name="edit_trans_lua">edit_trans_lua</string>
     <string name="edit_trans_lua_title">Editare motor de traducere personalizat</string>
     <string name="emoji_speak_mode0">Citire emoji procesată de TTS</string>
-    <string name="emoji_speak_mode1">Citire emoji procesată de Jieshuo</string>
+    <string name="emoji_speak_mode1">Citire emoji procesată de MS Vaani</string>
     <string name="emoji_speak_mode2">Fără citire emoji</string>
     <string name="enabled_app_gesture">Activare ca schemă de gesturi doar pentru aplicație</string>
     <string name="enabled_gesture">Activare ca schemă de gesturi generală</string>
@@ -762,7 +762,7 @@
     <string name="has_vip_summary_gesture">Personalizarea glisărilor în sus, în jos, la stânga și la dreapta este disponibilă numai pentru utilizatorii versiunii complete a programului</string>
     <string name="help">help</string>
     <string name="help_feed">help_feed</string>
-    <string name="help_feed_summary">Jieshuo Plus este susținut de unele companii din domeniul tehnologiei precum Tencent Youtu, Tencent AI, Baidu Voice, Baidu Translation, Baidu LBS, Baidu MTJ și Andro Lua.</string>
+    <string name="help_feed_summary">MS Vaani Plus este susținut de unele companii din domeniul tehnologiei precum Tencent Youtu, Tencent AI, Baidu Voice, Baidu Translation, Baidu LBS, Baidu MTJ și Andro Lua.</string>
     <string name="help_feed_title">Ajutor și feedback</string>
     <string name="help_title">Ecran de ajutor</string>
     <string name="helper_manager_title">Gestionare asistent vocal</string>
@@ -817,8 +817,8 @@
     <string name="item_from_to_count" formatted="false">Elemente de la %d la %d, total elemente: %d</string>
     <string name="jieshuo_bbs">jieshuo_bbs</string>
     <string name="jieshuo_bbs_summary">Comunicați, învățați și partajați</string>
-    <string name="jieshuo_bbs_title">Forumul Jieshuo Plus</string>
-    <string name="jieshuo_beta_title">Versiuni Jieshuo Beta</string>
+    <string name="jieshuo_bbs_title">Forumul MS Vaani Plus</string>
+    <string name="jieshuo_beta_title">Versiuni MS Vaani Beta</string>
     <string name="keep_focus_position">keep_focus_position</string>
     <string name="keep_focus_position_speak">keep_focus_position_speak</string>
     <string name="keep_focus_position_speak_title">Memorare poziție focus</string>
@@ -952,7 +952,7 @@
     <string name="message_title">Alertă</string>
     <string name="message_voice_feedback_paused">Feedback vorbit dezactivat</string>
     <string name="message_voice_feedback_resume">Feedback vorbit activat</string>
-    <string name="message_welcome">Bun venit la Jieshuo Plus</string>
+    <string name="message_welcome">Bun venit la MS Vaani Plus</string>
     <string name="min">Minut</string>
     <string name="more">Mai mult</string>
     <string name="more_setting">Mai multe opțiuni</string>
@@ -1010,7 +1010,7 @@
     <string name="msg_enabled_supper_mode_error">Eroare activare captură focalizare detaliată</string>
     <string name="msg_exit_game_mode">Mod joc dezactivat</string>
     <string name="msg_export_all_file">"Faceți backup tuturor setărilor și fișierelor în fișierul %s, apoi copiați-l și executați-l pe noul telefon.
- Atenție! Nu partajați acest fișier cu alte persoane deoarece conține și datele de logare Jieshuo și tot clipboard-ul dvs."</string>
+ Atenție! Nu partajați acest fișier cu alte persoane deoarece conține și datele de logare MS Vaani și tot clipboard-ul dvs."</string>
     <string name="msg_export_all_file_fail">Eroare de exportare. Vă rugăm reîncercați!</string>
     <string name="msg_favorite_added">Favorită adăugată</string>
     <string name="msg_favorite_backup_done">Backup favorite finalizat</string>
@@ -1025,9 +1025,9 @@
     <string name="msg_gesture_has_vip">Versiune gratuită, unele funcționalități sunt limitate.</string>
     <string name="msg_gesture_updated">Schema gesturi actualizată</string>
     <string name="msg_gestures_empty">Fără scheme de gesturi</string>
-    <string name="msg_has_enabled">Activați Jieshuo mai întâi</string>
-    <string name="msg_has_not_enabled">Cititorul de ecran Jieshuo nu este activat încă. Pentru a-l utiliza, trebuie să-l porniţi prin setările de accesibilitate. Doriți să mergeți la setările de accesibilitate acum?</string>
-    <string name="msg_has_not_enabled_33">Dacă aveți Android 13 sau o versiune ulterioară, este posibil să vedeți un mesaj de restricție de securitate când încercați să activați serviciul de accesibilitate Jieshuo. Pentru a permite Jieshuo să ruleze, accesați Informații aplicație, atingeți Mai multe opțiuni, alegeți Setările restricționate și confirmați alegerea dvs.</string>
+    <string name="msg_has_enabled">Activați MS Vaani mai întâi</string>
+    <string name="msg_has_not_enabled">Cititorul de ecran MS Vaani nu este activat încă. Pentru a-l utiliza, trebuie să-l porniţi prin setările de accesibilitate. Doriți să mergeți la setările de accesibilitate acum?</string>
+    <string name="msg_has_not_enabled_33">Dacă aveți Android 13 sau o versiune ulterioară, este posibil să vedeți un mesaj de restricție de securitate când încercați să activați serviciul de accesibilitate MS Vaani. Pentru a permite MS Vaani să ruleze, accesați Informații aplicație, atingeți Mai multe opțiuni, alegeți Setările restricționate și confirmați alegerea dvs.</string>
     <string name="msg_has_storage">Această funcție trebuie să stocheze fișiere în spațiul de stocare încorporat, vă rugăm să acordați permisiunea de stocare sau să părăsiți această funcție</string>
     <string name="msg_has_vip_auto_speak">Utilizatorii versiunii gratuite pot folosi citirea inteligentă doar pentru QQ</string>
     <string name="msg_has_vip_dict">Utilizatorii versiunii gratuite nu pot adăuga mai mult de 5 intrări în dicționarul utilizatorului.</string>
@@ -1038,7 +1038,7 @@
     <string name="msg_hotkey_backup_done">Backup taste rapide finalizat</string>
     <string name="msg_hotkey_backup_error">Eroare backup taste rapide</string>
     <string name="msg_import">Importate %s</string>
-    <string name="msg_import_all">Această acțiune va suprascrie setarile și resursele Jieshuo existente</string>
+    <string name="msg_import_all">Această acțiune va suprascrie setarile și resursele MS Vaani existente</string>
     <string name="msg_import_strings">Importarea acestei traduceri personalizate fie va îmbina modificările dvs. cu versiunea importată, fie le va suprascrie în întregime. Înainte de a importa, puteți exporta modificările curente. Ce doriți să efectuați?</string>
     <string name="msg_in_game_mode">Mod joc activat</string>
     <string name="msg_invite_code_error">Codul de invitație este incorect</string>
@@ -1070,7 +1070,7 @@
     <string name="msg_open_error">Eroare deschidere</string>
     <string name="msg_open_file_not_supported">Deschiderea fișierului nu este acceptată</string>
     <string name="msg_plugin_empty">Fără extensii</string>
-    <string name="msg_plugin_run_error">Vă rugăm să rulați mai întâi serviciul de accesibilitate al Jieshuo Plus</string>
+    <string name="msg_plugin_run_error">Vă rugăm să rulați mai întâi serviciul de accesibilitate al MS Vaani Plus</string>
     <string name="msg_plugins_empty">Fără extensii</string>
     <string name="msg_press_again_exit">Apăsați din nou pentru a ieși</string>
     <string name="msg_read_done">Încărcare completă</string>
@@ -1140,7 +1140,7 @@
     <string name="msg_stop_video_description">视频描述已停止</string>
     <string name="msg_supper_cmd_only_voice_helper">Super comenzile vocale pot fi folosite doar cu Asistentul vocal</string>
     <string name="msg_supper_mode">Modul de capturare a focalizării detaliate poate oferi acces la mai mult conținut</string>
-    <string name="msg_talkback_enabled">"TalkBack este activat, iar atunci când TalkBack și Jieshuo sunt activate în același timp pot apărea dificultăți în explorarea ecranului.
+    <string name="msg_talkback_enabled">"TalkBack este activat, iar atunci când TalkBack și MS Vaani sunt activate în același timp pot apărea dificultăți în explorarea ecranului.
 Vă rugăm să dezactivați Talkback-ul pentru a putea explora prin atingere ecranul."</string>
     <string name="msg_text_changed">Conținut modificat</string>
     <string name="msg_timer_backup_done">backup cronometre finalizat</string>
@@ -1218,7 +1218,7 @@ Vă rugăm să dezactivați Talkback-ul pentru a putea explora prin atingere ecr
     <string name="note_tile">Note în cloud</string>
     <string name="notification">Bara de notificări</string>
     <string name="notification_announcement_speak">notification_announcement_speak</string>
-    <string name="notification_announcement_speak_title">Citire automată notificări interne Jieshuo Plus</string>
+    <string name="notification_announcement_speak_title">Citire automată notificări interne MS Vaani Plus</string>
     <string name="notification_app_name_speak">notification_app_name_speak</string>
     <string name="notification_app_name_speak_title">Citire sursă notificări primite</string>
     <string name="notification_bar_speak">notification_bar_speak</string>
@@ -1236,14 +1236,14 @@ Vă rugăm să dezactivați Talkback-ul pentru a putea explora prin atingere ecr
     <string name="notification_in_call_no_speak_title">Dezactivare citire automata notificări în timpul apelului</string>
     <string name="notification_in_touch_no_speak">notification_in_touch_no_speak</string>
     <string name="notification_in_touch_no_speak_title">Notificare interzicere deranjare la atingere ecran</string>
-    <string name="notification_listener_summary">Când permisiunea pentru accesarea notificărilor a fost acordată Jieshuo poate transmite notificările mai stabil.</string>
+    <string name="notification_listener_summary">Când permisiunea pentru accesarea notificărilor a fost acordată MS Vaani poate transmite notificările mai stabil.</string>
     <string name="notification_listener_title">Acordare permisiune accesare notificări</string>
     <string name="notification_select_title">Notă de citit</string>
     <string name="notification_setting">notification_setting</string>
     <string name="notification_settings_title">Setări citire notificări</string>
     <string name="notification_speak">notification_speak</string>
     <string name="notification_speak2">notification_speak2</string>
-    <string name="notification_speak_msg">Vă rugăm să selectați dacă doriți ca cititorul de ecran să citească automat notificările. Notificările includ mesajele SMS primite, prognozele meteo sau orice alte informații generate de dispozitivul dvs. Este recomandat să activați notificările, dar dacă nu doriți să fiți întrerupt în timpul lucrului, este recomandat să le dezactivați. Este demn de remarcat faptul că Jieshuo Plus are o funcție numită „Caseta de notificări”, care ar putea face mult mai ușoară vizualizarea notificărilor pe unele dispozitive.</string>
+    <string name="notification_speak_msg">Vă rugăm să selectați dacă doriți ca cititorul de ecran să citească automat notificările. Notificările includ mesajele SMS primite, prognozele meteo sau orice alte informații generate de dispozitivul dvs. Este recomandat să activați notificările, dar dacă nu doriți să fiți întrerupt în timpul lucrului, este recomandat să le dezactivați. Este demn de remarcat faptul că MS Vaani Plus are o funcție numită „Caseta de notificări”, care ar putea face mult mai ușoară vizualizarea notificărilor pe unele dispozitive.</string>
     <string name="notification_speak_no">Nu se citesc notificările</string>
     <string name="notification_speak_ok">Citire notificări</string>
     <string name="notification_speak_title">Citire notificări</string>
@@ -1371,12 +1371,12 @@ end)"</string>
     <string name="ocr_title">Recunoaștere element focalizat</string>
     <string name="offline_ocr">OCR Offline</string>
     <string name="only_notification">only_notification</string>
-    <string name="only_notification_title">Reluare Jieshuo Plus exclusiv din bara de notificări</string>
+    <string name="only_notification_title">Reluare MS Vaani Plus exclusiv din bara de notificări</string>
     <string name="only_screen_off">Doar când ecranul este oprit</string>
     <string name="only_screen_on">Doar când ecranul este pornit</string>
     <string name="open">Deschidere</string>
     <string name="open_application_info">open_application_info</string>
-    <string name="open_application_info_title">Despre cititorul de ecran Jieshuo Plus</string>
+    <string name="open_application_info_title">Despre cititorul de ecran MS Vaani Plus</string>
     <string name="open_project">Deschidere proiect</string>
     <string name="open_setup_setting">open_setup_setting</string>
     <string name="open_setup_setting_title">Verificați permisiune pornire automată</string>
@@ -1400,11 +1400,11 @@ end)"</string>
  Agenda telefonului: pentru informații despre persoane și apeluri vocale.
  Ferestre suprapuse: pentru ferestre și dialoguri care afișează meniuri și modul ecran întunecat.
  Crearea de comenzi rapide pe ecranul de pornire: oferă posibilitatea ca extensiile (Aplicații rapide) să fie adăugate pe desktop pentru a fi lansate cu ușurință.
- Instalare în aplicație: pentru actualizări automate ale Jieshuo Plus.
+ Instalare în aplicație: pentru actualizări automate ale MS Vaani Plus.
  Accesul la rețea, autentificarea utilizatorilor, recunoașterea imaginilor, etichetarea în cloud, recunoașterea vocii.
- Pornirea automată a serviciului de accesibilitate Jieshuo Plus duppă repornirea telefonului.
+ Pornirea automată a serviciului de accesibilitate MS Vaani Plus duppă repornirea telefonului.
  Împiedicarea blocării dispozitivului: pentru a împiedica închiderea ecranului în timpul unor anunțuri.
- Neacordarea unor permisiuni poate duce la nefuncționarea corectă a Jieshuo Plus în anumite situații."</string>
+ Neacordarea unor permisiuni poate duce la nefuncționarea corectă a MS Vaani Plus în anumite situații."</string>
     <string name="permission_title">Ajutor permisiuni</string>
     <string name="permissions_settings">permissions_settings</string>
     <string name="permissions_settings_title">Setare permisiuni</string>
@@ -1416,8 +1416,8 @@ end)"</string>
     <string name="plugin_title">Extensii</string>
     <string name="point">Punct</string>
     <string name="power_settings_title">Setări gestionare baterie</string>
-    <string name="pref_donate_alipay">Donați folosind Alipay pentru a sprijini dezvoltarea Jieshuo Plus</string>
-    <string name="pref_donate_paypal">Donați folosind Paypal pentru a sprijini dezvoltarea Jieshuo Plus</string>
+    <string name="pref_donate_alipay">Donați folosind Alipay pentru a sprijini dezvoltarea MS Vaani Plus</string>
+    <string name="pref_donate_paypal">Donați folosind Paypal pentru a sprijini dezvoltarea MS Vaani Plus</string>
     <string name="prevent_jump">防跳转</string>
     <string name="previous_chapter">previous_chapter</string>
     <string name="previous_chapter_default_value">*Pagina anterioară*|*Capitolul anterior*|*Pagina anterioară*|*Capitolul anterior*|*Pagina anterioară*</string>
@@ -1437,9 +1437,9 @@ end)"</string>
     <string name="punctuation_none">Nimic</string>
     <string name="qq_group">qq_group</string>
     <string name="qq_group2">qq_group2</string>
-    <string name="qq_group2_title">Grupul secundar al Jieshuo Plus pe QQ</string>
+    <string name="qq_group2_title">Grupul secundar al MS Vaani Plus pe QQ</string>
     <string name="qq_group_summary">Discutați, faceți sugestii sau cumpărați aplicația</string>
-    <string name="qq_group_title">Jieshuo Plus QQ group (versiunea completă</string>
+    <string name="qq_group_title">MS Vaani Plus QQ group (versiunea completă</string>
     <string name="questions_answers">questions_answers</string>
     <string name="questions_answers_title">Întrebări frecvente</string>
     <string name="quick_menu_title">Meniu scurtături</string>
@@ -1480,13 +1480,13 @@ end)"</string>
     <string name="restore_settings_summary">Selectarea acestei opțiuni vă permite să restaurați setările dintr-un backup anterior. Vă rugăm să rețineți că această opțiune va suprascrie setările actuale.</string>
     <string name="restore_settings_title">Restaurare setări</string>
     <string name="resume_on_notification_show">resume_on_notification_show</string>
-    <string name="resume_on_notification_show_title">Reluare Jieshuo cu gestul de deschidere a barei de notificări trăgând cu un deget din partea de sus a ecranului.</string>
+    <string name="resume_on_notification_show_title">Reluare MS Vaani cu gestul de deschidere a barei de notificări trăgând cu un deget din partea de sus a ecranului.</string>
     <string name="resume_on_ringing">resume_on_ringing</string>
-    <string name="resume_on_ringing_title">Reluare Jieshuo la primire apel</string>
+    <string name="resume_on_ringing_title">Reluare MS Vaani la primire apel</string>
     <string name="resume_on_screen_off">resume_on_screen_off</string>
     <string name="resume_on_screen_off_title">当屏幕关闭时恢复反馈</string>
     <string name="resume_on_screen_on">resume_on_screen_on</string>
-    <string name="resume_on_screen_on_title">Reluare Jieshuo după deblocarea ecranului</string>
+    <string name="resume_on_screen_on_title">Reluare MS Vaani după deblocarea ecranului</string>
     <string name="right_button">right_button</string>
     <string name="right_button_default_value">Răspundeți|*Glisați la dreapta pentru a răspunde*|Difuzor|Difuzor telefon|Răspundeți la apelul audio|Următorul|Melodia următoare</string>
     <string name="right_button_title">Setări scurtătură glisare dreapta</string>
@@ -1527,7 +1527,7 @@ end)"</string>
     <string name="ringer_mode_silent">Mod silențios</string>
     <string name="ringer_mode_vibate">Mod vibrație</string>
     <string name="run">Executare</string>
-    <string name="runnimg_background">Jieshuo Plus rulează în fundal</string>
+    <string name="runnimg_background">MS Vaani Plus rulează în fundal</string>
     <string name="sample_text">Aceasta este o mostră de text vorbit în %s</string>
     <string name="save">Salvare</string>
     <string name="save_as_cloud">Salvați ca notă în cloud</string>
@@ -1570,7 +1570,7 @@ end)"</string>
     <string name="setup_setting_continue">Continuați configurarea</string>
     <string name="setup_setting_done">Activitate expert configurare finalizată</string>
     <string name="setup_setting_done_msg">În cazul în care trebuie să rulați din nou expertul de configurare de bază, accesați Setări generale > Expertul de configurare</string>
-    <string name="setup_setting_file_permission_msg">Jieshuo folosește permisiunea de stocare a fișierelor pentru a utiliza și a salva: extensiile, uneltele, schemele de sunet, schemele de gesturi, backup-ul în memoria telefonului.</string>
+    <string name="setup_setting_file_permission_msg">MS Vaani folosește permisiunea de stocare a fișierelor pentru a utiliza și a salva: extensiile, uneltele, schemele de sunet, schemele de gesturi, backup-ul în memoria telefonului.</string>
     <string name="setup_setting_get_permission">Acordați permisiune</string>
     <string name="setup_setting_has_alarm_permission">Permisiunea pentru alarme și memento-uri a fost acordată</string>
     <string name="setup_setting_has_battery_permission">Permisiunea de a ignora optimizarea bateriei a fost acordată</string>
@@ -1583,9 +1583,9 @@ end)"</string>
     <string name="setup_setting_not_notification_permission">Permisiune afișare notificări neacordată</string>
     <string name="setup_setting_not_overlay_permission">Permisiune afișare ferestre suprapuse neacordată</string>
     <string name="setup_setting_not_permission">Permisiuni de bază neacordate</string>
-    <string name="setup_setting_not_permission_msg">Jieshuo Plus nu va funcționa fără anumite permisiuni de bază pe care nu le-ați acordat încă. Dacă faceți click pe „Continuare configurare” veți acorda toate permisiunile necesare și veți continua configurarea, dacă faceți click pe „Acordare permisiuni” veți acorda toate permisiunile necesare și veți ieși din expertul de configurare, în timp ce dacă faceți click pe „Ieșire”, unele funcții vor funcționa incorect.</string>
-    <string name="setup_setting_notification_permission_msg">Jieshuo Plus utilizează permisiunile de afișare a notificărilor pentru a afișa pictograma de notificare utilizată pentru reluarea gesturilor, utilizarea funcțiilor de prevenire a închiderii forțate a aplicațiilor ETC. Acordarea acestei permisiuni va contribui la o mai mare stabilitate a programului pe dispozitivul dvs.</string>
-    <string name="setup_setting_overlay_permission_msg">Jieshuo Plus utilizează ferestrele suprapuse pentru afișarea meniurilor, a rezultatelor recunoașterii sau pentru modul cortină.</string>
+    <string name="setup_setting_not_permission_msg">MS Vaani Plus nu va funcționa fără anumite permisiuni de bază pe care nu le-ați acordat încă. Dacă faceți click pe „Continuare configurare” veți acorda toate permisiunile necesare și veți continua configurarea, dacă faceți click pe „Acordare permisiuni” veți acorda toate permisiunile necesare și veți ieși din expertul de configurare, în timp ce dacă faceți click pe „Ieșire”, unele funcții vor funcționa incorect.</string>
+    <string name="setup_setting_notification_permission_msg">MS Vaani Plus utilizează permisiunile de afișare a notificărilor pentru a afișa pictograma de notificare utilizată pentru reluarea gesturilor, utilizarea funcțiilor de prevenire a închiderii forțate a aplicațiilor ETC. Acordarea acestei permisiuni va contribui la o mai mare stabilitate a programului pe dispozitivul dvs.</string>
+    <string name="setup_setting_overlay_permission_msg">MS Vaani Plus utilizează ferestrele suprapuse pentru afișarea meniurilor, a rezultatelor recunoașterii sau pentru modul cortină.</string>
     <string name="setup_setting_set_permission_and_exit">Acordați permisiuni și ieșiți</string>
     <string name="setup_setting_title">Expert configurare</string>
     <string name="shake_action">shake_action</string>
@@ -1600,7 +1600,7 @@ end)"</string>
     <string name="share_all">Partajare integrală</string>
     <string name="shared_cloud_label">Partajare etichete personalizate în cloud</string>
     <string name="show_download">show_download</string>
-    <string name="show_download_title">Descărcare Jieshuo Plus</string>
+    <string name="show_download_title">Descărcare MS Vaani Plus</string>
     <string name="show_volume_ui">show_volume_ui</string>
     <string name="show_volume_ui_title">Afișare panou de volum sistem la reglarea volumului</string>
     <string name="sign_done">Înregistrare reușită</string>
@@ -1656,8 +1656,8 @@ end)"</string>
     <string name="sound_scroll_top">Derulat până la început</string>
     <string name="sound_scroll_up">Derulați în sus</string>
     <string name="sound_settings_title">Setări schema sunet</string>
-    <string name="sound_talkman_start">Jieshuo pornit</string>
-    <string name="sound_talkman_stop">Jieshuo oprit</string>
+    <string name="sound_talkman_start">MS Vaani pornit</string>
+    <string name="sound_talkman_stop">MS Vaani oprit</string>
     <string name="sound_tick">Beep cronometru</string>
     <string name="sound_timer_end">Oprire cronometru</string>
     <string name="sound_timer_start">Pornire cronometru</string>
@@ -1959,7 +1959,7 @@ end)"</string>
     <string name="use_custom_symbol_speak">use_custom_symbol_speak</string>
     <string name="use_custom_symbol_speak_title">Citire definiții personalizate simboluri</string>
     <string name="use_dim_screen">use_dim_screen</string>
-    <string name="use_dim_screen_title">Pornire Jieshuo cu cortina activată</string>
+    <string name="use_dim_screen_title">Pornire MS Vaani cu cortina activată</string>
     <string name="use_double_edge_gesture">use_double_edge_gesture</string>
     <string name="use_double_edge_gesture_summary">,Stabilește dacă gesturile de margine sunt efectuate cu două degete. Când această opțiune este bifată, este posibil să utilizați alte acțiuni pentru gesturile de margine cu un singur deget.</string>
     <string name="use_double_edge_gesture_title">Gesturi margine cu două degete</string>
@@ -2002,16 +2002,16 @@ end)"</string>
     <string name="use_float_menu_title">Meniu plutitor</string>
     <string name="use_foreground">use_foreground</string>
     <string name="use_foreground_pro">use_foreground_pro</string>
-    <string name="use_foreground_pro_summary">Această opțiune va preveni închiderea cititorului de ecran de către mecanismul de economisire a bateriei. Opțiunea setează Jieshuo Plus ca fereastră în prim plan în timp ce cortina este activată.</string>
-    <string name="use_foreground_pro_title">Mecanism îmbunătățit prevenire închidere Jieshuo Plus</string>
+    <string name="use_foreground_pro_summary">Această opțiune va preveni închiderea cititorului de ecran de către mecanismul de economisire a bateriei. Opțiunea setează MS Vaani Plus ca fereastră în prim plan în timp ce cortina este activată.</string>
+    <string name="use_foreground_pro_title">Mecanism îmbunătățit prevenire închidere MS Vaani Plus</string>
     <string name="use_foreground_summary">Se recomandă activarea acestei opțiuni în cazul închiderii frecvente a cititorului de ecran de către mecanismul de economisire a bateriei</string>
-    <string name="use_foreground_title">Prevenire închidere Jieshuo Plus</string>
+    <string name="use_foreground_title">Prevenire închidere MS Vaani Plus</string>
     <string name="use_game_mode_no_edge">use_game_mode_no_edge</string>
     <string name="use_game_mode_no_edge_title">Suspendare gesturi de margine în timp ce mod joc este activ</string>
     <string name="use_game_mode_no_speak">use_game_mode_no_speak</string>
     <string name="use_game_mode_no_speak_title">Suspendare feedback vocal în timp ce mod joc este activ</string>
     <string name="use_gesture_detection">use_gesture_detection</string>
-    <string name="use_gesture_detection_title">在解说中处理手势</string>
+    <string name="use_gesture_detection_title">在MS Vaani中处理手势</string>
     <string name="use_headset_key">use_headset_key</string>
     <string name="use_headset_key_summary">Stabilește dacă butonul căștilor este utilizat pentru controlarea cititorului de ecran. O apăsare scurtă va muta focalizarea la elementul următor, o apăsare medie va activa elementul focalizat, iar o apăsare lungă va activa asistentul vocal.</string>
     <string name="use_headset_key_title">Buton căști</string>
@@ -2045,7 +2045,7 @@ end)"</string>
     <string name="use_keep_type_move">use_keep_type_move</string>
     <string name="use_keep_type_move_title">Reținere mod navigare la schimbare fereastră</string>
     <string name="use_key_shortcut">use_key_shortcut</string>
-    <string name="use_key_shortcut_summary">Stabilește dacă butoanele de volum pot fi utilizate ca scurtături de taste Jieshuo Plus.</string>
+    <string name="use_key_shortcut_summary">Stabilește dacă butoanele de volum pot fi utilizate ca scurtături de taste MS Vaani Plus.</string>
     <string name="use_key_shortcut_title">Butoane volum</string>
     <string name="use_left_double_fling_gesture">use_left_double_fling_gesture</string>
     <string name="use_left_double_fling_gesture_title">Utilizați gestul compus la stânga</string>
@@ -2056,7 +2056,7 @@ end)"</string>
     <string name="use_left_right">use_left_right</string>
     <string name="use_left_right_double_fling_gesture">use_left_right_double_fling_gesture</string>
     <string name="use_left_right_double_fling_gesture_title">Utilizați gestul compus la stânga și la dreapta</string>
-    <string name="use_left_right_msg">În primul rând, să setăm modul de funcționare de bază al cititorului de ecran. În mod implicit, Jieshuo Plus utilizează glisarea în sus pentru a trece la elementul anterior, glisarea în jos pentru a trece la elementul următor și glisarea la stânga și la dreapta pentru a executa așa-numitele comenzi rapide. Dacă sunteți obișnuit cu o funcționare mai tradițională a cititorului de ecran, alegeți aici opțiunea „Inversare gesturi glisare”. Trebuie remarcat faptul că, atunci când se aplică această modificare, glisarea în sus va executa așa-numita scurtătură din stânga, în timp ce glisarea în jos va executa scurtătura din dreapta. Acum, vă rugăm să glisați cu degetul în jos pentru a găsi opțiunea pe care doriți să o setați și atingeți de două ori pentru a o activa</string>
+    <string name="use_left_right_msg">În primul rând, să setăm modul de funcționare de bază al cititorului de ecran. În mod implicit, MS Vaani Plus utilizează glisarea în sus pentru a trece la elementul anterior, glisarea în jos pentru a trece la elementul următor și glisarea la stânga și la dreapta pentru a executa așa-numitele comenzi rapide. Dacă sunteți obișnuit cu o funcționare mai tradițională a cititorului de ecran, alegeți aici opțiunea „Inversare gesturi glisare”. Trebuie remarcat faptul că, atunci când se aplică această modificare, glisarea în sus va executa așa-numita scurtătură din stânga, în timp ce glisarea în jos va executa scurtătura din dreapta. Acum, vă rugăm să glisați cu degetul în jos pentru a găsi opțiunea pe care doriți să o setați și atingeți de două ori pentru a o activa</string>
     <string name="use_left_right_no">Gesturi implicite</string>
     <string name="use_left_right_ok">Inversare gesturi glisare</string>
     <string name="use_left_right_summary">Stabilește dacă gesturile de glisare sunt inversate pentru schema de gesturi implicită. Atunci când acestea sunt inversate, glisările spre stânga și dreapta navighează printre elemente, în timp ce glisările sus și jos execută comenzile rapide.</string>
@@ -2195,7 +2195,7 @@ end)"</string>
     <string name="use_single_tap_summary">Stabilește dacă o singură apăsare activează elementul focalizat</string>
     <string name="use_single_tap_title">Activare element focalizat printr-o singură atingere</string>
     <string name="use_single_tts">use_single_tts</string>
-    <string name="use_single_tts_msg">Jieshuo Plus poate utiliza două motoare TTS în același timp. Motorul TTS principal va fi utilizat pentru a citi majoritatea informațiilor, în timp ce motorul TTS secundar va fi utilizat pentru a citi notificările și conținut mai puțin important. Se recomandă să utilizați un singur motor TTS dacă nu sunteți încă obișnuit cu această funcție.</string>
+    <string name="use_single_tts_msg">MS Vaani Plus poate utiliza două motoare TTS în același timp. Motorul TTS principal va fi utilizat pentru a citi majoritatea informațiilor, în timp ce motorul TTS secundar va fi utilizat pentru a citi notificările și conținut mai puțin important. Se recomandă să utilizați un singur motor TTS dacă nu sunteți încă obișnuit cu această funcție.</string>
     <string name="use_single_tts_no">Două motoare TTS simultan</string>
     <string name="use_single_tts_ok">Un singur motor TTS</string>
     <string name="use_single_tts_summary">Întreg conținutul va fi citit cu motorul TTS principal.</string>
@@ -2205,7 +2205,7 @@ end)"</string>
     <string name="use_small_filter">use_small_filter</string>
     <string name="use_small_filter_title">Filtrare controale nedorite</string>
     <string name="use_sound">use_sound</string>
-    <string name="use_sound_summary">Stabilește dacă Jieshuo Plus folosește sunete pentru a furniza informații.</string>
+    <string name="use_sound_summary">Stabilește dacă MS Vaani Plus folosește sunete pentru a furniza informații.</string>
     <string name="use_sound_title">Feedback sonor</string>
     <string name="use_speak_call_phone">use_speak_call_phone</string>
     <string name="use_speak_call_phone_summary">Stabilește dacă numele și numărul apelantului sunt citite automat la primirea unui apel</string>
@@ -2438,7 +2438,7 @@ Dimensiune: %s.
 Număr de descărcări: %s."</string>
     <string name="vibrate_intensity">vibrate_intensity</string>
     <string name="vibrate_intensity_title">Intensitate feedback haptic</string>
-    <string name="vibrate_summary">Stabilește dacă Jieshuo Plus folosește vibrații pentru a furniza informații</string>
+    <string name="vibrate_summary">Stabilește dacă MS Vaani Plus folosește vibrații pentru a furniza informații</string>
     <string name="vibrate_title">Feedback haptic</string>
     <string name="video_description">视频描述</string>
     <string name="view_changed_settings_title">Setări citire conținut dinamic</string>
@@ -2460,10 +2460,10 @@ Număr de descărcări: %s."</string>
     <string name="view_type_move">view_type_move</string>
     <string name="view_type_move_title">Personalizare selector interfața standard</string>
     <string name="vip_qq_group">vip_qq_group</string>
-    <string name="vip_qq_group_title">Grupul Jieshuo Plus VIP pe QQ</string>
+    <string name="vip_qq_group_title">Grupul MS Vaani Plus VIP pe QQ</string>
     <string name="vip_qq_kefu">vip_qq_kefu</string>
     <string name="vip_qq_kefu_summary">Consultanță, cumpărare și transfer de licențe. Asigurați-vă că luați legătura doar cu personalul certificat.</string>
-    <string name="vip_qq_kefu_title">Serviciul Jieshuo Plus de relații cu clienții</string>
+    <string name="vip_qq_kefu_title">Serviciul MS Vaani Plus de relații cu clienții</string>
     <string name="voice_app_name">Asistent vocal</string>
     <string name="voice_cmd_call">Apelează pe</string>
     <string name="voice_cmd_input">Introducere</string>
@@ -2540,9 +2540,9 @@ Vă rugăm să rețineți că sunteți responsabil pentru orice consecințe ale 
     <string name="vr_dialog_title">Important de citit</string>
     <string name="waiting">Vă rugăm așteptați</string>
     <string name="wake_lock">wake_lock</string>
-    <string name="wallpaper_description">Dacă doriți să folosiți cititorul de ecran fără setări de permisiune setați imaginea de fundal Jieshuo Plus ca implicită.</string>
-    <string name="wallpaper_summary">Deoarece unele telefoane pot avea probleme cu oprirea cititorului de ecran în fundal, puteți seta imaginea de fundal Jieshuo Plus ca implicită pentru a rezolva această problemă.</string>
-    <string name="wallpaper_title">Setare imagine de fundal Jieshuo Plus (Funcție Beta)</string>
+    <string name="wallpaper_description">Dacă doriți să folosiți cititorul de ecran fără setări de permisiune setați imaginea de fundal MS Vaani Plus ca implicită.</string>
+    <string name="wallpaper_summary">Deoarece unele telefoane pot avea probleme cu oprirea cititorului de ecran în fundal, puteți seta imaginea de fundal MS Vaani Plus ca implicită pentru a rezolva această problemă.</string>
+    <string name="wallpaper_title">Setare imagine de fundal MS Vaani Plus (Funcție Beta)</string>
     <string name="web_app_name">"Browser web "</string>
     <string name="web_are_you_open">Doriți să deschideți acest link?</string>
     <string name="web_back">Înapoi</string>
@@ -2557,7 +2557,7 @@ mărime: %s"</string>
     <string name="web_type_move">web_type_move</string>
     <string name="web_type_move_title">Personalizare selector interfața web</string>
     <string name="welcome">welcome</string>
-    <string name="welcome_msg">Bine ați venit la Jieshuo Plus! Acest software își propune să ajute persoanele nevăzătoare să își folosească dispozitivele cu Android mai eficient. Faceți clic pe „Expert configurare” pentru setările de bază ale cititorului de ecran, faceți clic pe „Ajutor” pentru permisiuni, pentru a vizualiza politica de confidențialitate sau faceți clic pe „Ieșire” pentru a închide programul.</string>
+    <string name="welcome_msg">Bine ați venit la MS Vaani Plus! Acest software își propune să ajute persoanele nevăzătoare să își folosească dispozitivele cu Android mai eficient. Faceți clic pe „Expert configurare” pentru setările de bază ale cititorului de ecran, faceți clic pe „Ajutor” pentru permisiuni, pentru a vizualiza politica de confidențialitate sau faceți clic pe „Ieșire” pentru a închide programul.</string>
     <string name="wifi_level_1">Semnal Wi-Fi o bară</string>
     <string name="wifi_level_2">Semnal Wi-Fi două bare</string>
     <string name="wifi_level_3">Semnal Wi-Fi 3 bare</string>

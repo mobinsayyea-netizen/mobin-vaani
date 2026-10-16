@@ -6,11 +6,11 @@
     <string name="accessibility_focus_appearance">accessibility_focus_appearance</string>
     <string name="accessibility_focus_appearance_stroke">accessibility_focus_appearance_stroke</string>
     <string name="accessibility_focus_appearance_title">التَّحَكُّم بمظهر الإطار و سُمْك مؤشر التَّرْكيز.</string>
-    <string name="accessibility_service_description">"Jieshuo هو تطبيقٌ يُساعِدُ المكفوفينَ على استخدام هواتفهِم المحمولة. لقد قمنا ببعض المحاولات للابتكار. لمزيدٍ مِنَ التفاصيل، افتح الإعدادات ثُمَّ المساعَدة.
+    <string name="accessibility_service_description">"MS Vaani هو تطبيقٌ يُساعِدُ المكفوفينَ على استخدام هواتفهِم المحمولة. لقد قمنا ببعض المحاولات للابتكار. لمزيدٍ مِنَ التفاصيل، افتح الإعدادات ثُمَّ المساعَدة.
  بعضُ الوظائفِ مُقَيَّدةٌ حتى تقومَ بالإشتراك في النسخة المدفوعة. لمزيدٍ مِنَ التفاصيل، الرجاء التواصُلُ مع مُمَثِّلي خِدْمةِ الدعم على مجموعة QQ الرسمية.
  
  المزايا: 
- مساعِدُ Jieshuo: استَخدِم هاتفَك مِن دونِ لَمْسِهِ مع مساعِدِنا الصوتي.
+ مساعِدُ MS Vaani: استَخدِم هاتفَك مِن دونِ لَمْسِهِ مع مساعِدِنا الصوتي.
  الإضافات: تستطيعُ تثبيتَ إضافاتٍ لتحسين تجربتِك.
  التَّصَفُّح بالحَرْف، بالكَلِمة، بالفِقْرة، الخ… يوجدُ دائماً وضعٌ صحيحٌ لكل تَصَفُّح طِبْقاً لاحتياجاتك.
  التَّطْبيق سريعٌ ومتفاعل.
@@ -34,15 +34,15 @@
  التحديدُ المتعدد للنص: بالكَلِمة أو بالجُمْلة أو بالفِقْرة. حدِّد النص الذي تحتاجه تماماً.
  قُم بأداء العمليات المختلفة بسهولة عن طريق الأوامر الصوتية الإضافية.
  التَّشْغيلُ التَّلْقائي للإضافات، يمكنُك الوصول دائما إلى إضافاتِكَ المُفَضَّلة بطريقة صحيحة.
- إنَّ Jieshuo هو قارئُ شاشَةٍ قابلٌ للإعداد ومَرِنٌ بشكل لانهائي!"</string>
-    <string name="accessibility_service_description2">解说辅助服务和主服务功能完全相同，主要用于部分会检测读屏服务名的场景，两个服务不需要同时开启。</string>
+ إنَّ MS Vaani هو قارئُ شاشَةٍ قابلٌ للإعداد ومَرِنٌ بشكل لانهائي!"</string>
+    <string name="accessibility_service_description2">MS Vaani辅助服务和主服务功能完全相同，主要用于部分会检测读屏服务名的场景，两个服务不需要同时开启。</string>
     <string name="accessibility_volume">accessibility_volume</string>
     <string name="action_menu_title">قائمةُ الإجراءات,</string>
     <string name="action_setting">action_setting</string>
     <string name="action_setting_title">إعدادات الإجراءات</string>
     <string name="action_settings_title">إعدادات الإجراءات</string>
     <string name="actions">الإجراءات</string>
-    <string name="activate_title">تفعيل Jieshuo</string>
+    <string name="activate_title">تفعيل MS Vaani</string>
     <string name="activation_code_text">رمزُ التفعيل</string>
     <string name="activation_time">activation_time</string>
     <string name="add">إضافة</string>
@@ -68,7 +68,7 @@
     <string name="alarm_settings_title">إعداداتُ المنبه</string>
     <string name="alarm_start_hour">alarm_start_hour</string>
     <string name="alarm_start_hour_title">وقت بدء التَّنْبيه</string>
-    <string name="album_activity">ألبوم Jieshuo</string>
+    <string name="album_activity">ألبوم MS Vaani</string>
     <string name="all">الكل</string>
     <string name="all_description">التَّعَرُّف الشامل</string>
     <string name="all_notification_count">إجمالي %d مِنَ الإشعارات</string>
@@ -173,7 +173,7 @@
     <string name="camera_screen_down">الشاشة للأسفل</string>
     <string name="camera_screen_up">الشاشة للأعلى</string>
     <string name="camera_tag">وَصْف المشهد.</string>
-    <string name="camera_title">كاميرا Jieshuo</string>
+    <string name="camera_title">كاميرا MS Vaani</string>
     <string name="camera_top_move_far">ارفع ظَهْرَ الهاتف</string>
     <string name="camera_top_move_near">ارفع شاشةَ الهاتف</string>
     <string name="camera_top_up">القسم العُلْوي للأعلى</string>
@@ -270,7 +270,7 @@
     <string name="cmd_description">الوَصْف (يجب أن لا يَقِلّ عن 15 حَرْفاً)</string>
     <string name="cmd_manager">إدارةُ الأوامرِ الصوتية</string>
     <string name="code_help">code_help</string>
-    <string name="code_help_title">مرجع API الخاص بِ Jieshuo</string>
+    <string name="code_help_title">مرجع API الخاص بِ MS Vaani</string>
     <string name="command_accept_call">الرد على المكالمة.</string>
     <string name="command_accessibility_service_setting">إمكانية الوصول</string>
     <string name="command_action_setting">إعدادات الإجراءات</string>
@@ -299,7 +299,7 @@
     <string name="command_disable_async_tts">تعليق أو استئناف المُحَرِّك الثانوي</string>
     <string name="command_disable_dim_screen">إلغاء تعتيم الشاشة</string>
     <string name="command_disable_edge_gesture_title">تشغيلُ أو إيقاف إِيماءات الحافة</string>
-    <string name="command_disable_feedback">تعليق Jieshuo مؤقتا</string>
+    <string name="command_disable_feedback">تعليق MS Vaani مؤقتا</string>
     <string name="command_disable_hotkey">تشغيلُ أو إيقاف إختصارات لَوْحَةِ المَفاتيح الخارجية</string>
     <string name="command_disable_main_tts">تعليق أو استئناف المُحَرِّك الرئيسي</string>
     <string name="command_disable_touch">تعليق الإستكشاف باللمس مؤقتا</string>
@@ -433,7 +433,7 @@
     <string name="command_virtual_navigation">التَّنَقُّل الافتراضي</string>
     <string name="command_virtual_screen">الشاشةُ الافتراضية</string>
     <string name="command_virtual_table">التَّعَرُّف الضَّوْئي على الجداول</string>
-    <string name="command_voice_helper">مساعِد Jieshuo</string>
+    <string name="command_voice_helper">مساعِد MS Vaani</string>
     <string name="command_voice_input">الإدخال الصوتي</string>
     <string name="command_voice_setting">إعداداتُ تحويلِ النص إلى كلام</string>
     <string name="command_where_i">أين أنا؟</string>
@@ -615,7 +615,7 @@
     <string name="edge_gesture_width">edge_gesture_width</string>
     <string name="edge_gesture_width_title">نِطَاقُ الزِّنَاد:</string>
     <string name="edit">تعديل</string>
-    <string name="edit_activity">مُحَرِّر Jieshuo</string>
+    <string name="edit_activity">مُحَرِّر MS Vaani</string>
     <string name="edit_app_profiles_title">تعديل نمط الإعدادات لتطبيق واحد.</string>
     <string name="edit_box_no_found">مربع التَّعْديل غير متوفر</string>
     <string name="edit_button">أَدْخِل قائمةُ الأزرار (واحدا في كل سَطْر).</string>
@@ -632,7 +632,7 @@
     <string name="edit_trans_lua">edit_trans_lua</string>
     <string name="edit_trans_lua_title">تعديل امتداد مُحَرِّك التَّرْجمة المُخَصَّص.</string>
     <string name="emoji_speak_mode0">نُطْق الرموزِ التعبيريةِ حَسَبَ مُحَرِّك تحويل النص إلى كلام</string>
-    <string name="emoji_speak_mode1">نُطْق الرموز التعبيرية حسب Jieshuo</string>
+    <string name="emoji_speak_mode1">نُطْق الرموز التعبيرية حسب MS Vaani</string>
     <string name="emoji_speak_mode2">عدم نُطْق الرموز التعبيرية.</string>
     <string name="enabled_app_gesture">تفعيل كمُخَطَّط إِيماءات لهذا التطبيق.</string>
     <string name="enabled_gesture">تفعيل كمُخَطَّط إِيماءات عام.</string>
@@ -659,7 +659,7 @@
     <string name="favorites_manager">favorites_manager</string>
     <string name="favorites_manager_title">إدارةُ المُفَضَّلة</string>
     <string name="favorites_menu_title">المُفَضَّلة,</string>
-    <string name="feed_back_disabled">تَمَّ تعليق Jieshuo</string>
+    <string name="feed_back_disabled">تَمَّ تعليق MS Vaani</string>
     <string name="feed_setting">feed_setting</string>
     <string name="feed_setting_title">إعدادات ردودِ الفِعْل</string>
     <string name="file_name_dict">dict.json</string>
@@ -759,10 +759,10 @@
     <string name="has_vip_summary_gesture">تَتَطَلَّبُ تخصيص إيماءات التمرير للأعلى، و للأسفل، و لليمين، و لليسار اشتراكًا مدفوعًا.</string>
     <string name="help">help</string>
     <string name="help_feed">help_feed</string>
-    <string name="help_feed_summary">Jieshuo uses some third-party technologies: Tencent AI, Baidu AI, Baidu TTS, Baidu Translator, Baidu MTS, Andro LUA Plus, ETC.</string>
+    <string name="help_feed_summary">MS Vaani uses some third-party technologies: Tencent AI, Baidu AI, Baidu TTS, Baidu Translator, Baidu MTS, Andro LUA Plus, ETC.</string>
     <string name="help_feed_title">المساعَدةُ والتَّعْليقات</string>
     <string name="help_title">مركز المساعَدة</string>
-    <string name="helper_manager_title">إدارة مُساعِد Jieshuo</string>
+    <string name="helper_manager_title">إدارة مُساعِد MS Vaani</string>
     <string name="helper_supper_cmd_title">الأوامرِ الصوتية المتقدمة</string>
     <string name="helper_tts_setting_title">تَخْصِيصُ مُحَرِّك المساعد.</string>
     <string name="hide_dialog">إخفاء النافذة</string>
@@ -793,7 +793,7 @@
     <string name="hour">الساعة</string>
     <string name="hover_stat_info" formatted="false">لمس التركيز %d مرة، بمعدل %d مللي ثانية.</string>
     <string name="ignore_battery">يُرجى تجاهل تحسين البطارية مِن إعدادات النظام.</string>
-    <string name="import_all_title">هل ترغب في استيراد نسخة احتياطية كاملة لجميع الموارد والإعدادات في Jieshuo؟</string>
+    <string name="import_all_title">هل ترغب في استيراد نسخة احتياطية كاملة لجميع الموارد والإعدادات في MS Vaani؟</string>
     <string name="import_file">استيراد</string>
     <string name="import_voice_description">استيراد قاموس eSpeak من وحدة التخزين.</string>
     <string name="import_voice_title">استيراد القاموس:</string>
@@ -813,8 +813,8 @@
     <string name="item_current_count" formatted="false">%d مِن %d</string>
     <string name="item_from_to_count" formatted="false">عَرْض العناصر %d إلى %d مِن %d</string>
     <string name="jieshuo_bbs">jieshuo_bbs</string>
-    <string name="jieshuo_bbs_summary">يمكنُك التَّحَدُّث حول Jieshuo.</string>
-    <string name="jieshuo_bbs_title">منتدى Jieshuo:</string>
+    <string name="jieshuo_bbs_summary">يمكنُك التَّحَدُّث حول MS Vaani.</string>
+    <string name="jieshuo_bbs_title">منتدى MS Vaani:</string>
     <string name="jieshuo_beta_title">تنزيل النسخة التجريبية الداخلية.</string>
     <string name="keep_focus_position">keep_focus_position</string>
     <string name="keep_focus_position_speak">keep_focus_position_speak</string>
@@ -826,7 +826,7 @@
     <string name="label_manager">label_manager</string>
     <string name="label_manager_title">إدارةُ التَّصْنيفات المُخَصَّصة</string>
     <string name="lang">ar</string>
-    <string name="language_setting_title">لغات Jieshuo</string>
+    <string name="language_setting_title">لغات MS Vaani</string>
     <string name="language_title">ملفات الترجمة.</string>
     <string name="last_open">الملفات التي تَمَّ فتحها مؤخرا</string>
     <string name="left_button">left_button</string>
@@ -894,7 +894,7 @@
     <string name="main_menu">القائمةُ العامة,</string>
     <string name="main_menu_items">main_menu_items</string>
     <string name="main_menu_items_title">تخصيص القائمة العامة.</string>
-    <string name="main_setting">إعدادات Jieshuo</string>
+    <string name="main_setting">إعدادات MS Vaani</string>
     <string name="make_dir">مُجَلَّد جديد</string>
     <string name="manager">manager</string>
     <string name="manager_activity_title">إدارةُ الموارد</string>
@@ -906,7 +906,7 @@
     <string name="media_doc_title">دروس تعليمية</string>
     <string name="menu_manager">menu_manager</string>
     <string name="menu_manager_title">إدارةُ القائمة العامة</string>
-    <string name="menu_settings_title">قوائم Jieshuo</string>
+    <string name="menu_settings_title">قوائم MS Vaani</string>
     <string name="menu_title">القائمةُ العامة,</string>
     <string name="menu_up_tap">menu_up_tap</string>
     <string name="menu_up_tap_title">رَفْعُ الإِصْبَع لتفعيل عناصر القائمة:</string>
@@ -946,10 +946,10 @@
     <string name="message_time_out">انتهت صلاحية اشتراكك</string>
     <string name="message_timer_mode_disabled" formatted="false">تَمَّ إيقاف المُؤَقِّت، المدة: %s, الساعةُ الآن %s</string>
     <string name="message_timer_mode_enabled">تَمَّ تشغيلُ المُؤَقِّت</string>
-    <string name="message_title">Jieshuo</string>
-    <string name="message_voice_feedback_paused">تَمَّ تعليق Jieshuo.</string>
-    <string name="message_voice_feedback_resume">تَمَّ استئناف Jieshuo</string>
-    <string name="message_welcome">مرحباً بك في Jieshuo</string>
+    <string name="message_title">MS Vaani</string>
+    <string name="message_voice_feedback_paused">تَمَّ تعليق MS Vaani.</string>
+    <string name="message_voice_feedback_resume">تَمَّ استئناف MS Vaani</string>
+    <string name="message_welcome">مرحباً بك في MS Vaani</string>
     <string name="min">الدقيقة</string>
     <string name="more">المزيد,</string>
     <string name="more_setting">إعداداتٌ أخرى</string>
@@ -1021,29 +1021,29 @@
     <string name="msg_gesture_has_vip">تَتَطَلَّبُ تخصيص إِيماءاتُ التَّمْرير للأعلى، و لِلأسفل، و لليمين، و لليسار اشتراكًا مدفوعًا.</string>
     <string name="msg_gesture_updated">تَمَّ تحديث الإِيماءات</string>
     <string name="msg_gestures_empty">مُجَلَّدُ الإِيماءاتِ فارغ</string>
-    <string name="msg_has_enabled">يُرجى تفعيل Jieshuo أولاً</string>
-    <string name="msg_has_not_enabled">لم يَتِمَّ تفعيل Jieshuo حتى الآن. لكي تتمكن من الاستفادة من خصائصه، يجب عليك تفعيله من خلال إمكانية الوصول. هل ترغب في الانتقال إلى قسم إمكانية الوصول الآن؟</string>
-    <string name="msg_has_not_enabled_33">"عند بدء تشغيل Jieshuo لأول مرة على نظام Android 13، قد تظهر رسالة تفيد بأن هذا الإعداد محظور حاليًا لأغراض الأمان. لتخطي هذه المشكلة، يمكنك اتباع الخطوات التالية:
+    <string name="msg_has_enabled">يُرجى تفعيل MS Vaani أولاً</string>
+    <string name="msg_has_not_enabled">لم يَتِمَّ تفعيل MS Vaani حتى الآن. لكي تتمكن من الاستفادة من خصائصه، يجب عليك تفعيله من خلال إمكانية الوصول. هل ترغب في الانتقال إلى قسم إمكانية الوصول الآن؟</string>
+    <string name="msg_has_not_enabled_33">"عند بدء تشغيل MS Vaani لأول مرة على نظام Android 13، قد تظهر رسالة تفيد بأن هذا الإعداد محظور حاليًا لأغراض الأمان. لتخطي هذه المشكلة، يمكنك اتباع الخطوات التالية:
 
 انقِر على زر التأكيد عند ظهور الرسالة.
-انتقل إلى معلومات Jieshuo بالنَّقْر عليها.
+انتقل إلى معلومات MS Vaani بالنَّقْر عليها.
 انقِر على \"المزيد من الخيارات\" في الزاوية العلوية اليمنى.
 إختر \"السماح بالإعدادات المحظورة\" من القائمةُ المنبثقة.
-بعد ذلك، انتقل إلى قائمةُ إمكانية الوصول مرة أخرى وقم بتشغيل Jieshuo.
+بعد ذلك، انتقل إلى قائمةُ إمكانية الوصول مرة أخرى وقم بتشغيل MS Vaani.
 
 إذا لم تتلقَّ هذه الرسالة على Android 13 وما فوق، يمكنك تجاهل هذه التعليمات.
-نوصي باتباع هذه الخطوات بعناية لتشغيل Jieshuo بنجاح على Android 13 وما فوق."</string>
+نوصي باتباع هذه الخطوات بعناية لتشغيل MS Vaani بنجاح على Android 13 وما فوق."</string>
     <string name="msg_has_storage">تَتَطَلَّبُ هذه الميزة حِفْظ الملفات واستيرادها من وحدة التخزين الداخلية. يُرجى منح إذن التخزين أو إلغاء العملية.</string>
     <string name="msg_has_vip_auto_speak">يدعم للأعضاء غير المسجلين القِراءة التلقائية فقط لرسائل QQ و WeChat</string>
     <string name="msg_has_vip_dict">في النسخة المجانية، يمكنك إجراء ما يصل إلى خمسة إدخالات كحد أقصى.</string>
     <string name="msg_has_vip_split_edit">يَتَطَلَّبُ الحصول على ميزة تعديل النص الذي يتجاوز 100 حرف اشتراكًا مدفوعًا.</string>
-    <string name="msg_has_vip_timer_run">النسخة المجانية من Jieshuo تدعم فقط إضافة مهمة مُجَدْوَلة واحدة</string>
+    <string name="msg_has_vip_timer_run">النسخة المجانية من MS Vaani تدعم فقط إضافة مهمة مُجَدْوَلة واحدة</string>
     <string name="msg_has_vip_voice_cmd">لا يمكن لمستخدمي الإصدار المجاني الحصول على أكثر من 10 أوامر صوتية</string>
     <string name="msg_hot_key_empty">مُجَلَّد إختصارات لَوْحَةِ المَفاتيح الخارجية فارغ</string>
     <string name="msg_hotkey_backup_done">اكْتَمَلَ النَسْخ الاحتياطي لاختصارات لَوْحَةِ المَفاتيح الخارجية.</string>
     <string name="msg_hotkey_backup_error">فَشِلَ النَسْخ الاحتياطي لاختصارات لَوْحَةِ المَفاتيح الخارجية.</string>
     <string name="msg_import">تَمَّ استيراد %s</string>
-    <string name="msg_import_all">هذا الإجراء سيؤدي إلى استبدال جميع الإعدادات والموارد الحالية في Jieshuo بالكامل.</string>
+    <string name="msg_import_all">هذا الإجراء سيؤدي إلى استبدال جميع الإعدادات والموارد الحالية في MS Vaani بالكامل.</string>
     <string name="msg_import_strings">يؤدي استيراد ملف الترجمة إلى استبدال ودمج إعدادات اللغة الخاصة بك. يمكنك تصدير إعداداتك الحالية أولاً، ثم استيرادها بعد ذلك. هل ترغب في القيام بعملية الاستيراد؟</string>
     <string name="msg_in_game_mode">تَمَّ الدخول إلى وَضْع اللَّعِب</string>
     <string name="msg_invite_code_error">خطأ في رمز الدعوة الذي قمت بإدخاله. يرجى التأكد من أنك قد قمت بإدخاله بالشكل الصحيح.</string>
@@ -1075,7 +1075,7 @@
     <string name="msg_open_error">حدث خطأ أثناء الفتح</string>
     <string name="msg_open_file_not_supported">لا يمكن فتح الملف لأن الصيغة غير مدعومة</string>
     <string name="msg_plugin_empty">لا توجد إضافات</string>
-    <string name="msg_plugin_run_error">قم بتشغيل Jieshuo مِن إمكانية الوصول قبل بدء تشغيل الإضافة.</string>
+    <string name="msg_plugin_run_error">قم بتشغيل MS Vaani مِن إمكانية الوصول قبل بدء تشغيل الإضافة.</string>
     <string name="msg_plugins_empty">مُجَلَّدُ الإضافات فارغ</string>
     <string name="msg_press_again_exit">إضغط مرة أخرى للخروج</string>
     <string name="msg_read_done">تَمَّت المعالجة</string>
@@ -1143,9 +1143,9 @@
     <string name="msg_stop_auto_trans">تَمَّ إيقاف الترجمة التلقائية</string>
     <string name="msg_stop_find">تَمَّ إيقاف البحث</string>
     <string name="msg_stop_video_description">تَمَّ إيقاف وَصْفِ الفيديو</string>
-    <string name="msg_supper_cmd_only_voice_helper">لا يمكن استدعاء الأوامر الصوتية المتقدمة إلا عبر مساعد Jieshuo.</string>
+    <string name="msg_supper_cmd_only_voice_helper">لا يمكن استدعاء الأوامر الصوتية المتقدمة إلا عبر مساعد MS Vaani.</string>
     <string name="msg_supper_mode">وَضْعُ التَّنَقُّل المُفَصَّل يحصل على محتوى أكثر تركيزاً.</string>
-    <string name="msg_talkback_enabled">تم اكتشاف تفعيل Talkback، وقد يتسبب تشغيل Jieshuo و Talkback في آن واحد في مشاكل في وظائف اللمس. يُرجى إيقاف تشغيل Talkback حتى يتمكن التصفح باللمس من العمل بشكل صحيح.</string>
+    <string name="msg_talkback_enabled">تم اكتشاف تفعيل Talkback، وقد يتسبب تشغيل MS Vaani و Talkback في آن واحد في مشاكل في وظائف اللمس. يُرجى إيقاف تشغيل Talkback حتى يتمكن التصفح باللمس من العمل بشكل صحيح.</string>
     <string name="msg_text_changed">تَمَّ تعديل النص</string>
     <string name="msg_timer_backup_done">اكْتَمَلَ النَسْخ الاحتياطي للمُؤَقِّت.</string>
     <string name="msg_timer_backup_error">فَشِلَ النَسْخ الاحتياطي للمُؤَقِّت.</string>
@@ -1247,7 +1247,7 @@
     <string name="notification_settings_title">إعدادات نُطْق الإشعارات</string>
     <string name="notification_speak">notification_speak</string>
     <string name="notification_speak2">notification_speak2</string>
-    <string name="notification_speak_msg">يتيح نُطْق إشعارات شريط الإشعارات لقارئ الشاشة Jieshuo نُطْق الإشعارات الواردة. قم بتحديد هذا الخِيار لنُطْق الإشعارات. وإن لم ترغب في ذلك، نوصي بإلغاء تحديد هذا الخِيار.</string>
+    <string name="notification_speak_msg">يتيح نُطْق إشعارات شريط الإشعارات لقارئ الشاشة MS Vaani نُطْق الإشعارات الواردة. قم بتحديد هذا الخِيار لنُطْق الإشعارات. وإن لم ترغب في ذلك، نوصي بإلغاء تحديد هذا الخِيار.</string>
     <string name="notification_speak_no">عدم نُطْق الإشعارات:</string>
     <string name="notification_speak_ok">نُطْق الإشعارات:</string>
     <string name="notification_speak_title">نُطْق الإشعارات:</string>
@@ -1375,12 +1375,12 @@ end)"</string>
     <string name="ocr_title">التَّعَرُّف على نص في صورة</string>
     <string name="offline_ocr">استخدام مُحَرِّك التَّعَرُّف الضوئي على الأحرُف في وَضْع عدم الاتصال بالإنترنت.</string>
     <string name="only_notification">only_notification</string>
-    <string name="only_notification_title">استئناف Jieshuo من شريط الإشعارات.</string>
+    <string name="only_notification_title">استئناف MS Vaani من شريط الإشعارات.</string>
     <string name="only_screen_off">نُطْق الإشعارات عندما تكون الشاشة مقفلة</string>
     <string name="only_screen_on">نُطْق الإشعارات عندما تكون الشاشة مفتوحة</string>
     <string name="open">فتح</string>
     <string name="open_application_info">open_application_info</string>
-    <string name="open_application_info_title">فتح معلومات Jieshuo.</string>
+    <string name="open_application_info_title">فتح معلومات MS Vaani.</string>
     <string name="open_project">فتح مشروع</string>
     <string name="open_setup_setting">open_setup_setting</string>
     <string name="open_setup_setting_title">التحقق من بدء التشغيل التلقائي.</string>
@@ -1407,8 +1407,8 @@ end)"</string>
     <string name="plugin_title">الإضافات</string>
     <string name="point">Bullet</string>
     <string name="power_settings_title">توفير الطاقة</string>
-    <string name="pref_donate_alipay">يمكنُك الإشتراك في النسخة المدفوعة بواسطة Alipay لدعم تطوير Jieshuo.</string>
-    <string name="pref_donate_paypal">يمكنُك الإشتراك في النسخة المدفوعة بواسطة PayPal لدعم تطوير Jieshuo.</string>
+    <string name="pref_donate_alipay">يمكنُك الإشتراك في النسخة المدفوعة بواسطة Alipay لدعم تطوير MS Vaani.</string>
+    <string name="pref_donate_paypal">يمكنُك الإشتراك في النسخة المدفوعة بواسطة PayPal لدعم تطوير MS Vaani.</string>
     <string name="prevent_jump">إعادة توجيه</string>
     <string name="previous_chapter">previous_chapter</string>
     <string name="previous_chapter_default_value">*السابق*|*السابقة*</string>
@@ -1416,7 +1416,7 @@ end)"</string>
     <string name="privacy">سياسة الخصوصية</string>
     <string name="profiles">profiles</string>
     <string name="profiles_data">profiles_data</string>
-    <string name="profiles_summary">يمكن إنشاء أوضاع للإعدادات باستخدام إعدادات مستقلة في أوضاع مختلفة، وهو مناسب لاستخدام Jieshuo في أوضاع عدة</string>
+    <string name="profiles_summary">يمكن إنشاء أوضاع للإعدادات باستخدام إعدادات مستقلة في أوضاع مختلفة، وهو مناسب لاستخدام MS Vaani في أوضاع عدة</string>
     <string name="profiles_title">أوضاع الإعدادات:</string>
     <string name="progress">, مُسْتَوى شريط التَّقَدُّم: %d بالمئة.</string>
     <string name="progress2">, %d بالمئة.</string>
@@ -1428,8 +1428,8 @@ end)"</string>
     <string name="punctuation_none">لا شيء</string>
     <string name="qq_group">qq_group</string>
     <string name="qq_group2">qq_group2</string>
-    <string name="qq_group2_title">مجموعة Jieshuo الرسميةُ على QQ</string>
-    <string name="qq_group_summary">يمكنُك التَّحَدُّث عن Jieshuo</string>
+    <string name="qq_group2_title">مجموعة MS Vaani الرسميةُ على QQ</string>
+    <string name="qq_group_summary">يمكنُك التَّحَدُّث عن MS Vaani</string>
     <string name="qq_group_title">مجموعة QQ الرسمية:</string>
     <string name="questions_answers">questions_answers</string>
     <string name="questions_answers_title">الأسئلةُ المتكررة</string>
@@ -1471,13 +1471,13 @@ end)"</string>
     <string name="restore_settings_summary">ستؤدي إِستعادةُ الإعداداتِ إلى مَحْوِ الإعداداتِ الحالية</string>
     <string name="restore_settings_title">استعادةُ الإعدادات</string>
     <string name="resume_on_notification_show">resume_on_notification_show</string>
-    <string name="resume_on_notification_show_title">استئناف Jieshuo عند فتح شريط الإشعارات.</string>
+    <string name="resume_on_notification_show_title">استئناف MS Vaani عند فتح شريط الإشعارات.</string>
     <string name="resume_on_ringing">resume_on_ringing</string>
-    <string name="resume_on_ringing_title">استئناف Jieshuo عند ورود مكالمة.</string>
+    <string name="resume_on_ringing_title">استئناف MS Vaani عند ورود مكالمة.</string>
     <string name="resume_on_screen_off">resume_on_screen_off</string>
-    <string name="resume_on_screen_off_title">استئناف Jieshuo عند قَفْلِ الشاشة.</string>
+    <string name="resume_on_screen_off_title">استئناف MS Vaani عند قَفْلِ الشاشة.</string>
     <string name="resume_on_screen_on">resume_on_screen_on</string>
-    <string name="resume_on_screen_on_title">استئناف Jieshuo عند فتح الشاشة.</string>
+    <string name="resume_on_screen_on_title">استئناف MS Vaani عند فتح الشاشة.</string>
     <string name="right_button">right_button</string>
     <string name="right_button_default_value">*سماعة خارجية|*مكبر الصوت*|تخطّي الإعلان|إرسال تعليق|تقديم*|السماعة الخارجية*|رد|المزيد,</string>
     <string name="right_button_title">إختصار التَّمْرير للأسفل</string>
@@ -1518,7 +1518,7 @@ end)"</string>
     <string name="ringer_mode_silent">كَتْمُ الصوت</string>
     <string name="ringer_mode_vibate">وَضْع الإهتزاز</string>
     <string name="run">بدء التشغيل</string>
-    <string name="runnimg_background">وَضْعُ تشغيل Jieshuo في الخلفية</string>
+    <string name="runnimg_background">وَضْعُ تشغيل MS Vaani في الخلفية</string>
     <string name="sample_text">هذه عينة من النص الذي تم نُطْقُه في %s</string>
     <string name="save">حِفْظ</string>
     <string name="save_as_cloud">حِفْظ كملف على السحابة.</string>
@@ -1556,12 +1556,12 @@ end)"</string>
     <string name="setup_plugin">setup_plugin</string>
     <string name="setup_plugin_title">تشغيلُ الإضافات تلقائيا:</string>
     <string name="setup_setting">setup_setting</string>
-    <string name="setup_setting_alarm_permission_msg">يمكن لـ Jieshuo استخدام إذن المنبه لِبَثّ الوقت أو أداء المهام في الوقت الذي تحدده.</string>
-    <string name="setup_setting_battery_permission_msg">يساعد تقييد تحسين البطارية Jieshuo على العمل بشكل أفضل.</string>
+    <string name="setup_setting_alarm_permission_msg">يمكن لـ MS Vaani استخدام إذن المنبه لِبَثّ الوقت أو أداء المهام في الوقت الذي تحدده.</string>
+    <string name="setup_setting_battery_permission_msg">يساعد تقييد تحسين البطارية MS Vaani على العمل بشكل أفضل.</string>
     <string name="setup_setting_continue">متابعة الإعداد.</string>
     <string name="setup_setting_done">اكتمل الإعداد.</string>
     <string name="setup_setting_done_msg">ويمكنُك إعادة تشغيل هذا المساعِد مِن الإعدادات العامة، مساعد الإعداد.</string>
-    <string name="setup_setting_file_permission_msg">يستخدِم Jieshuo أذونات إدارة الملفات لحفظ واستعادة الإضافات والمؤثرات الصوتية والأدوات والنَّسْخ الاحتياطي وغيرها من الموارد.</string>
+    <string name="setup_setting_file_permission_msg">يستخدِم MS Vaani أذونات إدارة الملفات لحفظ واستعادة الإضافات والمؤثرات الصوتية والأدوات والنَّسْخ الاحتياطي وغيرها من الموارد.</string>
     <string name="setup_setting_get_permission">الحصول على الأُذونات</string>
     <string name="setup_setting_has_alarm_permission">تَمَّ الحصول على إذن المنبّهات والتذكيرات.</string>
     <string name="setup_setting_has_battery_permission">تَمَّ منح إذن تقييد تحسين البطارية.</string>
@@ -1575,7 +1575,7 @@ end)"</string>
     <string name="setup_setting_not_overlay_permission">تَمَّ رفض منح إذن النوافذ العائمة.</string>
     <string name="setup_setting_not_permission">لم يتم منح الأُذونات الأساسية.</string>
     <string name="setup_setting_not_permission_msg">لم يتم منح كافة الأُذونات.</string>
-    <string name="setup_setting_notification_permission_msg">يَسْمَح استخدام إذن الوصول للإشعارات لقارئ الشاشة Jieshuo بالإحتفاظ برمزه في شريط الإشعارات ما يؤدي إلى تعزيز الاستقرار.</string>
+    <string name="setup_setting_notification_permission_msg">يَسْمَح استخدام إذن الوصول للإشعارات لقارئ الشاشة MS Vaani بالإحتفاظ برمزه في شريط الإشعارات ما يؤدي إلى تعزيز الاستقرار.</string>
     <string name="setup_setting_overlay_permission_msg">يساعد منح إذن النوافذ العائمة في وظائف مثل تعتيم الشاشة.</string>
     <string name="setup_setting_set_permission_and_exit">قم بمنح الأُذونات وإِنْهاء المساعد.</string>
     <string name="setup_setting_title">مساعد الإعداد.</string>
@@ -1591,7 +1591,7 @@ end)"</string>
     <string name="share_all">مشاركة الكل</string>
     <string name="shared_cloud_label">مشاركة إلى السحابة</string>
     <string name="show_download">show_download</string>
-    <string name="show_download_title">تنزيل Jieshuo</string>
+    <string name="show_download_title">تنزيل MS Vaani</string>
     <string name="show_volume_ui">show_volume_ui</string>
     <string name="show_volume_ui_title">عَرْض عناصر التَّحَكُّم في مُسْتَوى الصوت أثناء التعديل.</string>
     <string name="sign_done">تَمَّ التَّسْجيل بنجاح</string>
@@ -1647,8 +1647,8 @@ end)"</string>
     <string name="sound_scroll_top">العنصرُ الأول:</string>
     <string name="sound_scroll_up">التَّمْرير للأعلى:</string>
     <string name="sound_settings_title">تَخْصِيصُ المؤثرات الصوتية.</string>
-    <string name="sound_talkman_start">تشغيل Jieshuo:</string>
-    <string name="sound_talkman_stop">إيقاف Jieshuo:</string>
+    <string name="sound_talkman_start">تشغيل MS Vaani:</string>
+    <string name="sound_talkman_stop">إيقاف MS Vaani:</string>
     <string name="sound_tick">الوقت ومدة المُؤَقِّت:</string>
     <string name="sound_timer_end">انتهاء المُؤَقِّت:</string>
     <string name="sound_timer_start">بدء المُؤَقِّت:</string>
@@ -1886,7 +1886,7 @@ end)"</string>
     <string name="upper_case_format_number2" formatted="false">Capital %s, حَرْف رقم %d</string>
     <string name="url_menu_title">استخراج الروابط والأرقام</string>
     <string name="usage_hints">usage_hints</string>
-    <string name="usage_hints_msg">تساعد تَلْميحات الاستخدام المستخدِم المبتدئ في التَّعَرُّف على استخدام Jieshuo. إذا كانت هذه هي المرة الأولى التي تستخدم فيها هاتفك المحمول، فنوصي بتفعيل هذا الخِيار للحصول على تجربة سلسة وسهلة. وإذا كنت ذا خبرة واسعة، فنوصي بإلغاء تفعيل هذا الخيار للحصول على تجربة أكثر إيجازًا.</string>
+    <string name="usage_hints_msg">تساعد تَلْميحات الاستخدام المستخدِم المبتدئ في التَّعَرُّف على استخدام MS Vaani. إذا كانت هذه هي المرة الأولى التي تستخدم فيها هاتفك المحمول، فنوصي بتفعيل هذا الخِيار للحصول على تجربة سلسة وسهلة. وإذا كنت ذا خبرة واسعة، فنوصي بإلغاء تفعيل هذا الخيار للحصول على تجربة أكثر إيجازًا.</string>
     <string name="usage_hints_no">عدم نُطْق تَلْميحات الاستخدام:</string>
     <string name="usage_hints_ok">نُطْق تَلْميحات الاستخدام:</string>
     <string name="usage_hints_summary">عند تحديد هذا الخِيار، سَيَتِمُّ نُطْق تَلْميحات الاستخدام استناداً إلى عنصر التَّرْكيز الحالي.</string>
@@ -1895,7 +1895,7 @@ end)"</string>
     <string name="use_accessibility_volume_fix">use_accessibility_volume_fix</string>
     <string name="use_accessibility_volume_fix_summary">يوصى بتحديد هذا الخِيار إذا كان صوت إمكانية الوصول يرتفع أو ينخفض بشكل متكرر.</string>
     <string name="use_accessibility_volume_fix_title">استخدام تحسين مُسْتَوى صوت إمكانية الوصول</string>
-    <string name="use_accessibility_volume_summary">عند تحديد هذا الخِيار، سَيَتِمُّ التَّحَكُّمُ بِمُسْتَوى صوت Jieshuo مِن خِلالِ مُسْتَوى صوت إمكانية الوصول بدلا مِن مُسْتَوى صوت الوسائط.</string>
+    <string name="use_accessibility_volume_summary">عند تحديد هذا الخِيار، سَيَتِمُّ التَّحَكُّمُ بِمُسْتَوى صوت MS Vaani مِن خِلالِ مُسْتَوى صوت إمكانية الوصول بدلا مِن مُسْتَوى صوت الوسائط.</string>
     <string name="use_accessibility_volume_title">استخدام مُسْتَوى صوت إمكانية الوصول:</string>
     <string name="use_action_menu_show_cursor">use_action_menu_show_cursor</string>
     <string name="use_action_menu_show_cursor_title">عَرْض إجراءات عنصر التَّرْكيز الحالي في قائمةُ الإجراءات.</string>
@@ -1915,7 +1915,7 @@ end)"</string>
     <string name="use_auto_mode_move_list_view_item">use_auto_mode_move_list_view_item</string>
     <string name="use_auto_mode_move_list_view_item_title">استخدام التَّنَقُّل السريع بين عناصر القائمة عند استخدام القِراءة التلقائية.</string>
     <string name="use_auto_update">use_auto_update</string>
-    <string name="use_auto_update_title">البحث عن تحديث Jieshuo</string>
+    <string name="use_auto_update_title">البحث عن تحديث MS Vaani</string>
     <string name="use_auto_view_type">use_auto_view_type</string>
     <string name="use_auto_view_type_title">استخدام التبديل التلقائي لنوع التَّنَقُّل</string>
     <string name="use_bottom_menu_edge_gesture">use_bottom_menu_edge_gesture</string>
@@ -1950,7 +1950,7 @@ end)"</string>
     <string name="use_custom_symbol_speak">use_custom_symbol_speak</string>
     <string name="use_custom_symbol_speak_title">استخدام قاموس الرموز المُخَصَّصة</string>
     <string name="use_dim_screen">use_dim_screen</string>
-    <string name="use_dim_screen_title">تفعيلُ تعتيمِ الشاشة عند بدء تشغيل Jieshuo</string>
+    <string name="use_dim_screen_title">تفعيلُ تعتيمِ الشاشة عند بدء تشغيل MS Vaani</string>
     <string name="use_double_edge_gesture">use_double_edge_gesture</string>
     <string name="use_double_edge_gesture_summary">عند تحديد هذا الخِيار، لن يَسْمَح لك باستخدام قائمة الحافَّة باستخدام الوظائف المُخَصَّصة لإِيماءات الحافَّة.</string>
     <string name="use_double_edge_gesture_title">استخدام إِصْبَعَيْن لِقَائِمَةِ الحافة:</string>
@@ -1993,7 +1993,7 @@ end)"</string>
     <string name="use_float_menu_title">استخدام القائمة العائمة.</string>
     <string name="use_foreground">use_foreground</string>
     <string name="use_foreground_pro">use_foreground_pro</string>
-    <string name="use_foreground_pro_summary">يؤدي تشغيل هذا الخِيار إلى منع تحسين البطارية مِن إيقاف قارئ الشاشة. يقوم بذلك عن طريق تعيين Jieshuo كنافذة أمامية عند إيقاف تشغيل الشاشة.</string>
+    <string name="use_foreground_pro_summary">يؤدي تشغيل هذا الخِيار إلى منع تحسين البطارية مِن إيقاف قارئ الشاشة. يقوم بذلك عن طريق تعيين MS Vaani كنافذة أمامية عند إيقاف تشغيل الشاشة.</string>
     <string name="use_foreground_pro_title">سُكون الشاشة المُحَسَّن:</string>
     <string name="use_foreground_summary">يوصى بتحديد هذا الخِيار إذا كانت الشاشةِ تَدْخُل في وَضْعِ السكون بشكل متكرر.</string>
     <string name="use_foreground_title">استخدام حمايةِ الخلفية:</string>
@@ -2004,8 +2004,8 @@ end)"</string>
     <string name="use_gesture_detection">use_gesture_detection</string>
     <string name="use_gesture_detection_title">التَّحَكُّم في مهلةُ التَّلَمُّس والنَّقْر المزدوج</string>
     <string name="use_headset_key">use_headset_key</string>
-    <string name="use_headset_key_summary">يؤدي الضغط القصير على المفتاح إلى الانتقال إلى العنصر التالي، والضغط المتوسط إلى تفعيل العنصر المُرَكَّز عَلَيْهِ، وأخيرا يؤدي الضغط المُطَوَّل على المفتاح إلى تفعيل مساعد Jieshuo.</string>
-    <string name="use_headset_key_title">استخدام مفتاح سَمّاعة الرأس للتحكم في Jieshuo:</string>
+    <string name="use_headset_key_summary">يؤدي الضغط القصير على المفتاح إلى الانتقال إلى العنصر التالي، والضغط المتوسط إلى تفعيل العنصر المُرَكَّز عَلَيْهِ، وأخيرا يؤدي الضغط المُطَوَّل على المفتاح إلى تفعيل مساعد MS Vaani.</string>
+    <string name="use_headset_key_title">استخدام مفتاح سَمّاعة الرأس للتحكم في MS Vaani:</string>
     <string name="use_image_filter">use_image_filter</string>
     <string name="use_image_filter_summary">ٕ</string>
     <string name="use_image_filter_title">تصفيةُ الصور في عَرْض الويب.</string>
@@ -2047,7 +2047,7 @@ end)"</string>
     <string name="use_left_right">use_left_right</string>
     <string name="use_left_right_double_fling_gesture">use_left_right_double_fling_gesture</string>
     <string name="use_left_right_double_fling_gesture_title">استخدام التَّمْرير لليسار ثُمَّ لليمين</string>
-    <string name="use_left_right_msg">تتوفر في Jieshuo خياران مختلفان لوضعية التنقل. الوضع الافتراضي يتضمن استخدام إِيماءات التَّمْرير العمودية (للأعلى والأسفل)، بينما الوضع المخصص يتضمن استخدام إِيماءات التَّمْرير الأفقية (لليمين واليسار).</string>
+    <string name="use_left_right_msg">تتوفر في MS Vaani خياران مختلفان لوضعية التنقل. الوضع الافتراضي يتضمن استخدام إِيماءات التَّمْرير العمودية (للأعلى والأسفل)، بينما الوضع المخصص يتضمن استخدام إِيماءات التَّمْرير الأفقية (لليمين واليسار).</string>
     <string name="use_left_right_no">استخدام إِيماءات التَّمْرير العمودية (للأعلى والأسفل:</string>
     <string name="use_left_right_ok">استخدام إِيماءات التَّمْرير الأفقية (لليمين واليسار:</string>
     <string name="use_left_right_summary">عند استخدام الإِيماءات الافتراضية، قم بتبديل التَّنَقُّل لليمين واليسار، و تنفيذ الاختصار باستخدام التَّنَقُّل للأعلى و الأسفل.</string>
@@ -2309,7 +2309,7 @@ end)"</string>
     <string name="user_key">user_key</string>
     <string name="user_key_title">مفتاح التَّرْخيص:</string>
     <string name="user_letter_map">user_letter_map</string>
-    <string name="user_letter_map_title">استخدام قاموس تعريف الكلمات المُخَصَّصة (يجب إعادة تشغيل Jieshuo لتطبيق التغييرات)</string>
+    <string name="user_letter_map_title">استخدام قاموس تعريف الكلمات المُخَصَّصة (يجب إعادة تشغيل MS Vaani لتطبيق التغييرات)</string>
     <string name="user_name">user_name</string>
     <string name="user_name_title">اسم المستخدِم</string>
     <string name="user_new_password">كلمة المرور الجديدة: يمكنُك إنشاء كلمة المرور باستخدام 6 أحرُف أو أكثر. ويجب أن تتألف كلمة المرور مِن أرقام أو أحرُف لاتينية.</string>
@@ -2427,7 +2427,7 @@ end)"</string>
     <string name="version_msg" formatted="false">%s, حجم الملف: %s, تَمَّ التنزيل %s مرة</string>
     <string name="vibrate_intensity">vibrate_intensity</string>
     <string name="vibrate_intensity_title">تأثير الإهتزاز:</string>
-    <string name="vibrate_summary">استخدام الإهتزاز مع Jieshuo.</string>
+    <string name="vibrate_summary">استخدام الإهتزاز مع MS Vaani.</string>
     <string name="vibrate_title">استخدام الإهتزاز:</string>
     <string name="video_description">وَصْفُ الفيديو</string>
     <string name="view_changed_settings_title">المحتوى المُتَغَيِّر</string>
@@ -2449,10 +2449,10 @@ end)"</string>
     <string name="view_type_move">view_type_move</string>
     <string name="view_type_move_title">تخصيص قائمة التَّنَقُّل حسب النوع في جميع طرق العَرْض.</string>
     <string name="vip_qq_group">vip_qq_group</string>
-    <string name="vip_qq_group_title">مجموعة QQ الرسميةُ لأعضاء Jieshuo المُسَجَّلين</string>
+    <string name="vip_qq_group_title">مجموعة QQ الرسميةُ لأعضاء MS Vaani المُسَجَّلين</string>
     <string name="vip_qq_kefu">vip_qq_kefu</string>
     <string name="vip_qq_kefu_summary">استشارة، شراء، تحويل، نقل الترخيص، يرجى التأكد مِن اجتياز خدمة العملاء للمصادقة.</string>
-    <string name="vip_qq_kefu_title">دعم Jieshuo:</string>
+    <string name="vip_qq_kefu_title">دعم MS Vaani:</string>
     <string name="voice_app_name">المساعد الصوتي</string>
     <string name="voice_cmd_call">اتصال</string>
     <string name="voice_cmd_input">اكتب</string>
@@ -2465,13 +2465,13 @@ end)"</string>
     <string name="voice_cmd_uninstall">الغاء تثبيت</string>
     <string name="voice_data_failed_message">أخفق eSpeak في تثبيت البيانات الصوتية. الرجاء التحقق من بطاقة SD.</string>
     <string name="voice_help">voice_help</string>
-    <string name="voice_help_title">تعليماتُ مساعِد Jieshuo</string>
-    <string name="voice_helper_capability_setting">مساعِد Jieshuo</string>
+    <string name="voice_help_title">تعليماتُ مساعِد MS Vaani</string>
+    <string name="voice_helper_capability_setting">مساعِد MS Vaani</string>
     <string name="voice_helper_copy">voice_helper_copy</string>
     <string name="voice_helper_copy_title">نَسْخُ نتائج التَّرْجمة تلقائيا إلى الحافِظة:</string>
     <string name="voice_helper_exit">الغاء</string>
     <string name="voice_helper_media_mute_mode">voice_helper_media_mute_mode</string>
-    <string name="voice_helper_media_mute_mode_title">إيقاف الوسائط عند استخدام مساعِد Jieshuo.</string>
+    <string name="voice_helper_media_mute_mode_title">إيقاف الوسائط عند استخدام مساعِد MS Vaani.</string>
     <string name="voice_helper_record_done">اكْتَمَلَ التَّسْجيل.</string>
     <string name="voice_helper_record_message">تَحَدَّث بالأمر الآن</string>
     <string name="voice_helper_record_start">انشاء امر صوتي</string>
@@ -2496,7 +2496,7 @@ end)"</string>
     <string name="voice_helper_use_gestures">voice_helper_use_gestures</string>
     <string name="voice_helper_use_gestures_title">تشغيلُ الوظائف المُخَصَّصة.</string>
     <string name="voice_helper_use_input_method">voice_helper_use_input_method</string>
-    <string name="voice_helper_use_input_method_title">استَخدِم إدخال النَّصّ بَدَلاً مِن الإدخال الصَّوْتي للتفاعل مع مساعِد Jieshuo</string>
+    <string name="voice_helper_use_input_method_title">استَخدِم إدخال النَّصّ بَدَلاً مِن الإدخال الصَّوْتي للتفاعل مع مساعِد MS Vaani</string>
     <string name="voice_helper_use_plugin">voice_helper_use_plugin</string>
     <string name="voice_helper_use_plugin_title">تشغيلُ الإضافات.</string>
     <string name="voice_helper_use_supper_cmd">voice_helper_use_supper_cmd</string>
@@ -2522,10 +2522,10 @@ end)"</string>
     <string name="vr_dialog_title">تنبيهٌ هام:</string>
     <string name="waiting">الرجاء الانتظار</string>
     <string name="wake_lock">wake_lock</string>
-    <string name="wallpaper_description">إذا كنت لا ترغب في منح Jieshuo أذونات إضافية، فيرجى تعيين Jieshuo كخلفية للشاشة.</string>
-    <string name="wallpaper_summary">تَمَّ تمكين قيود البطارية الشديدة تلقائياً في بعض الهواتف. إذا تَمَّ إيقاف قارئ الشاشة بواسطة تحسين البطارية، فسيؤدي تشغيل هذا الخِيار إلى تعيين خلفية شاشة Jieshuo كمضيف للشاشة، مما يقلل من تأثير تحسين البطارية عند إيقاف تشغيل الشاشة.</string>
+    <string name="wallpaper_description">إذا كنت لا ترغب في منح MS Vaani أذونات إضافية، فيرجى تعيين MS Vaani كخلفية للشاشة.</string>
+    <string name="wallpaper_summary">تَمَّ تمكين قيود البطارية الشديدة تلقائياً في بعض الهواتف. إذا تَمَّ إيقاف قارئ الشاشة بواسطة تحسين البطارية، فسيؤدي تشغيل هذا الخِيار إلى تعيين خلفية شاشة MS Vaani كمضيف للشاشة، مما يقلل من تأثير تحسين البطارية عند إيقاف تشغيل الشاشة.</string>
     <string name="wallpaper_title">خلفية شاشة jieshuo:</string>
-    <string name="web_app_name">مُتَصَفِّح Jieshuo</string>
+    <string name="web_app_name">مُتَصَفِّح MS Vaani</string>
     <string name="web_are_you_open">هل ترغب في فتح هذا الرابط؟</string>
     <string name="web_back">العودة للخلف</string>
     <string name="web_copy_url">نسخ الرابط</string>

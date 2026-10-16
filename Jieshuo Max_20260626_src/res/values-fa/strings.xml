@@ -35,7 +35,7 @@
  فرمان‌های صوتی متعدد که عملکرد های مختلف را آسان میکنند.
  راه‌اندازی خودکار پلاگین‌ها: پلاگین های مورد علاقه شما همیشه در دسترس هستند.
  Commentary صفحه‌خوان بی‌نهایت انعطاف‌پذیر و قابل شخصی‌سازی شماست!"</string>
-    <string name="accessibility_service_description2">解说辅助服务和主服务功能完全相同，主要用于部分会检测读屏服务名的场景，两个服务不需要同时开启。</string>
+    <string name="accessibility_service_description2">MS Vaani辅助服务和主服务功能完全相同，主要用于部分会检测读屏服务名的场景，两个服务不需要同时开启。</string>
     <string name="accessibility_volume">accessibility_volume</string>
     <string name="action_menu_title">منوی عملیات:</string>
     <string name="action_setting">action_setting</string>
@@ -776,7 +776,7 @@
     <string name="help_title">صفحه راهنما</string>
     <string name="helper_manager_title">مدیریت دستیار صوتی</string>
     <string name="helper_supper_cmd_title">超级语音指令</string>
-    <string name="helper_tts_setting_title">语音助手与解说相机语音设置</string>
+    <string name="helper_tts_setting_title">语音助手与MS Vaani相机语音设置</string>
     <string name="hide_dialog">مخفی کردن</string>
     <string name="hint_activated">, فعال کردن</string>
     <string name="hint_change_rating">, انگشت خود را به چپ یا راست بکشید تا امتیاز را تغییر دهید.</string>
@@ -805,7 +805,7 @@
     <string name="hour">ساعت</string>
     <string name="hover_stat_info" formatted="false">صفحه به تعداد %d بار و با متوسط زمان پاسخ %d MS لمس شده است</string>
     <string name="ignore_battery">به برنامه اجازه دهید تا تنظیمات بهینه سازی نیرو را نادیده بگیرد..</string>
-    <string name="import_all_title">导入解说完整备份吗</string>
+    <string name="import_all_title">导入MS Vaani完整备份吗</string>
     <string name="import_file">وارد کردن</string>
     <string name="import_voice_description">وارد کردن واژه‌نامه صوتی از حافظه دستگاه.</string>
     <string name="import_voice_title">وارد کردن واژه‌نامه espeak</string>
@@ -977,7 +977,7 @@
     <string name="msg_added">افزوده شد.</string>
     <string name="msg_all_copyed">کپی همه</string>
     <string name="msg_auto_trans_has_vip">ترجمه خودکار تنها در نسخه پیشرفته کار می‌کند</string>
-    <string name="msg_backup_done">فایل پشتیبان در مثیر /حافظه داخلی/解说/backup ذخیره میشود. اگر از پوشه 解说 کپی تهیه کنید، تمامی اطلاعات صفحه‌خوان از جمله ژست‌های حرکتی، پوسته های صوتی، پلاگین‌ها و... با جایگزین کردن پوشه بازگردانی میشوند</string>
+    <string name="msg_backup_done">فایل پشتیبان در مثیر /حافظه داخلی/解说/backup ذخیره میشود. اگر از پوشه MS Vaani کپی تهیه کنید، تمامی اطلاعات صفحه‌خوان از جمله ژست‌های حرکتی، پوسته های صوتی، پلاگین‌ها و... با جایگزین کردن پوشه بازگردانی میشوند</string>
     <string name="msg_backuped">پشتیبان‌گیری با موفقیت انجام شد</string>
     <string name="msg_backups_empty">لیست پشتیبان‌ها خالی است</string>
     <string name="msg_battery_full">شارژ باتری کامل است</string>
@@ -1033,9 +1033,9 @@
     <string name="msg_gesture_has_vip">این نسخه از شخصی‌سازی ژست حرکتی بالا، پایین، چپ و راست پشتیبانی نمی‌کند</string>
     <string name="msg_gesture_updated">ژست‌های حرکتی به‌روز‌رسانی شد.</string>
     <string name="msg_gestures_empty">لیست ژست‌های حرکتی خالی است</string>
-    <string name="msg_has_enabled">请先启用解说</string>
-    <string name="msg_has_not_enabled">解说还没有启动，在辅助功能启用解说后才能为你提供服务，是否立即前往辅助功能开启解说，你也可以在稍后解说辅助功能设置中开启</string>
-    <string name="msg_has_not_enabled_33">"注意，若您是安卓13的用户，那么您在“无障碍”或“辅助功能”中首次启动解说时，可能会跳出受限制的设置对话框，提示出于安全考虑，此设置不可用，请点击确认按钮后，打开解说的应用信息，点击右上角的更多选项，随后点击允许受限制的设置，随后再次到“无障碍”或“辅助功能”中启用解说即可，如若您的安卓13设备没有出现上述提示，可忽略本说明。
+    <string name="msg_has_enabled">请先启用MS Vaani</string>
+    <string name="msg_has_not_enabled">MS Vaani还没有启动，在辅助功能启用MS Vaani后才能为你提供服务，是否立即前往辅助功能开启MS Vaani，你也可以在稍后MS Vaani辅助功能设置中开启</string>
+    <string name="msg_has_not_enabled_33">"注意，若您是安卓13的用户，那么您在“无障碍”或“辅助功能”中首次启动MS Vaani时，可能会跳出受限制的设置对话框，提示出于安全考虑，此设置不可用，请点击确认按钮后，打开MS Vaani的应用信息，点击右上角的更多选项，随后点击允许受限制的设置，随后再次到“无障碍”或“辅助功能”中启用MS Vaani即可，如若您的安卓13设备没有出现上述提示，可忽略本说明。
 "</string>
     <string name="msg_has_storage">برای استفاده از این امکان به مجوز دسترسی به حافظه نیاز است. لطفا مجوز را تایید کنید.</string>
     <string name="msg_has_vip_auto_speak">در نسخه رایگان، امکان استفاده از خواننده هوشمند تنها برای برنامه QQ وجود دارد.</string>
@@ -1047,7 +1047,7 @@
     <string name="msg_hotkey_backup_done">پشتیبان از پوسته‌های فیزیکی با موفقیت ایجاد شد.</string>
     <string name="msg_hotkey_backup_error">خطایی در ایجاد پشتیبان از پوسته‌های فیزیکی رخ داد.</string>
     <string name="msg_import">%s وارد شد</string>
-    <string name="msg_import_all">此操作会覆盖你的解说全部设置和资源</string>
+    <string name="msg_import_all">此操作会覆盖你的MS Vaani全部设置和资源</string>
     <string name="msg_import_strings">导入语言翻译将会覆盖合并你的语言设置，你可以先导出自己的设置后导入，是否直接导入</string>
     <string name="msg_in_game_mode">حالت بازی فعال شد</string>
     <string name="msg_invite_code_error">邀请码不正确</string>
@@ -1149,7 +1149,7 @@
     <string name="msg_stop_video_description">视频描述已停止</string>
     <string name="msg_supper_cmd_only_voice_helper">超级语音指令只能在语音助手中调用</string>
     <string name="msg_supper_mode">强力模式可以获得更多焦点内容</string>
-    <string name="msg_talkback_enabled">你已开启talkback，同时开启解说和talkback可能导致触摸异常，请在关闭talkback后恢复解说的触摸浏览。</string>
+    <string name="msg_talkback_enabled">你已开启talkback，同时开启MS Vaani和talkback可能导致触摸异常，请在关闭talkback后恢复MS Vaani的触摸浏览。</string>
     <string name="msg_text_changed">متن تغییر کرده است. میخواهید با آن چه کنید؟</string>
     <string name="msg_timer_backup_done">پشتیبان از زمان‌سنج‌ها با موفقیت ایجاد شد.</string>
     <string name="msg_timer_backup_error">خطایی در ایجاد پشتیبان از زمان‌سنج‌ها رخ داد.</string>
@@ -1651,8 +1651,8 @@ end)"</string>
     <string name="sound_scroll_top">滚动到顶部</string>
     <string name="sound_scroll_up">پیمایش صفحه به بالا</string>
     <string name="sound_settings_title">شخصی‌سازی پوسته صوتی</string>
-    <string name="sound_talkman_start">解说启动</string>
-    <string name="sound_talkman_stop">解说停止</string>
+    <string name="sound_talkman_start">MS Vaani启动</string>
+    <string name="sound_talkman_stop">MS Vaani停止</string>
     <string name="sound_tick">صدای زمان‌سنج</string>
     <string name="sound_timer_end">صدای پایان زمانسنج</string>
     <string name="sound_timer_start">صدای شروع زمانسنج</string>
@@ -2006,7 +2006,7 @@ end)"</string>
     <string name="use_game_mode_no_speak">use_game_mode_no_speak</string>
     <string name="use_game_mode_no_speak_title">游戏模式时禁用语音合成</string>
     <string name="use_gesture_detection">use_gesture_detection</string>
-    <string name="use_gesture_detection_title">在解说中处理手势</string>
+    <string name="use_gesture_detection_title">在MS Vaani中处理手势</string>
     <string name="use_headset_key">use_headset_key</string>
     <string name="use_headset_key_summary">برای رفتن به گزینه بعدی دگمه هدست را فشار دهید، برای فعال کردن دستیار صوتی دگمه هدست را نگه دارید..</string>
     <string name="use_headset_key_title">از دگمه ی هدست برای کنترل صفحه‌خوان استفاده شود:</string>
@@ -2099,7 +2099,7 @@ end)"</string>
     <string name="use_navigation_gesture_summary">در اندروید 11 به بالا، انگشت خود را از پایین صفحه به بالا بکشید تا ژست‌های حرکتی تمام‌صفحه اجرا شود.</string>
     <string name="use_navigation_gesture_title">از یک انگشت برای ژست های حرکتی تمام صفحه استفاده شود</string>
     <string name="use_new_text_move_type">use_new_text_move_type</string>
-    <string name="use_new_text_move_type_title">使用解说风格处理文字移动操作</string>
+    <string name="use_new_text_move_type_title">使用MS Vaani风格处理文字移动操作</string>
     <string name="use_new_web_type">use_new_web_type</string>
     <string name="use_new_web_type_summary">روش جدید ممکن است سرعت مرور وب را افزایش دهد، اما ممکن است باعث بی ثباتی نیز شود. اگر بعد از فعال کردن این گزینه مرور وب را ناپایدار یافتید، لطفاً آن را غیرفعال کنید</string>
     <string name="use_new_web_type_title">از حالت جدید مرور وب استفاده شود</string>
@@ -2518,14 +2518,14 @@ end)"</string>
     <string name="voice_question">语音问答</string>
     <string name="voice_recognizer">voice_recognizer</string>
     <string name="voice_recognizer_title">موتور شناسایی صدا:</string>
-    <string name="vr_camera">解说VR助视</string>
+    <string name="vr_camera">MS VaaniVR助视</string>
     <string name="vr_camera_ae">曝光</string>
     <string name="vr_camera_distance">瞳距</string>
     <string name="vr_camera_flash_off">闪光灯已关闭</string>
     <string name="vr_camera_flash_on">闪光灯已打开</string>
     <string name="vr_camera_light">亮度</string>
     <string name="vr_camera_zoom">变焦</string>
-    <string name="vr_dialog_message">"解说VR助视功能需配合VR眼镜盒子和蓝牙遥控器使用，本功能主要辅助低视力用户看周围环境、书籍或电脑，电视等。
+    <string name="vr_dialog_message">"MS VaaniVR助视功能需配合VR眼镜盒子和蓝牙遥控器使用，本功能主要辅助低视力用户看周围环境、书籍或电脑，电视等。
  因放大后的视角与刷新率问题，该功能不适用于行走出行等场景使用。
  如果外出需要观察周围环境，如看公交站牌，地铁站，寻找店铺牌匾等，请务必在停止行走并确认周围安全情况下使用。
  使用方法：

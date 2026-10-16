@@ -63,11 +63,11 @@
         <item>60</item>
     </string-array>
     <string-array name="code_help_items" formatted="false">
-        <item>解说多功能手势和插件以lua语法配合解说专有API实现一个手势多个功能。 如果对lua和androlua比较熟悉，还可以实现更多功能，本文档只讲述专有API部分。</item>
+        <item>MS Vaani多功能手势和插件以lua语法配合MS Vaani专有API实现一个手势多个功能。 如果对lua和androlua比较熟悉，还可以实现更多功能，本文档只讲述专有API部分。</item>
         <item>基本概念， service，辅助功能服务，是这个读屏服务的核心，各个功能都是以这个服务为核心。</item>
         <item>参数类型说明， node，当前焦点，也就是当前获得辅助功能焦点的节点，一般操作都是针对这个焦点的。 bool，布尔值，true或者false。 text，文字内容。</item>
         <item>return，返回，通知读屏你是否希望读屏执行该手势的默认操作。 返回true则拦截该手势，false返回上一层执行，如在单程序手势返回false，则由全局手势接管处理，全局手势返回false，由默认手势处理。</item>
-        <item>常用命令， service.execute(命令,node) 这个命令就是解说为了简化开发内置的一些指令，如果执行成功返回true，失败返回false。</item>
+        <item>常用命令， service.execute(命令,node) 这个命令就是MS Vaani为了简化开发内置的一些指令，如果执行成功返回true，失败返回false。</item>
         <item>service.postExecute(时间,命令,node) 延时执行命令，</item>
         <item>text=service.getText(node) 获取指定节点的文字信息。</item>
         <item>service.setText(node,text) 设置指定焦点输入框文字内容。</item>
@@ -125,7 +125,7 @@
         <item>自动点击， service.click({按钮列表}) 自动依次查找点击按钮列表的按钮， 按钮名称支持一些符号进行通配， 如前面加#(井号)，表示搜索的是自定义标签， 前边或后边加*(星号)表示前边或后边还有其他字符， 后边加#(井号)表示按钮次序， 后边加@(圈a)表示只在某一个程序查找， 加$(美元)表示执行完成后延时。 参数支持多个表，按顺序查找， 如果查找成功返回true，失败返回false。 完整说明见后边，</item>
         <item>延时点击， service.postClick(时间,{按钮列表}) 延时一定时间执行点击，时间单位为毫秒，按钮列表定义与click相同， 没有返回值。</item>
         <item>service.plugin(插件名称,node) 执行一个插件， 返回插件自定义返回的值。</item>
-        <item>解说手势以自动点击最为灵活，基础形式是</item>
+        <item>MS Vaani手势以自动点击最为灵活，基础形式是</item>
         <item>按钮列表={} service.click(按钮列表) return true</item>
         <item>下边两行是固定的，自己只需要修改按钮列表即可， 按钮列表格式是用英文花括号或者叫大括号括起来的一些按钮名称和符号组成，</item>
         <item>最简单的例子，</item>
@@ -139,8 +139,8 @@
         <item>在花括号中嵌套括号可以实现连续点击，</item>
         <item>在按钮列表中我们用一些符号来增强功能，</item>
         <item>最常用的是 * 星号，英文星号，这个符号在按钮文字的前后，表示可以有其它内容</item>
-        <item>比如，在QQ主界面要点击，解说读屏交流群，而这个列表内容有时候后面会有99条未读之类内容，这时候就要写成，</item>
-        <item>解说读屏交流群*</item>
+        <item>比如，在QQ主界面要点击，MS Vaani读屏交流群，而这个列表内容有时候后面会有99条未读之类内容，这时候就要写成，</item>
+        <item>MS Vaani读屏交流群*</item>
         <item>\# 井号，表示第几个结果，有时候一个界面有很多个名字一样的按钮，这时候需要用井号来说明点击第几个，</item>
         <item>如，确定#1，表示第一个，也可以是负数，如确定#-1，表示最后一个。</item>
         <item>这个井号在文字开头表示要查找的是按钮的标签，而不是按钮的名字，比如有的按钮没有名字，可以自己添加标签，并使用标签查找，</item>
@@ -162,10 +162,10 @@
         <item>[x,y,t]方括号包含三个数字表示模拟点击指定位置指定时间，前两个意思和上一个相同，第三个是以毫秒为单位的时间， [300,500,1000] 模拟点击从左算 300 像素，从上算 500 像素的位置，持续 1000 毫秒</item>
         <item>[x1,y1,x2,y2,t]方括号包含五个数字表示用指定时间模拟从x1，y1滑动到x2,y2位置，可以用整数表示绝对位置，或者用小数表示相对位置， [300,500,300,800,1000] 模拟从左算 300 像素，从上算 500 像素的位置，用 1000 毫秒时间滑动到 300,800 的位置，</item>
         <item>模拟滑动还可以指定滑动次数 [300,500,300,800,1000,10] 模拟从左算 300 像素，从上算 500 像素的位置，用 1000 毫秒时间滑动到 300,800 的位置，10 次,</item>
-        <item>在手势执行中有时会有一些不同情况出现，比如打开QQ，点击解说读屏交流群，点击群资料卡，点击文件， 如果有群公告，会在点击群资料卡那一步卡住，不能执行， 这时需要分支代码来执行这些突发情况， 我只是手写例子，可能会有错字导致不能执行，理解意思就可以了，</item>
-        <item>按钮列表={ { >QQ, 解说读屏交流群*, { 我已阅读群公告|我知道了 }, 群资料卡, 文件 } }</item>
-        <item>因为QQ版本不同，确定群公告按钮也不一样， 可以看到，在点击解说读屏交流群后，多了一对花括号括起来按钮，这个括号中的按钮，有则执行，没有则跳过，不影响后边按钮的执行， 如果分支中有复杂操作，或者多种场景，我们还可以套入多个括号，</item>
-        <item>按钮列表={ { >QQ, 解说读屏交流群*, { { 我已阅读群公告,确定}, { 我知道了,确定}, }, 群资料卡, 文件 } }</item>
+        <item>在手势执行中有时会有一些不同情况出现，比如打开QQ，点击MS Vaani读屏交流群，点击群资料卡，点击文件， 如果有群公告，会在点击群资料卡那一步卡住，不能执行， 这时需要分支代码来执行这些突发情况， 我只是手写例子，可能会有错字导致不能执行，理解意思就可以了，</item>
+        <item>按钮列表={ { >QQ, MS Vaani读屏交流群*, { 我已阅读群公告|我知道了 }, 群资料卡, 文件 } }</item>
+        <item>因为QQ版本不同，确定群公告按钮也不一样， 可以看到，在点击MS Vaani读屏交流群后，多了一对花括号括起来按钮，这个括号中的按钮，有则执行，没有则跳过，不影响后边按钮的执行， 如果分支中有复杂操作，或者多种场景，我们还可以套入多个括号，</item>
+        <item>按钮列表={ { >QQ, MS Vaani读屏交流群*, { { 我已阅读群公告,确定}, { 我知道了,确定}, }, 群资料卡, 文件 } }</item>
     </string-array>
     <string-array name="edge_gesture_width_entries">
         <item>Nízka</item>
@@ -210,7 +210,7 @@
         <item>Virtual screen (member function): The OCR recognizes the content on the screen, displays the result according to the text position, clicks the result text to activate the corresponding focus, long presses the word to split the focus, and clicks the word to activate the position of the corresponding word. Android 7 or above double-click to activate, Android 6 below three times to activate.</item>
         <item>Text recognition (member function): The content on the screen is recognized by the OCR, and the result is displayed in a list form, and the result list is clicked to activate the corresponding focus, the long press is followed by the word display result, and the single word is activated to activate the position of the corresponding word. Clicking is not supported under Android 6 and only results can be viewed.</item>
         <item>Captcha identification (member function): Touch the verification code focus, use advanced menu, verification code identification, or voice assistant, verification code identification, can recognize English or digital verification code, and the recognition result is automatically copied to the clipboard.</item>
-        <item>Jieshuo camera (member function): The camera can recognize text, scenes, animals, plants, or for camera guidance. The camera currently supports only the rear camera, using volume plus shooting, volume minus switching mode.</item>
+        <item>MS Vaani camera (member function): The camera can recognize text, scenes, animals, plants, or for camera guidance. The camera currently supports only the rear camera, using volume plus shooting, volume minus switching mode.</item>
         <item>Quickly navigate between list items: In the operation settings, left and right shortcut gesture settings enable the left and right gestures to move quickly in the list, you can use the left or right gesture to quickly browse the message in the list of QQ messages, for example.</item>
         <item>Notification black/whitelist: The notification blacklist can filter out notifications containing the specified content, and input an asterisk to filter all notifications of the application. The notification whitelist can allow reading of notifications containing the specified content, even if the notification has been closed, entering an asterisk indicates that all notifications for the program are allowed. Keywords support regular expressions.</item>
         <item>Content blacklist: You can filter the focus content of the specified content, usually used to filter some non-standard accessibility instructions. Regular expressions are not supported based on efficiency considerations.</item>

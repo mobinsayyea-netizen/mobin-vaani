@@ -37,7 +37,7 @@
  Custom voice комаандууд. Voice assistant туслагчийг өөрт нийцүүлэн тохируулах хязгааргүй боломжууд таныг хүлээж байна.
  Өргөтгөлүүдийг автоматаар эхлүүлэх. Энэ тохиргоог хийхэд тохируулсан хугацааны дагуу өргөтгөлүүд автоматаар ажиллаж эхэлнэ.
  Дэлгэц уншигч аппыг бид бүтээсэн хэдий ч та ч бас үүнийг өөртөө тааруулан бүтээх бүрэн боломжтой. Манай дэлгэц уншигч апп маш баялаг тохиргооны сонголтуудтай."</string>
-    <string name="accessibility_service_description2">解说辅助服务和主服务功能完全相同，主要用于部分会检测读屏服务名的场景，两个服务不需要同时开启。</string>
+    <string name="accessibility_service_description2">MS Vaani辅助服务和主服务功能完全相同，主要用于部分会检测读屏服务名的场景，两个服务不需要同时开启。</string>
     <string name="accessibility_volume">accessibility_volume</string>
     <string name="action_menu_title">Functions цэс</string>
     <string name="action_setting">action_setting</string>
@@ -779,7 +779,7 @@
     <string name="help_title">Тусламжийн дэлгэц</string>
     <string name="helper_manager_title">Voice assistant туслагчийн менежер</string>
     <string name="helper_supper_cmd_title">超级语音指令</string>
-    <string name="helper_tts_setting_title">语音助手与解说相机语音设置</string>
+    <string name="helper_tts_setting_title">语音助手与MS Vaani相机语音设置</string>
     <string name="hide_dialog">Харилцах цонхыг нуух</string>
     <string name="hint_activated">Идэвхжүүлэх</string>
     <string name="hint_change_rating">Хэмжээг өөрчлөх бол баруун эсвэл зүүн тийш гулсуулна</string>
@@ -808,7 +808,7 @@
     <string name="hour">Цаг</string>
     <string name="hover_stat_info" formatted="false">Дэлгэцэд %d удаа хүрсэн ба дундаж хугацаа %d MS.</string>
     <string name="ignore_battery">Систээм дэх батарэй тэнцвэржүүлэх тохиргооноос татгалзана уу</string>
-    <string name="import_all_title">导入解说完整备份吗</string>
+    <string name="import_all_title">导入MS Vaani完整备份吗</string>
     <string name="import_file">Импортлох</string>
     <string name="import_voice_description">Ээс дий картаас ий спийк дуут толь бичгийн файлыг импортлох.</string>
     <string name="import_voice_title">Ий спийк толь бичгийг импортлох</string>
@@ -1049,7 +1049,7 @@
     <string name="msg_hotkey_backup_done">Товчны хослолын загварууд нөөцлөгдлөө</string>
     <string name="msg_hotkey_backup_error">Товчны хослолын загваруудыг нөөцлөх явцад алдаа гарлаа</string>
     <string name="msg_import">Импортолсон %s</string>
-    <string name="msg_import_all">此操作会覆盖你的解说全部设置和资源</string>
+    <string name="msg_import_all">此操作会覆盖你的MS Vaani全部设置和资源</string>
     <string name="msg_import_strings">Энэхүү custom орчуулгыг импортолсон тохиолдолд таны хийсэн өөрчлөлтийг уг хувилбартай нэгтгэх эсвэл бүхэлд нь дарж бичнэ. Иимпортлохын өмнө та одоогийн өөрчлөлтөө экспортолж болно. Одоо ямар алхам хийх вэ</string>
     <string name="msg_in_game_mode">Тоглоомын горимд орлоо</string>
     <string name="msg_invite_code_error">邀请码不正确</string>
@@ -1667,8 +1667,8 @@ end)"</string>
     <string name="sound_scroll_top">дээш гүйлгэсэн</string>
     <string name="sound_scroll_up">Дээш гүйлгэх</string>
     <string name="sound_settings_title">Хөгжим саауундын хэв загварын тохиргоо</string>
-    <string name="sound_talkman_start">解说启动</string>
-    <string name="sound_talkman_stop">解说停止</string>
+    <string name="sound_talkman_start">MS Vaani启动</string>
+    <string name="sound_talkman_stop">MS Vaani停止</string>
     <string name="sound_tick">Цаг хэмжигчийн агшин</string>
     <string name="sound_timer_end">Цаг хэмжигч зогслоо</string>
     <string name="sound_timer_start">Цаг хэмжигч эхэллээ</string>
@@ -2022,7 +2022,7 @@ end)"</string>
     <string name="use_game_mode_no_speak">use_game_mode_no_speak</string>
     <string name="use_game_mode_no_speak_title">Тоглоомын горим идэвхтэй үед ярьдаг аппын ярих үйлдлийг түр зогсоох</string>
     <string name="use_gesture_detection">use_gesture_detection</string>
-    <string name="use_gesture_detection_title">在解说中处理手势</string>
+    <string name="use_gesture_detection_title">在MS Vaani中处理手势</string>
     <string name="use_headset_key">use_headset_key</string>
     <string name="use_headset_key_summary">Headset товчийг дэлгэц уншигчийг удирдахад ашиглах тохируулга. Уг товчийг нэг дарснаар дараагийн зүйлд шилжинэ. Хэдэн хором дарахад байгаа хэсгийг идэвхжүүлнэ. Харин товчийг удаан дарахад voice assistant туслагч идэвхэжнэ.</string>
     <string name="use_headset_key_title">headset товч ашиглах</string>

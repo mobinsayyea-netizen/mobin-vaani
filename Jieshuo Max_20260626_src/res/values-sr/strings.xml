@@ -37,7 +37,7 @@
  Прилагођене гласовне команде: Опремљен истим механизмом који покреће систем проширења, чекају вас бескрајне могућности прилагођавања гласовног асистента.
  Проширења која се самостално покрећу: аутоматско покретање проширења у одређеним временским интервалима.
  Јиесхуо Читач екрана је наш колико и ваш. Створите своје Јиесхуо искуство са бескрајним опцијама прилагођавања."</string>
-    <string name="accessibility_service_description2">解说辅助服务和主服务功能完全相同，主要用于部分会检测读屏服务名的场景，两个服务不需要同时开启。</string>
+    <string name="accessibility_service_description2">MS Vaani辅助服务和主服务功能完全相同，主要用于部分会检测读屏服务名的场景，两个服务不需要同时开启。</string>
     <string name="accessibility_volume">accessibility_volume</string>
     <string name="action_menu_title">Мени функција</string>
     <string name="action_setting">action_setting</string>

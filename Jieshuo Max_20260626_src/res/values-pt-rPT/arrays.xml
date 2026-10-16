@@ -432,7 +432,7 @@ Página anterior
  Abrir NomeDoAPP: Abre o aplicativo informado. Enviar conteúdo: permite o envio direto para o QQ e Wechat Pesquisar por conteúdo: realiza a pesquisa on-line da frase fornecida O assistente de voz é extensível graças aos menus e plugins de edição."</item>
     </string-array>
     <string-array name="help_items">
-        <item>"Navegando com gestos padrões do Jieshuo
+        <item>"Navegando com gestos padrões do MS Vaani
  Varra para cima para focar o item anterior, varra para baixo para focar o próximo item.
  No entanto, você pode alterar esse comportamento nas configurações de ação."</item>
         <item>"Ativando o Menu Principal:
@@ -445,7 +445,7 @@ Página anterior
  Faça um gesto varrendo de baixo para cima e a direita em um movimento contínuo. Você poderá expandir as opções varrendo novamente para a direita."</item>
         <item>"Ativando o Menu Extensões:
  Faça um gesto varrendo de baixo para cima e a esquerda em um movimento contínuo. Você poderá expandir a lista de comandos de voz varrendo novamente a direita.
- Você poderá encontrar mais extensões no repositório do Jieshuo.
+ Você poderá encontrar mais extensões no repositório do MS Vaani.
  Também poderá adicionar ou alterar comandos em Configurações Avançadas, Configurações do Assistente de Voz, Configurações de Comandos de Voz."</item>
         <item>"Funções do Menu Ações:
  Copiar: Copia o conteúdo focado para a área de transferência.
@@ -477,7 +477,7 @@ Página anterior
  A ativação não é compatível com o Android 6, nesta versão só é possível ver os resultados."</item>
         <item>"Reconhecimento de CAPTCHA (Apenas para Usuários Premium):
  Toque no código de verificação, use o menu avançado, a identificação do código de verificação, ou Assistente de Voz, a identificação do código de verificação, pode reconhecer o código de verificação digital em inglês, e o resultado do reconhecimento será copiado automaticamente para a área de transferência."</item>
-        <item>"Câmera do Jieshuo (Apenas para Usuários Premium):
+        <item>"Câmera do MS Vaani (Apenas para Usuários Premium):
  A câmera pode reconhecer textos, cenas, animais, plantas ou orientação da câmera. A função suporta atualmente apenas a câmera traseira, usando o modo de captura através dos botões de aumentar ou diminuir volume."</item>
         <item>"Navegação rápida em listas:
  Nas configurações de ações é possível definir que os gestos de varrer para esquerda ou para a direita naveguem rapidamente em listas, por exemplo você poderá usar o gesto para a esquerda ou direita para navegar nas mensagens de chat do QQ."</item>

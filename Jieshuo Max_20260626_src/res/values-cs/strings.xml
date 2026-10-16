@@ -6,8 +6,8 @@
     <string name="accessibility_focus_appearance">accessibility_focus_appearance</string>
     <string name="accessibility_focus_appearance_stroke">accessibility_focus_appearance_stroke</string>
     <string name="accessibility_focus_appearance_title">nastavení vzhledu indikátoru zaměření</string>
-    <string name="accessibility_service_description">"Jieshuo Screenreader je software, jehož cílem je umožnit nevidomým lidem efektivnější používání mobilních telefonů se systémem Android. Provedli jsme několik inovací ve sféře interakce člověk a stroj. Víme, že úplné pochopení našeho softwaru může nějakou dobu trvat, a proto vám vřele doporučujeme nejprve prozkoumat rozsáhlá nastavení a v sekci nápověda případně získat pomoc. Jestliže si s něčím nebudete vědět rady, můžete nás kontaktovat.  N Některé funkce jsou omezeny a odemknou se až po zakoupení plné verze programu. Další podrobnosti najdete v oficiální skupině na sociální síti Telegram.  N  n Mezi nejpozoruhodnější funkce programu patří:  n Hlasový asistent: pište, chatujte s přáteli nebo používejte mobilní telefon, aniž byste se ho dotkli.  N Rozšiřující pluginy: získejte nekonečné možnosti s pokročilým systémem rozšíření. Buď si stáhněte hotové doplňky nebo si vytvořte vlastní.  N Režim procházení seznamů, režim procházení objektů, režim automatického procházení, režim fulltextového procházení, režim podrobné navigace nebo režim procházení po znacích, slovech, řádcích, větách i odstavcích: s těmito výkonnými navigačními pomůckami vždy najdete požadovaný obsah.  N Aktivujte daný prvek pouhým zvednutím prstu: rychle se pohybujte po rozhraní, aniž byste si museli pamatovat nespočet gest.  N Vlastní zvuková schémata: vždy potěšte své uši zvukovým schématem, které vám nejlépe vyhovuje.  N Kopírování a výběr textu: vždy vyberte a zkopírujte přesně to, co potřebujete.  N Dynamická gesta: program se přizpůsobuje aktuálním podmínkám na obrazovce a vybírá nejvhodnější schéma gest podle situace, ve které se nacházíte.  N Rozšiřitelný systém vlastních gest: přemapujte všechna gesta podle svých představ, vytvořte zcela nové schéma gest a sdílejte je s přáteli.  N Duální podpora hlasových výstupů: použijte dva syntetizéry současně, aby nedůležitý obsah nikdy nerušil hlavní proud informací, jenž si přejete dostávat.  N  n Po zakoupení programu získáte přístup k následujícím funkcím:  n Virtuální obrazovka: nepřístupný software již není nepřekonatelnou bariérou. Otevřete si díky této funkci úplně nový svět.  N Automatické rozpoznávání OCR: čehokoli se dotknete, funkce rozpoznávání OCR vám zprostředkuje přístup k těžko dostupným informacím.  N Automatické čtení zpráv: automatické čtení zpráv z QQ, YY, Tiktok a mnoha dalších.  N Automatické čtení titulků: sledování zahraničních filmů nebylo nikdy jednodušší! Nechte si automaticky předčítat titulky a usnadněte si život.  N Rozpoznání CAPTCHA: použijte pokročilé funkce AI k rozpoznání obrázků CAPTCHA rychlostí blesku.  N Jieshuo fotoaparát: Získejte informace o scénách, obrázcích, lidech a textu kolem sebe.  N Filtrování webového obsahu: nikdy nedopusťte, aby nedůležitý obsah rušil vaše prohlížení. Filtrujte obrázky, reklamní texty a další nežádoucí prvky.  N Kopírování seznamů: rozlučte se s nudnými metodami používanými ke kopírování dlouhých seznamů. Jedno kliknutí stačí na zkopírování i toho nejdelšího seznamu.  N Režim čtení článku: automatické otáčení stránek, filtrování obsahu nebo režim čtení na pozadí. Nechte Jieshuo Screenreader, aby se stal také vaší čtečkou elektronických knih.  N Schémata gest pro jednotlivé aplikace: vytvářejte schémata gest jen pro určitou aplikaci. Tato funkce nabízí nekonečné možnosti.  N Oblíbené: ukládejte často používaný obsah kdykoli a kdekoli a snadno k němu přistupujte.  N Režim detailní navigace: Upravujte text po znacích, slovech, větách nebo odstavcích rychleji a proveďte přesně všechny požadované změny.  N Výběr celého textu: podrobným výběrem po znacích, slovech, větách nebo odstavcích zkopírujete text přesně tam, kam chcete.  N Vlastní hlasové příkazy: poháněné stejným enginem, který zpřístupňuje systém zásuvných modulů, čekají na vás nekonečné možnosti aktualizace a nastavení hlasového asistenta.  N Samospouštěcí systém zásuvných modulů: automaticky spouští různé doplňky v určených časových intervalech.  N Jieshuo Screenreader je náš stejně jako váš. Vytvořte si vlastní prostředí v rámci aplikace s nekonečnými možnostmi konfigurace."</string>
-    <string name="accessibility_service_description2">解说辅助服务和主服务功能完全相同，主要用于部分会检测读屏服务名的场景，两个服务不需要同时开启。</string>
+    <string name="accessibility_service_description">"MS Vaani Screen Reader je software, jehož cílem je umožnit nevidomým lidem efektivnější používání mobilních telefonů se systémem Android. Provedli jsme několik inovací ve sféře interakce člověk a stroj. Víme, že úplné pochopení našeho softwaru může nějakou dobu trvat, a proto vám vřele doporučujeme nejprve prozkoumat rozsáhlá nastavení a v sekci nápověda případně získat pomoc. Jestliže si s něčím nebudete vědět rady, můžete nás kontaktovat.  N Některé funkce jsou omezeny a odemknou se až po zakoupení plné verze programu. Další podrobnosti najdete v oficiální skupině na sociální síti Telegram.  N  n Mezi nejpozoruhodnější funkce programu patří:  n Hlasový asistent: pište, chatujte s přáteli nebo používejte mobilní telefon, aniž byste se ho dotkli.  N Rozšiřující pluginy: získejte nekonečné možnosti s pokročilým systémem rozšíření. Buď si stáhněte hotové doplňky nebo si vytvořte vlastní.  N Režim procházení seznamů, režim procházení objektů, režim automatického procházení, režim fulltextového procházení, režim podrobné navigace nebo režim procházení po znacích, slovech, řádcích, větách i odstavcích: s těmito výkonnými navigačními pomůckami vždy najdete požadovaný obsah.  N Aktivujte daný prvek pouhým zvednutím prstu: rychle se pohybujte po rozhraní, aniž byste si museli pamatovat nespočet gest.  N Vlastní zvuková schémata: vždy potěšte své uši zvukovým schématem, které vám nejlépe vyhovuje.  N Kopírování a výběr textu: vždy vyberte a zkopírujte přesně to, co potřebujete.  N Dynamická gesta: program se přizpůsobuje aktuálním podmínkám na obrazovce a vybírá nejvhodnější schéma gest podle situace, ve které se nacházíte.  N Rozšiřitelný systém vlastních gest: přemapujte všechna gesta podle svých představ, vytvořte zcela nové schéma gest a sdílejte je s přáteli.  N Duální podpora hlasových výstupů: použijte dva syntetizéry současně, aby nedůležitý obsah nikdy nerušil hlavní proud informací, jenž si přejete dostávat.  N  n Po zakoupení programu získáte přístup k následujícím funkcím:  n Virtuální obrazovka: nepřístupný software již není nepřekonatelnou bariérou. Otevřete si díky této funkci úplně nový svět.  N Automatické rozpoznávání OCR: čehokoli se dotknete, funkce rozpoznávání OCR vám zprostředkuje přístup k těžko dostupným informacím.  N Automatické čtení zpráv: automatické čtení zpráv z QQ, YY, Tiktok a mnoha dalších.  N Automatické čtení titulků: sledování zahraničních filmů nebylo nikdy jednodušší! Nechte si automaticky předčítat titulky a usnadněte si život.  N Rozpoznání CAPTCHA: použijte pokročilé funkce AI k rozpoznání obrázků CAPTCHA rychlostí blesku.  N MS Vaani fotoaparát: Získejte informace o scénách, obrázcích, lidech a textu kolem sebe.  N Filtrování webového obsahu: nikdy nedopusťte, aby nedůležitý obsah rušil vaše prohlížení. Filtrujte obrázky, reklamní texty a další nežádoucí prvky.  N Kopírování seznamů: rozlučte se s nudnými metodami používanými ke kopírování dlouhých seznamů. Jedno kliknutí stačí na zkopírování i toho nejdelšího seznamu.  N Režim čtení článku: automatické otáčení stránek, filtrování obsahu nebo režim čtení na pozadí. Nechte MS Vaani Screen Reader, aby se stal také vaší čtečkou elektronických knih.  N Schémata gest pro jednotlivé aplikace: vytvářejte schémata gest jen pro určitou aplikaci. Tato funkce nabízí nekonečné možnosti.  N Oblíbené: ukládejte často používaný obsah kdykoli a kdekoli a snadno k němu přistupujte.  N Režim detailní navigace: Upravujte text po znacích, slovech, větách nebo odstavcích rychleji a proveďte přesně všechny požadované změny.  N Výběr celého textu: podrobným výběrem po znacích, slovech, větách nebo odstavcích zkopírujete text přesně tam, kam chcete.  N Vlastní hlasové příkazy: poháněné stejným enginem, který zpřístupňuje systém zásuvných modulů, čekají na vás nekonečné možnosti aktualizace a nastavení hlasového asistenta.  N Samospouštěcí systém zásuvných modulů: automaticky spouští různé doplňky v určených časových intervalech.  N MS Vaani Screen Reader je náš stejně jako váš. Vytvořte si vlastní prostředí v rámci aplikace s nekonečnými možnostmi konfigurace."</string>
+    <string name="accessibility_service_description2">MS Vaani辅助服务和主服务功能完全相同，主要用于部分会检测读屏服务名的场景，两个服务不需要同时开启。</string>
     <string name="accessibility_volume">accessibility_volume</string>
     <string name="action_menu_title">Menu funkcí</string>
     <string name="action_setting">action_setting</string>
@@ -40,7 +40,7 @@
     <string name="alarm_settings_title">Nastavení časovače</string>
     <string name="alarm_start_hour">alarm_start_hour</string>
     <string name="alarm_start_hour_title">Čas spuštění časovače</string>
-    <string name="album_activity">Jieshuo Album</string>
+    <string name="album_activity">MS Vaani Album</string>
     <string name="all">vše</string>
     <string name="all_description">rozpoznat vše</string>
     <string name="all_notification_count">Celkem %d oznámení</string>
@@ -145,7 +145,7 @@
     <string name="camera_screen_down">Displej směřuje dolů</string>
     <string name="camera_screen_up">Displej směřuje nahoru</string>
     <string name="camera_tag">Rozpoznat scenérie</string>
-    <string name="camera_title">Jieshuo fotoaparát</string>
+    <string name="camera_title">MS Vaani fotoaparát</string>
     <string name="camera_top_move_far">Nakloňte displej k sobě</string>
     <string name="camera_top_move_near">Odkloňte displej od sebe</string>
     <string name="camera_top_up">Skloňte telefon dolů</string>
@@ -172,7 +172,7 @@
     <string name="check_overlay_permissions">check_overlay_permissions</string>
     <string name="check_overlay_permissions_title">Zkontrolovat stav oprávnění pro překryvná okna.</string>
     <string name="check_permissions">check_permissions</string>
-    <string name="check_permissions_msg">Jieshuo Screenreader ke svému fungování potřebuje některá základní oprávnění, například oprávnění úložiště se používá ke čtení zvukových schémat, rozšíření nebo jiných externích dat ze zařízení. Pokračujte kliknutím na tlačítko Další krok a udělte všechna požadovaná oprávnění, nebo kliknutím na Zrušit ukončete aplikaci</string>
+    <string name="check_permissions_msg">MS Vaani Screen Reader ke svému fungování potřebuje některá základní oprávnění, například oprávnění úložiště se používá ke čtení zvukových schémat, rozšíření nebo jiných externích dat ze zařízení. Pokračujte kliknutím na tlačítko Další krok a udělte všechna požadovaná oprávnění, nebo kliknutím na Zrušit ukončete aplikaci</string>
     <string name="check_permissions_title">Zkontrolovat stav oprávnění</string>
     <string name="check_read_phone_state_permission">Překontrolujte, zda je uděleno oprávnění pro čtení stavu telefonu</string>
     <string name="check_update">check_update</string>
@@ -242,7 +242,7 @@
     <string name="cmd_description">Popis (15 znaků a více)</string>
     <string name="cmd_manager">Správce hlasových příkazů</string>
     <string name="code_help">code_help</string>
-    <string name="code_help_title">Nápověda pro Jieshuo API</string>
+    <string name="code_help_title">Nápověda pro MS Vaani API</string>
     <string name="command_accept_call">Přijmout hovor</string>
     <string name="command_accessibility_service_setting">Nastavení přístupnosti</string>
     <string name="command_action_setting">Nastavení operací</string>
@@ -588,7 +588,7 @@
     <string name="edge_gesture_width">edge_gesture_width</string>
     <string name="edge_gesture_width_title">Vertikální rozsah pro aktivaci okrajových gest</string>
     <string name="edit">Upravit</string>
-    <string name="edit_activity">Jieshuo textový editor</string>
+    <string name="edit_activity">MS Vaani textový editor</string>
     <string name="edit_app_profiles_title">Upravit režim scénáře pro konkrétní aplikaci</string>
     <string name="edit_box_no_found">Textové pole nebylo nalezeno</string>
     <string name="edit_button">Zadejte seznam tlačítek pro kliknutí, vždy každé na samostatný řádek</string>
@@ -732,7 +732,7 @@
     <string name="has_vip_summary_gesture">Tato funkce není v bezplatné verzi dostupná</string>
     <string name="help">help</string>
     <string name="help_feed">help_feed</string>
-    <string name="help_feed_summary">Jieshuo Screenreader používá některé technologie třetích stran, například tyto: Tencent Youtu, Tencent AI, Baidu Voice, Baidu Translation, Baidu LBS, Baidu MTJ, Andro Lua +</string>
+    <string name="help_feed_summary">MS Vaani Screen Reader používá některé technologie třetích stran, například tyto: Tencent Youtu, Tencent AI, Baidu Voice, Baidu Translation, Baidu LBS, Baidu MTJ, Andro Lua +</string>
     <string name="help_feed_title">Nápověda a zpětná vazba</string>
     <string name="help_title">Obrazovka nápovědy</string>
     <string name="helper_manager_title">Správce hlasového asistenta</string>
@@ -766,7 +766,7 @@
     <string name="hour">hodin</string>
     <string name="hover_stat_info" formatted="false">Dotyky na obrazovce celkem %d, s průměrnou dobou %d milisekund.</string>
     <string name="ignore_battery">Prosím ignorujte nástroj optimalizace baterie v nastavení systému</string>
-    <string name="import_all_title">Importovat kompletní zálohu odečítače Jieshuo?</string>
+    <string name="import_all_title">Importovat kompletní zálohu odečítače MS Vaani?</string>
     <string name="import_file">importovat</string>
     <string name="import_voice_description">Import an eSpeak voice dictionary file from the SD card.</string>
     <string name="import_voice_title">Import eSpeak dictionary</string>
@@ -787,7 +787,7 @@
     <string name="item_from_to_count" formatted="false">Zobrazuji položky %d až %d z %d</string>
     <string name="jieshuo_bbs">jieshuo_bbs</string>
     <string name="jieshuo_bbs_summary">Komunikujte, učte se a sdílejte</string>
-    <string name="jieshuo_bbs_title">Diskusní fórum pro Jieshuo Screenreader</string>
+    <string name="jieshuo_bbs_title">Diskusní fórum pro MS Vaani Screen Reader</string>
     <string name="jieshuo_beta_title">Betaverze odečítače</string>
     <string name="keep_focus_position">keep_focus_position</string>
     <string name="keep_focus_position_speak">keep_focus_position_speak</string>
@@ -922,7 +922,7 @@
     <string name="message_title">varování</string>
     <string name="message_voice_feedback_paused">Hlasová zpětná vazba byla pozastavena</string>
     <string name="message_voice_feedback_resume">Hlasová zpětná vazba byla obnovena</string>
-    <string name="message_welcome">Vítá vás Jieshuo Screenreader!</string>
+    <string name="message_welcome">Vítá vás MS Vaani Screen Reader!</string>
     <string name="min">minut</string>
     <string name="more">Více</string>
     <string name="more_setting">Více možností</string>
@@ -979,7 +979,7 @@
     <string name="msg_enabled_supper_mode">Podrobný režim získávání fokusu aktivován</string>
     <string name="msg_enabled_supper_mode_error">Nepodařilo se aktivovat podrobný režim získávání fokusu</string>
     <string name="msg_exit_game_mode">Herní režim ukončen</string>
-    <string name="msg_export_all_file">Zálohujte všechna data a nastavení do souboru %s a odešlete jej do nového zařízení, abyste mohli vše jednoduše obnovit. Soubor obsahuje veškerá vaše osobní data, včetně Jieshuo účtu. Nesdílejte jej prosím s ostatními, abyste předešli narušení soukromí.</string>
+    <string name="msg_export_all_file">Zálohujte všechna data a nastavení do souboru %s a odešlete jej do nového zařízení, abyste mohli vše jednoduše obnovit. Soubor obsahuje veškerá vaše osobní data, včetně MS Vaani účtu. Nesdílejte jej prosím s ostatními, abyste předešli narušení soukromí.</string>
     <string name="msg_export_all_file_fail">Zálohování se nezdařilo, zkuste to znovu.</string>
     <string name="msg_favorite_added">přidáno do oblíbených</string>
     <string name="msg_favorite_backup_done">Záloha oblíbených položek je kompletní</string>
@@ -994,9 +994,9 @@
     <string name="msg_gesture_has_vip">Bezplatná verze nepodporuje úpravu gest nahoru, dolů, doleva a doprava</string>
     <string name="msg_gesture_updated">Schéma gest aktualizováno</string>
     <string name="msg_gestures_empty">Žádné schéma gest není k dispozici</string>
-    <string name="msg_has_enabled">nejprve prosím povolte službu odečítače Jieshuo</string>
+    <string name="msg_has_enabled">nejprve prosím povolte službu odečítače MS Vaani</string>
     <string name="msg_has_not_enabled">Odečítač JSR ke svému fungování vyžaduje aktivaci v rámci služeb přístupnosti. Chcete jej aktivovat nyní? Případně to můžete udělat později.</string>
-    <string name="msg_has_not_enabled_33">Upozorňujeme, že pokud jste uživateli Androidu 13, může se při aktivaci odečítače v rámci služeb přístupnosti objevit okno s informací, že toto nastavení není z bezpečnostních důvodů dostupné. Dialogové okno zavřete a otevřete nastavení telefonu. Vstupte do sekce aplikace a dohledejte Jieshuo Screen Reader, klepněte na něj a v pravém horním rohu obrazovky klikněte na tlačítko další možnosti. Ukáže se volba s názvem povolit omezená nastavení. Aktivujte ji a následně povolte Jieshuo opět v nabídce přístupnosti.</string>
+    <string name="msg_has_not_enabled_33">Upozorňujeme, že pokud jste uživateli Androidu 13, může se při aktivaci odečítače v rámci služeb přístupnosti objevit okno s informací, že toto nastavení není z bezpečnostních důvodů dostupné. Dialogové okno zavřete a otevřete nastavení telefonu. Vstupte do sekce aplikace a dohledejte MS Vaani Screen Reader, klepněte na něj a v pravém horním rohu obrazovky klikněte na tlačítko další možnosti. Ukáže se volba s názvem povolit omezená nastavení. Aktivujte ji a následně povolte MS Vaani opět v nabídce přístupnosti.</string>
     <string name="msg_has_storage">tato funkce potřebuje ukládat soubory do interního úložiště, udělte prosím oprávnění k ukládání nebo ukončete tuto operaci</string>
     <string name="msg_has_vip_auto_speak">Uživatelé bezplatné verze si mohou nechat automaticky předčítat pouze zprávy z QQ chatu.</string>
     <string name="msg_has_vip_dict">Uživatelé neplacené verze aplikace mohou přidat pouze pět záznamů</string>
@@ -1039,7 +1039,7 @@
     <string name="msg_open_error">Při otevírání došlo k chybě</string>
     <string name="msg_open_file_not_supported">Otevření tohoto souboru není podporováno</string>
     <string name="msg_plugin_empty">Složka rozšíření je prázdná</string>
-    <string name="msg_plugin_run_error">nejprve aktivujte službu Jieshuo Screenreader v nastavení přístupnosti</string>
+    <string name="msg_plugin_run_error">nejprve aktivujte službu MS Vaani Screen Reader v nastavení přístupnosti</string>
     <string name="msg_plugins_empty">Žádné doplňky nejsou k dispozici</string>
     <string name="msg_press_again_exit">dalším stisknutím ukončíte</string>
     <string name="msg_read_done">Nahrávání je kompletní</string>
@@ -1204,14 +1204,14 @@
     <string name="notification_in_call_no_speak_title">Neohlašovat notifikace během probíhajícího hovoru</string>
     <string name="notification_in_touch_no_speak">notification_in_touch_no_speak</string>
     <string name="notification_in_touch_no_speak_title">Během řeči neohlašovat příchozí notifikace</string>
-    <string name="notification_listener_summary">Jestliže tuto funkci zapnete, Jieshuo získá plnou kontrolu nad příchozími notifikacemi. Zpracování oznámení bude stabilnější a obdržíte detailnější hlášení.</string>
+    <string name="notification_listener_summary">Jestliže tuto funkci zapnete, MS Vaani získá plnou kontrolu nad příchozími notifikacemi. Zpracování oznámení bude stabilnější a obdržíte detailnější hlášení.</string>
     <string name="notification_listener_title">Udělit dodatečná oprávnění pro přístup k oznámením</string>
     <string name="notification_select_title">Nastavení ohlašování notifikací</string>
     <string name="notification_setting">notification_setting</string>
     <string name="notification_settings_title">Nastavení čtení oznámení</string>
     <string name="notification_speak">notification_speak</string>
     <string name="notification_speak2">notification_speak2</string>
-    <string name="notification_speak_msg">Vyberte, zda má odečítač obrazovky hlásit notifikace. Mezi oznámení patří příchozí zprávy SMS, došlé e-maily nebo jakékoli jiné informace generované vaším zařízením. Doporučujeme čtení příchozích oznámení povolit, ale jestliže nechcete být během práce rušeni, můžete jej ponechat vypnuté. Stojí za zmínku, že Jieshuo Screenreader má funkci nazvanou notifikační box, která může výrazně usnadnit práci s notifikacemi na některých zařízeních</string>
+    <string name="notification_speak_msg">Vyberte, zda má odečítač obrazovky hlásit notifikace. Mezi oznámení patří příchozí zprávy SMS, došlé e-maily nebo jakékoli jiné informace generované vaším zařízením. Doporučujeme čtení příchozích oznámení povolit, ale jestliže nechcete být během práce rušeni, můžete jej ponechat vypnuté. Stojí za zmínku, že MS Vaani Screen Reader má funkci nazvanou notifikační box, která může výrazně usnadnit práci s notifikacemi na některých zařízeních</string>
     <string name="notification_speak_no">Neohlašovat oznámení</string>
     <string name="notification_speak_ok">Hlásit oznámení</string>
     <string name="notification_speak_title">Ohlašovat notifikace</string>
@@ -1344,7 +1344,7 @@ end)"</string>
     <string name="only_screen_on">Pouze při odemčené obrazovce</string>
     <string name="open">Otevřít</string>
     <string name="open_application_info">open_application_info</string>
-    <string name="open_application_info_title">O aplikaci Jieshuo Screenreader</string>
+    <string name="open_application_info_title">O aplikaci MS Vaani Screen Reader</string>
     <string name="open_project">otevřít projekt</string>
     <string name="open_setup_setting">open_setup_setting</string>
     <string name="open_setup_setting_title">Zkontrolovat stav oprávnění pro automatické spuštění</string>
@@ -1392,9 +1392,9 @@ end)"</string>
     <string name="punctuation_none">None</string>
     <string name="qq_group">qq_group</string>
     <string name="qq_group2">qq_group2</string>
-    <string name="qq_group2_title">Druhá diskusní QQ skupina pro Jieshuo Screenreader</string>
+    <string name="qq_group2_title">Druhá diskusní QQ skupina pro MS Vaani Screen Reader</string>
     <string name="qq_group_summary">Možnost diskuse o aplikaci nebo zakoupení licence.</string>
-    <string name="qq_group_title">Jieshuo Screenreader QQ diskusní skupina (jen plná verze)</string>
+    <string name="qq_group_title">MS Vaani Screen Reader QQ diskusní skupina (jen plná verze)</string>
     <string name="questions_answers">questions_answers</string>
     <string name="questions_answers_title">Často kladené dotazy</string>
     <string name="quick_menu_title">Menu gest pro konkrétní aplikaci</string>
@@ -1482,7 +1482,7 @@ end)"</string>
     <string name="ringer_mode_silent">Tichý</string>
     <string name="ringer_mode_vibate">Vibrace</string>
     <string name="run">provést</string>
-    <string name="runnimg_background">Odečítač Jieshuo běží na pozadí</string>
+    <string name="runnimg_background">Odečítač MS Vaani běží na pozadí</string>
     <string name="sample_text">Toto je ukázkový text namluvený v jazyce %s</string>
     <string name="save">Uložit</string>
     <string name="save_as_cloud">Uložit jako cloudovou poznámku</string>
@@ -1540,7 +1540,7 @@ end)"</string>
     <string name="setup_setting_not_permission">základní oprávnění nebyla udělena.</string>
     <string name="setup_setting_not_permission_msg">Odečítač obrazovky nebude fungovat bez některých základních oprávnění, jež jste dosud neudělili. Kliknutím na Pokračovat udělíte všechna požadovaná oprávnění a budete provedeni průvodcem nastavení, kliknutím na Udělit oprávnění akceptujete všechna požadovaná oprávnění a ukončíte průvodce, zatímco kliknutím na Konec dojde k situaci, kdy nebudou některé funkce odečítače pracovat korektně.</string>
     <string name="setup_setting_notification_permission_msg">Odečítač používá oprávnění k zobrazení příchozích oznámení. Dále pro zobrazování ikon upozornění používaných například k obnovení funkce gest, použití funkcí prevence automatického ukončení aplikace agresivními šetřiči energie a jiné. Udělení tohoto oprávnění pomůže zvýšit stabilitu programu na vašem zařízení</string>
-    <string name="setup_setting_overlay_permission_msg">Jieshuo používá překryvná okna například pro zobrazování nabídek, výsledků rozpoznávání nebo pro aktivaci režimu ztmavení obrazovky</string>
+    <string name="setup_setting_overlay_permission_msg">MS Vaani používá překryvná okna například pro zobrazování nabídek, výsledků rozpoznávání nebo pro aktivaci režimu ztmavení obrazovky</string>
     <string name="setup_setting_set_permission_and_exit">Udělit oprávnění a ukončit průvodce</string>
     <string name="setup_setting_title">Průvodce nastavením</string>
     <string name="shake_action">shake_action</string>
@@ -1555,7 +1555,7 @@ end)"</string>
     <string name="share_all">Sdílet vše</string>
     <string name="shared_cloud_label">Sdílet do cloudu vlastní popisky</string>
     <string name="show_download">show_download</string>
-    <string name="show_download_title">Stáhnout Jieshuo screen reader</string>
+    <string name="show_download_title">Stáhnout MS Vaani Screen Reader</string>
     <string name="show_volume_ui">show_volume_ui</string>
     <string name="show_volume_ui_title">Při nastavování hlasitosti zobrazit systémový panel ovládání</string>
     <string name="sign_done">Registrace byla úspěšná</string>
@@ -1611,8 +1611,8 @@ end)"</string>
     <string name="sound_scroll_top">posunout nahoru</string>
     <string name="sound_scroll_up">posunout nahoru</string>
     <string name="sound_settings_title">nastavení zvukových schémat</string>
-    <string name="sound_talkman_start">Jieshuo zapnuto</string>
-    <string name="sound_talkman_stop">Jieshuo vypnuto</string>
+    <string name="sound_talkman_start">MS Vaani zapnuto</string>
+    <string name="sound_talkman_stop">MS Vaani vypnuto</string>
     <string name="sound_tick">upozornění časovače</string>
     <string name="sound_timer_end">zastavit časovač</string>
     <string name="sound_timer_start">spustit časovač</string>
@@ -1957,7 +1957,7 @@ end)"</string>
     <string name="use_float_menu_title">Použít plovoucí menu</string>
     <string name="use_foreground">use_foreground</string>
     <string name="use_foreground_pro">use_foreground_pro</string>
-    <string name="use_foreground_pro_summary">Aktivace této možnosti zabrání službě optimalizace baterie v ukončení odečítače obrazovky. Toho je dosaženo tak, že Jieshuo Screenreader neustále běží jako aplikace na popředí, i když je obrazovka vypnutá</string>
+    <string name="use_foreground_pro_summary">Aktivace této možnosti zabrání službě optimalizace baterie v ukončení odečítače obrazovky. Toho je dosaženo tak, že MS Vaani Screen Reader neustále běží jako aplikace na popředí, i když je obrazovka vypnutá</string>
     <string name="use_foreground_pro_title">Použít rozšířený režim pro potlačení automatického vypnutí odečítače agresivními šetřiči energie</string>
     <string name="use_foreground_summary">Doporučujeme aktivovat tuto volbu v případě, kdy dochází k násilnému ukončování odečítače prostřednictvím agresivních šetřičů energie</string>
     <string name="use_foreground_title">Blokovat automatické ukončení odečítače</string>
@@ -1966,7 +1966,7 @@ end)"</string>
     <string name="use_game_mode_no_speak">use_game_mode_no_speak</string>
     <string name="use_game_mode_no_speak_title">Zakázat řeč v herním režimu</string>
     <string name="use_gesture_detection">use_gesture_detection</string>
-    <string name="use_gesture_detection_title">zpracovávat gesta v aplikaci Jieshuo</string>
+    <string name="use_gesture_detection_title">zpracovávat gesta v aplikaci MS Vaani</string>
     <string name="use_headset_key">use_headset_key</string>
     <string name="use_headset_key_summary">Určuje, zda budou klávesy náhlavní soupravy používány pro ovládání odečítače. Krátký stisk tlačítka přesune fokus na další položku, Delší přidržení danou položku aktivuje, dlouhý stisk tlačítka pak aktivuje hlasového asistenta.</string>
     <string name="use_headset_key_title">Používat tlačítka náhlavní soupravy</string>
@@ -2000,7 +2000,7 @@ end)"</string>
     <string name="use_keep_type_move">use_keep_type_move</string>
     <string name="use_keep_type_move_title">Zachovat zvolený typ navigace při změně okna</string>
     <string name="use_key_shortcut">use_key_shortcut</string>
-    <string name="use_key_shortcut_summary">Určuje, zda budou tlačítka hlasitosti použita jako zkratkové klávesy pro odečítač Jieshuo</string>
+    <string name="use_key_shortcut_summary">Určuje, zda budou tlačítka hlasitosti použita jako zkratkové klávesy pro odečítač MS Vaani</string>
     <string name="use_key_shortcut_title">Používat tlačítka hlasitosti</string>
     <string name="use_left_double_fling_gesture">use_left_double_fling_gesture</string>
     <string name="use_left_double_fling_gesture_title">Použít levé složené gesto</string>
@@ -2011,7 +2011,7 @@ end)"</string>
     <string name="use_left_right">use_left_right</string>
     <string name="use_left_right_double_fling_gesture">use_left_right_double_fling_gesture</string>
     <string name="use_left_right_double_fling_gesture_title">Použít složené gesto vlevo a vpravo</string>
-    <string name="use_left_right_msg">Nejprve je nutné nakonfigurovat základní provozní režim odečítače. Ve výchozím nastavení používá Jieshuo Screenreader švihnutí nahoru pro přechod na předchozí prvek, švihnutím dolů se přesunete na další prvek. Švihnutím doleva nebo doprava provedete takzvané zkratky. Pokud jste zvyklí na opačný způsob navigace, vyberte možnost obráceného schématu ovládání . Mějte na paměti, že když je tato funkce aktivní, švihnutí nahoru provede takzvanou levou zkratku, zatímco švihnutím dolů se vykoná zkratka pravá. Nyní zvolte variantu, kterou chcete používat a dvojitým klepnutím ji aktivujte</string>
+    <string name="use_left_right_msg">Nejprve je nutné nakonfigurovat základní provozní režim odečítače. Ve výchozím nastavení používá MS Vaani Screen Reader švihnutí nahoru pro přechod na předchozí prvek, švihnutím dolů se přesunete na další prvek. Švihnutím doleva nebo doprava provedete takzvané zkratky. Pokud jste zvyklí na opačný způsob navigace, vyberte možnost obráceného schématu ovládání . Mějte na paměti, že když je tato funkce aktivní, švihnutí nahoru provede takzvanou levou zkratku, zatímco švihnutím dolů se vykoná zkratka pravá. Nyní zvolte variantu, kterou chcete používat a dvojitým klepnutím ji aktivujte</string>
     <string name="use_left_right_no">Použít výchozí nastavení</string>
     <string name="use_left_right_ok">Obrátit schéma ovládání</string>
     <string name="use_left_right_summary">Určuje, zda jsou ovládací gesta invertována oproti výchozímu nastavení. Pokud je tato funkce aktivní, švihnutím doleva a doprava přecházíte mezi položkami, zatímco šviháním nahoru a dolů provádíte akce zkratek</string>
@@ -2108,7 +2108,7 @@ end)"</string>
     <string name="use_raw_click_summary">Určuje, zda bude použito jedno kliknutí místo dvojitého. Tato možnost simuluje fyzické kliknutí na pozici prvku, což může zlepšit přístupnost některých aplikací</string>
     <string name="use_raw_click_title">Použít přímé klepnutí místo dvojitého</string>
     <string name="use_recording_stop">use_recording_stop</string>
-    <string name="use_recording_stop_title">Ztlumit Jieshuo Screenreader během aktivního nahrávání</string>
+    <string name="use_recording_stop_title">Ztlumit MS Vaani Screen Reader během aktivního nahrávání</string>
     <string name="use_reverse_scroll_home_page">use_reverse_scroll_home_page</string>
     <string name="use_reverse_scroll_home_page_title">obrátit směr přepínání stránek v rámci domovské obrazovky</string>
     <string name="use_right_double_fling_gesture">use_right_double_fling_gesture</string>
@@ -2160,7 +2160,7 @@ end)"</string>
     <string name="use_small_filter">use_small_filter</string>
     <string name="use_small_filter_title">Filtrovat nežádoucí ovládací prvky</string>
     <string name="use_sound">use_sound</string>
-    <string name="use_sound_summary">Určuje, zda Jieshuo Screenreader zprostředkovává informace pomocí zvuků</string>
+    <string name="use_sound_summary">Určuje, zda MS Vaani Screen Reader zprostředkovává informace pomocí zvuků</string>
     <string name="use_sound_title">Zvuková zpětná vazba</string>
     <string name="use_speak_call_phone">use_speak_call_phone</string>
     <string name="use_speak_call_phone_summary">Určuje, zda bude během příchozího hovoru automaticky ohlašováno číslo a jméno volajícího</string>
@@ -2391,7 +2391,7 @@ end)"</string>
     <string name="version_msg" formatted="false">%s Velikost:%s Počet stažení:%s</string>
     <string name="vibrate_intensity">vibrate_intensity</string>
     <string name="vibrate_intensity_title">Intenzita vibrační odezvy</string>
-    <string name="vibrate_summary">Určuje, zda Jieshuo Screenreader používá k poskytování informací vibrační odezvu</string>
+    <string name="vibrate_summary">Určuje, zda MS Vaani Screen Reader používá k poskytování informací vibrační odezvu</string>
     <string name="vibrate_title">Vibrační zpětná vazba</string>
     <string name="video_description">Popis videa v reálném čase</string>
     <string name="view_changed_settings_title">Nastavení čtení dynamicky měněného obsahu</string>
@@ -2413,10 +2413,10 @@ end)"</string>
     <string name="view_type_move">view_type_move</string>
     <string name="view_type_move_title">konfigurovat prvky standardní navigace</string>
     <string name="vip_qq_group">vip_qq_group</string>
-    <string name="vip_qq_group_title">Jieshuo Screenreader VIP diskusní QQ skupina</string>
+    <string name="vip_qq_group_title">MS Vaani Screen Reader VIP diskusní QQ skupina</string>
     <string name="vip_qq_kefu">vip_qq_kefu</string>
     <string name="vip_qq_kefu_summary">Konzultace, nákup, převod licencí, certifikovaný servis a podpora. Kontaktujte prosím vždy pouze ověřenou osobu.</string>
-    <string name="vip_qq_kefu_title">Zákaznická podpora pro Jieshuo Screenreader</string>
+    <string name="vip_qq_kefu_title">Zákaznická podpora pro MS Vaani Screen Reader</string>
     <string name="voice_app_name">Hlasový asistent</string>
     <string name="voice_cmd_call">Volat na</string>
     <string name="voice_cmd_input">Hlasový vstup</string>
@@ -2486,10 +2486,10 @@ end)"</string>
     <string name="vr_dialog_title">Důležité informace</string>
     <string name="waiting">Prosím čekejte</string>
     <string name="wake_lock">wake_lock</string>
-    <string name="wallpaper_description">Jestliže požadujete, aby odečítač korektně pracoval na pozadí bez udělení potřebných oprávnění, nastavte Jieshuo jako živou tapetu</string>
-    <string name="wallpaper_summary">Na některých zařízeních může mít screen reader problém s agresivnějšími režimy úspory energie, kdy je těmito automaticky ukončován. Pro eliminaci tohoto chování Jieshuo nastavte jako živou tapetu domovské obrazovky.</string>
-    <string name="wallpaper_title">Jieshuo jako živá tapeta (testovací funkce)</string>
-    <string name="web_app_name">Jieshuo webový prohlížeč</string>
+    <string name="wallpaper_description">Jestliže požadujete, aby odečítač korektně pracoval na pozadí bez udělení potřebných oprávnění, nastavte MS Vaani jako živou tapetu</string>
+    <string name="wallpaper_summary">Na některých zařízeních může mít screen reader problém s agresivnějšími režimy úspory energie, kdy je těmito automaticky ukončován. Pro eliminaci tohoto chování MS Vaani nastavte jako živou tapetu domovské obrazovky.</string>
+    <string name="wallpaper_title">MS Vaani jako živá tapeta (testovací funkce)</string>
+    <string name="web_app_name">MS Vaani webový prohlížeč</string>
     <string name="web_are_you_open">chcete otevřít tento odkaz?</string>
     <string name="web_back">zpět</string>
     <string name="web_copy_url">kopírovat odkaz</string>
@@ -2502,7 +2502,7 @@ end)"</string>
     <string name="web_type_move">web_type_move</string>
     <string name="web_type_move_title">konfigurovat prvky webové navigace</string>
     <string name="welcome">welcome</string>
-    <string name="welcome_msg">Vítá vás Jieshuo screen reader, jeden z nejefektivnějších odečítačů obrazovky pro OS Android. Zvolte jednu z následujících tří možností: Průvodce nastavením - proveďte základní konfiguraci odečítače, která vám pomůže s úvodním přizpůsobením aplikace. Klepněte na zobrazit oprávnění, abyste zjistili, která jsou odečítačem vyžadována. Zavřít průvodce můžete klepnutím na tlačítko ukončit.</string>
+    <string name="welcome_msg">Vítá vás MS Vaani Screen Reader, jeden z nejefektivnějších odečítačů obrazovky pro OS Android. Zvolte jednu z následujících tří možností: Průvodce nastavením - proveďte základní konfiguraci odečítače, která vám pomůže s úvodním přizpůsobením aplikace. Klepněte na zobrazit oprávnění, abyste zjistili, která jsou odečítačem vyžadována. Zavřít průvodce můžete klepnutím na tlačítko ukončit.</string>
     <string name="wifi_level_1">signál wi-fi jedna čárka</string>
     <string name="wifi_level_2">signál wi-fi dvě čárky</string>
     <string name="wifi_level_3">signál wi-fi tři čárky</string>
