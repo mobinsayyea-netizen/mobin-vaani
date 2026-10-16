@@ -168,21 +168,9 @@
 .end method
 
 .method public static ۟ۤۥ۟ۥ(I)V
-    .locals 1
+    .locals 0
 
-    invoke-static {}, Lb/ۢۥ۟ۨ;->ۢۧۢۧ()I
-
-    move-result v0
-
-    if-ltz v0, :cond_0
-
-    invoke-static {p0}, Ljava/lang/System;->exit(I)V
-
-    :goto_0
     return-void
-
-    :cond_0
-    goto :goto_0
 .end method
 
 .method public static ۟ۤۦۣۡ(Ljava/lang/String;)Ljava/lang/String;

@@ -15,8 +15,8 @@ echo "== top activity"; adb shell dumpsys activity activities | grep -E "mResume
 echo "== enable service"
 adb shell settings put secure enabled_accessibility_services $SVC
 adb shell settings put secure accessibility_enabled 1
-sleep 25
+sleep 45
 echo "== accessibility state"; adb shell dumpsys accessibility | head -60
 echo "== processes"; adb shell ps -A | grep -i -E "mobin|talkman" 
 echo "== logcat (app + crashes)"
-adb logcat -d -v time | grep -E "mobin.vaani|nirenr|talkman|AndroidRuntime|FATAL|UnsatisfiedLink|SecurityException|ForegroundService|AccessibilityManager|DEBUG|libc " | head -400
+adb logcat -d -v time | grep -E "mobin.vaani|nirenr|talkman|jieshuo|AndroidRuntime|FATAL|UnsatisfiedLink|SecurityException|ForegroundService|System.exit|TextToSpeech|TTS" | head -400
