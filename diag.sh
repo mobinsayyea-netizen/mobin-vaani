@@ -49,6 +49,8 @@ adb shell kill -3 $PID; sleep 4
 echo "== thread dump (main thread)"
 adb shell 'ls -t /data/anr | head -3'
 adb shell 'f=$(ls -t /data/anr/* | head -1); grep -n -A28 "\"main\" prio" $f | head -60'
+echo "== notifications from the app"
+adb shell dumpsys notification --noredact | grep -B3 -A30 "pkg=com.mobin.vaani" | grep -E "pkg=|channel|tickerText|android.title|android.text|android.subText|android.bigText|contentTitle|extras|importance|Notification\(" | head -60
 echo "== accessibility state"; adb shell dumpsys accessibility | head -60
 echo "== processes"; adb shell ps -A | grep -i -E "mobin|talkman" 
 echo "== logcat (app + crashes)"
