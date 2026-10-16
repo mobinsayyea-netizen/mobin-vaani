@@ -640,6 +640,7 @@
         <activity
             android:name="com.nirenr.talkman.settings.SoundSetting" />
         <activity
+            android:theme="@android:style/Theme.NoDisplay"
             android:label="@string/setup_setting_title"
             android:name="com.nirenr.talkman.SetupActivity" />
         <activity

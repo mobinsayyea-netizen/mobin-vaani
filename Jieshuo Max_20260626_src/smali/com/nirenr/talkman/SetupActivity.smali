@@ -28,6 +28,10 @@
 
     invoke-super {p0, p1}, Landroid/app/BaseActivity;->onCreate(Landroid/os/Bundle;)V
 
+    invoke-virtual {p0}, Landroid/app/Activity;->finish()V
+
+    return-void
+
     const p1, 0x7f0705de
 
     invoke-virtual {p0, p1}, Landroid/app/Activity;->setTitle(I)V
