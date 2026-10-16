@@ -1,0 +1,57 @@
+name: Build APK
+
+on:
+  push:
+    branches: [main]
+    paths: ['.github/workflows/build.yml', 'Jieshuo Max_20260626_src/**']
+  workflow_dispatch:
+
+concurrency:
+  group: build-${{ github.ref }}
+  cancel-in-progress: true
+
+jobs:
+  build:
+    runs-on: ubuntu-latest
+    permissions:
+      contents: write
+    env:
+      GH_TOKEN: ${{ github.token }}
+      GH_REPO: ${{ github.repository }}
+      SRC: Jieshuo Max_20260626_src
+    steps:
+      - uses: actions/checkout@v4
+
+      - uses: actions/setup-java@v4
+        with:
+          distribution: temurin
+          java-version: '17'
+
+      - name: Get apktool
+        run: curl -fsSL -o apktool.jar https://github.com/iBotPeaches/Apktool/releases/download/v2.9.3/apktool_2.9.3.jar
+
+      - name: Build with apktool
+        run: |
+          java -jar apktool.jar b "$SRC" -o unsigned.apk 2>&1 | tee build_output.log
+          test -s unsigned.apk
+
+      - name: Prepare signing key (created once, then reused)
+        run: |
+          KS="$RUNNER_TEMP/release.jks"
+          if gh release download signing --pattern release.jks --output "$KS" --clobber; then
+            echo "Reusing the saved signing key"
+          else
+            keytool -genkeypair -keystore "$KS" -storepass android123 -keypass android123 -alias key0 -keyalg RSA -keysize 2048 -validity 36500 -dname "CN=App, O=App, C=IN"
+            gh release create signing "$KS" --title "Signing key (do not delete)" --notes "Used to sign every build so new versions install over old ones." --prerelease
+          fi
+          echo "KS=$KS" >> "$GITHUB_ENV"
+
+      - name: Align and sign
+        run: |
+          BT=$(ls -d "$ANDROID_HOME"/build-tools/* | sort -V | tail -1)
+          "$BT/zipalign" -f -p 4 unsigned.apk aligned.apk
+          "$BT/apksigner" sign --ks "$KS" --ks-pass pass:android123 --key-pass pass:android123 --ks-key-alias key0 --out MobinVaani.apk aligned.apk
+          "$BT/apksigner" verify MobinVaani.apk
+
+      - name: Publish release
+        run: gh release create "build-${{ github.run_number }}" MobinVaani.apk --title "Mobin Vaani build ${{ github.run_number }}" --notes "Automated build."
