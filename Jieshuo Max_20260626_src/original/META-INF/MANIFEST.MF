@@ -1,0 +1,630 @@
+Manifest-Version: 1.0
+
+Name: AndroidManifest.xml
+SHA1-Digest: grWr5ctgAGk0KeUQn9RopTD0LM0=
+
+Name: META-INF/com/android/build/gradle/app-metadata.properties
+SHA1-Digest: HnXf4v1E1IH0pprzqPWvp8X92mQ=
+
+Name: assets/arabic.onnx
+SHA1-Digest: rkDMbqcZfJ3DoXj3ezTIBj91KlY=
+
+Name: assets/bbs/config.lua
+SHA1-Digest: FY2KIswiCulbY0bbzEmu0u2aMXY=
+
+Name: assets/bbs/fid.lua
+SHA1-Digest: QqEKC83nMKmMJP43SSzUfkZM8zs=
+
+Name: assets/bbs/gd.lua
+SHA1-Digest: AZfr3vEDcPvL+HiOQqkx68X/Q/U=
+
+Name: assets/bbs/icon.png
+SHA1-Digest: yQrWs0xEtFE9g4GFQUKvmmCvRMI=
+
+Name: assets/bbs/init.lua
+SHA1-Digest: pbCblrXjjLgSSoqOapb0XriQ/xs=
+
+Name: assets/bbs/layout/gd.lua
+SHA1-Digest: Q/uPz3bhx+0i+/PKW4LXHyfcpfU=
+
+Name: assets/bbs/layout/lg.lua
+SHA1-Digest: BA7RQ6yOEZtaQ+t7QVcN+4BVRFA=
+
+Name: assets/bbs/layout/main.lua
+SHA1-Digest: B5K/rpS8NLZDt8j7l98I6oGM/CM=
+
+Name: assets/bbs/layout/nt.lua
+SHA1-Digest: rk6+sxQ2/ZLC3stCBH1pQ363ozc=
+
+Name: assets/bbs/layout/rp.lua
+SHA1-Digest: xADC5VrhwXu9/PImQjFxkH3p2do=
+
+Name: assets/bbs/login.lua
+SHA1-Digest: zvMoZSLyGnUfLwdFJ58YJPnsm+E=
+
+Name: assets/bbs/main.lua
+SHA1-Digest: xrLZSdlUZBGKLLUVOjikke9Ha3s=
+
+Name: assets/bbs/new.lua
+SHA1-Digest: fm6QEsUYEy3WjYDvtLZR639G0mc=
+
+Name: assets/bbs/open_file.lua
+SHA1-Digest: Hzn6/WxSfzhpnUOLe3cj5ufQtZE=
+
+Name: assets/bbs/player.lua
+SHA1-Digest: mWVnUue4wZupwxNgsZVMyfZv9CE=
+
+Name: assets/bbs/so.lua
+SHA1-Digest: F2Kk6/hgrctRXoFDoiNJ+1F/IvU=
+
+Name: assets/bbs/tid.lua
+SHA1-Digest: 5Eg69I1n4ePOaU3WgcRrkBjGCbg=
+
+Name: assets/bbs/web.lua
+SHA1-Digest: 4YXLubtExB3QoxrN7GNjdw+EP9Q=
+
+Name: assets/changelog.lua
+SHA1-Digest: TvgvK9nADOULoGnqk6X1IDw3bkI=
+
+Name: assets/click.lua
+SHA1-Digest: 0NXrDWC5L0TXomtZvNPBPfefqu0=
+
+Name: assets/cls.onnx
+SHA1-Digest: Pq66Ik9KQFiRGINxCgdWOswfiA8=
+
+Name: assets/cmd.lua
+SHA1-Digest: hj11RQF5P5nWTyKk5fHVj+M/WV0=
+
+Name: assets/cyrillic.onnx
+SHA1-Digest: H8ufBhs2einuz4614PJVP+Z+COg=
+
+Name: assets/devanagari.onnx
+SHA1-Digest: kyjt8fQ/HMlBOScKzORdT/jYl78=
+
+Name: assets/el.onnx
+SHA1-Digest: 6JQK+G0GK8055nBL+nZ3m/lBtZ8=
+
+Name: assets/group.json
+SHA1-Digest: KDk+v9VwfxKBLTAqm1xeQ+r1ssU=
+
+Name: assets/help.lua
+SHA1-Digest: sjvF4So1LjgaFs2yf1qnNecoeCY=
+
+Name: assets/jieba/dict_out.txt
+SHA1-Digest: W5bWd3hFwtmAt7rw2qNT9JmIyaY=
+
+Name: assets/jieba/dict_processed.txt
+SHA1-Digest: 5duufpfpruPq40Kh2jBtXo5CeLE=
+
+Name: assets/jieba/prob_emit.txt
+SHA1-Digest: LGfCN9CfFvBR+Cp9fkONYOxzOx0=
+
+Name: assets/jieba/test.txt
+SHA1-Digest: HJZEUmTPF7bYl6W5lbHMxEcsCto=
+
+Name: assets/kefu/init.lua
+SHA1-Digest: bInGOhETUNlnHJC7v9Rnr2U4FWA=
+
+Name: assets/kefu/layout.aly
+SHA1-Digest: +dTaOsZ1YSRFPEar/In5ZNk6dJA=
+
+Name: assets/kefu/main.lua
+SHA1-Digest: mHKrrOQd9m1I+mSZgqhKz2QvCas=
+
+Name: assets/kefu/show.lua
+SHA1-Digest: hPZXjFVb/T2L3tLfETET5MBj86U=
+
+Name: assets/keys.txt
+SHA1-Digest: DEtm6XH0W8KlT8Beudx1WhF/IRs=
+
+Name: assets/kn.onnx
+SHA1-Digest: OuVxmneoVppbOHbShfXAmHPz55g=
+
+Name: assets/ko.onnx
+SHA1-Digest: sY4OYLByyBAjKxg1ZAIVMKUEhvo=
+
+Name: assets/logcat.lua
+SHA1-Digest: traiJlWca0cDnwQK/CZ3RF9JV7k=
+
+Name: assets/luadoc.lua
+SHA1-Digest: WfFcVYjINT3ZIVCPbfjt94Hn4jg=
+
+Name: assets/luadoc/contents.html
+SHA1-Digest: wwFYkbhfjxxZRIlZe3hD+8u7atE=
+
+Name: assets/luadoc/glossary.html
+SHA1-Digest: 4HLrj2raUCttaLVLwOIOZnU4xIo=
+
+Name: assets/luadoc/logo.gif
+SHA1-Digest: ciAuMH30b7Gbx7Eyy9sHlXGp4BM=
+
+Name: assets/luadoc/manual.html
+SHA1-Digest: kJ1943r2YyVIxxcoXPdOw74kxb0=
+
+Name: assets/not.ogg
+SHA1-Digest: cHRo0LY8n1MnJzUgnVmQhzHQB7Y=
+
+Name: assets/ori.onnx
+SHA1-Digest: AsmeqaCkFAEToZ/Hc2PRx82wM9E=
+
+Name: assets/permission.txt
+SHA1-Digest: /tHnl4UI9rG/5ETg8p2NeistxHA=
+
+Name: assets/privacy.html
+SHA1-Digest: w61+lw0qb6KJGPKuRB4INzKKeAc=
+
+Name: assets/protected_by_np/ApkControlFlowConfusion_8.0_8418ec7ebbc24
+ d69b5f9f39eb6b73a88.txt
+SHA1-Digest: m9pGLboPRJEgyjq4es7wx2X679M=
+
+Name: assets/qa/edit.lua
+SHA1-Digest: b4x/kQ+Grp5YgE96MjHyFSWMbaI=
+
+Name: assets/qa/helps.lua
+SHA1-Digest: cXDRYvAiHcWdpjVCmVX8rxFtWFQ=
+
+Name: assets/qa/init.lua
+SHA1-Digest: j/ygrF1wwa6Q1JwUPQcrEDj41Tk=
+
+Name: assets/qa/layout.aly
+SHA1-Digest: EYXW5IjtbK/1ks4i/jZPva759u0=
+
+Name: assets/qa/layout/edit.aly
+SHA1-Digest: bfPd68Hs6Xrb9ExcCadcYz4Iwtg=
+
+Name: assets/qa/layout/main.aly
+SHA1-Digest: c5Ad9AMxOYJ8KN83FXWRPFjGitM=
+
+Name: assets/qa/layout/show.aly
+SHA1-Digest: LNuVBjbJFf/Y5qezVmxglFFbJEw=
+
+Name: assets/qa/main.lua
+SHA1-Digest: 7iQqE7Xs5xwRgyYojXCWmyA/i8c=
+
+Name: assets/qa/show.lua
+SHA1-Digest: zcTJVpGFRkkVm0ZKhDxqqrsUr/s=
+
+Name: assets/smail_det.onnx
+SHA1-Digest: D283bjXAHhU9ghtaes5lwDPrzsA=
+
+Name: assets/smail_res.onnx
+SHA1-Digest: m1fCqW87q4iYVnp4hf4xmhZD/bo=
+
+Name: assets/supplierconfig.json
+SHA1-Digest: 05Di8BRJ8uP8OzOPKboqXxHnIfU=
+
+Name: assets/ta.onnx
+SHA1-Digest: IYwjXB9ba+KcDrGhdidTaZzPY+A=
+
+Name: assets/te.onnx
+SHA1-Digest: 3NRlHf+OUh1k5HPc44x+fPzFlq0=
+
+Name: assets/th.onnx
+SHA1-Digest: acSIEQ3RHZjMO/7vBgskrnV/lWw=
+
+Name: assets/tiny_det.onnx
+SHA1-Digest: tEpC2U/tSENbMqmVaR33xNfDsBs=
+
+Name: assets/tts/common.jet
+SHA1-Digest: P/jPppzYvm2BspVUmNnUPjRCjTo=
+
+Name: assets/tts/xiaofeng.jet
+SHA1-Digest: MEFyizFBqRd6XgtuSl+XrHtsaMA=
+
+Name: assets/tts/xiaoyan.jet
+SHA1-Digest: VGSy1tW2iFfQlgOf9+/cNexfA8k=
+
+Name: assets/version/data
+SHA1-Digest: 9HeMtGH+rTcoLW5OyiVCT5KoO2k=
+
+Name: cfg/ts.tab
+SHA1-Digest: KgJNGbNfHT/NSNO4DcqR2pIKbEo=
+
+Name: classes.dex
+SHA1-Digest: oNbvSQwv87++0rNwckhJ4GPyzX4=
+
+Name: kotlin/annotation/annotation.kotlin_builtins
+SHA1-Digest: BNKjaAG8N9m1TLFvNXuaHR9y8Eo=
+
+Name: kotlin/collections/collections.kotlin_builtins
+SHA1-Digest: OhB+GKvj+kfdxJRhT0ndJbHJ4L8=
+
+Name: kotlin/coroutines/coroutines.kotlin_builtins
+SHA1-Digest: +vIhfyors/P2TaFVQ0vfQnZK1ik=
+
+Name: kotlin/internal/internal.kotlin_builtins
+SHA1-Digest: nAaCYLgP/HasFILGljnGXTzS36w=
+
+Name: kotlin/kotlin.kotlin_builtins
+SHA1-Digest: 5o+V/znOUjn4FJfk3wcRLocDI+c=
+
+Name: kotlin/ranges/ranges.kotlin_builtins
+SHA1-Digest: cZsLFkzGQfMKVV+cwGttW95Sji4=
+
+Name: kotlin/reflect/reflect.kotlin_builtins
+SHA1-Digest: AmDmKB115rqWej499qVJhFgsvkE=
+
+Name: lib/arm64-v8a/libBDSpeechDecoder_V1.so
+SHA1-Digest: 8rwZvW4SShPpGaqj2VMdJnZky/o=
+
+Name: lib/arm64-v8a/libBaiduSpeechSDK.so
+SHA1-Digest: s45HS5hkX+nV4VeLM/ww2kWFx3s=
+
+Name: lib/arm64-v8a/libSparkChain.so
+SHA1-Digest: dq/kvfzy/daLVg6K30vPIMLEhRI=
+
+Name: lib/arm64-v8a/libc++_shared.so
+SHA1-Digest: 272eTQbiVmwxvcdE3XORU2p4DMY=
+
+Name: lib/arm64-v8a/libcjson.so
+SHA1-Digest: hTlu+jQxc6HVZXvd/awd5yUs+sk=
+
+Name: lib/arm64-v8a/libcrypt.so
+SHA1-Digest: xtnsYHD52vlCn1sgVrOIlJ8KmvI=
+
+Name: lib/arm64-v8a/liblocSDK7d.so
+SHA1-Digest: syL6m4ViPXmQBybLhmlXAwHbjwU=
+
+Name: lib/arm64-v8a/libluajava.so
+SHA1-Digest: YVI/hXyAboU1e8GZRX8RuG28NTk=
+
+Name: lib/arm64-v8a/libmsc.so
+SHA1-Digest: Np0/Sel6wCgfUabPZinjzMK4ybw=
+
+Name: lib/arm64-v8a/libonnxruntime.so
+SHA1-Digest: W7X4WEeZHSMN7LeL0urAq55O6fs=
+
+Name: lib/arm64-v8a/libonnxruntime4j_jni.so
+SHA1-Digest: q9hyP/8nDCZmI5HCmvnjhft3iWs=
+
+Name: lib/arm64-v8a/libopencv_java4.so
+SHA1-Digest: wc2rUsdpEsl/FO6szTiZUCKjHkg=
+
+Name: lib/arm64-v8a/libopus.so
+SHA1-Digest: ynfX990Vv973fwtNch0rNjk6vyk=
+
+Name: lib/arm64-v8a/libregex.so
+SHA1-Digest: 4YfG4x/swFC4JZEeRijoQ0Z7tnw=
+
+Name: lib/arm64-v8a/libspeech_sec.so
+SHA1-Digest: 5tBs2OsRcuAOyHPKTArWLVAAkTc=
+
+Name: lib/arm64-v8a/libttsespeak.so
+SHA1-Digest: nNdcpSFqYcOX7aK7aEP3ZrOEi0c=
+
+Name: lib/arm64-v8a/libvad.dnn.so
+SHA1-Digest: 8ZYnswh+LHNuJy3ZS7B+85ATXzc=
+
+Name: lib/arm64-v8a/libvad_check.so
+SHA1-Digest: HS7DAHkTI5iINcl889PYQMypekY=
+
+Name: lib/arm64-v8a/libvolume.so
+SHA1-Digest: FM6a7Vvxk1iuhElkmo2XvXx2ojA=
+
+Name: lib/arm64-v8a/libvopus_v5.so
+SHA1-Digest: BWUelCx65T5xpVfip8zOim8uEfE=
+
+Name: lib/arm64-v8a/libvsfpa.so
+SHA1-Digest: OLOjDmYh7nIKZj0aQ8cYI4+9wGc=
+
+Name: lib/arm64-v8a/libxcrash.so
+SHA1-Digest: TNYlZKcYMLd0nlPXQqUKMckViCw=
+
+Name: lib/arm64-v8a/libxcrash_dumper.so
+SHA1-Digest: YwiQ5KNkWJaE+jKLWVQqWgVzYHU=
+
+Name: lua/bmob.lua
+SHA1-Digest: QuAJQXA5P2+BMEpQZtOGPS2vBHs=
+
+Name: lua/console.lua
+SHA1-Digest: mj3j21T8RQsg8cVcQ2qlajq0RMs=
+
+Name: lua/import.lua
+SHA1-Digest: yM48vLZzoI33b0jzMMpNqO2tZso=
+
+Name: lua/loadbitmap.lua
+SHA1-Digest: MsnFWZnBId0vkGvPOBVCOaxrxw4=
+
+Name: lua/loadlayout.lua
+SHA1-Digest: x7WgqP+AFZcQNox2WWD7mW78JPY=
+
+Name: lua/loadmenu.lua
+SHA1-Digest: aKM3LtmYaDeTYcdfd8CuEgxvDYA=
+
+Name: lua/logcat.lua
+SHA1-Digest: R+trLygHCFoLuPEm9D9JijYauPw=
+
+Name: lua/permission.lua
+SHA1-Digest: qkstgiQDRhr/1+Rj7JaTfi0kkPw=
+
+Name: lua/su.lua
+SHA1-Digest: WywqkIVW/EukDLtf5rCCnDhjtpo=
+
+Name: lua/test.lua
+SHA1-Digest: rQt613QbeHi7in9Km1/oINDHSTw=
+
+Name: net/tatans/imeopensdk/IScreenReaderController.aidl
+SHA1-Digest: nZTyGHvOrUDX+C4etzNhip+4BJM=
+
+Name: net/tatans/imeopensdk/ITatansImeOpenService.aidl
+SHA1-Digest: POdFexxGo5Ez+EdSVFTcMzjDLrs=
+
+Name: okhttp3/internal/publicsuffix/NOTICE
+SHA1-Digest: 3oKFcA96KjXP/A8/xWEyiDcuplM=
+
+Name: okhttp3/internal/publicsuffix/publicsuffixes.gz
+SHA1-Digest: kWiBEYRJ7gK9oZHdlcodig9Fmo0=
+
+Name: res/drawable/background.xml
+SHA1-Digest: gZoqBRIhl64jyIHRIbRJpB1wDvQ=
+
+Name: res/drawable/icon.png
+SHA1-Digest: Toz3f4GmOR/b/IESSbhm0Gea2f8=
+
+Name: res/drawable/wallpaper.png
+SHA1-Digest: xNLEwl/RCjBXbU9/URpOK7BUGwU=
+
+Name: res/layout/download_voice_data.xml
+SHA1-Digest: 6oLxqUmhoAaLRqekUsgzsfwjMNo=
+
+Name: res/layout/fragment_camera2_basic.xml
+SHA1-Digest: Ez/jRlAieSVaWJBp4r72fCPq9YI=
+
+Name: res/layout/import_voice_preference.xml
+SHA1-Digest: 9Ch1WTiVYFBFYn5IToBlGbgIewI=
+
+Name: res/layout/information_view.xml
+SHA1-Digest: /jAw2C3PnahRxGZObObjhzsGKw0=
+
+Name: res/layout/login_layout.xml
+SHA1-Digest: hSNE+lGijwatRr0MtBcTBkUa5tY=
+
+Name: res/layout/main.xml
+SHA1-Digest: 7KiFpxn7r8Qv6g1EPYf8Clw/lmc=
+
+Name: res/layout/seekbar_preference.xml
+SHA1-Digest: ZZsNVeUTP+yfK9h92FzCHTKoiBY=
+
+Name: res/layout/smail_list_item.xml
+SHA1-Digest: JXfDzfMkYvLZj+kuMS94sTcLJbE=
+
+Name: res/layout/speak_punctuation_preference.xml
+SHA1-Digest: Y7YvrdzPGXZxsNuwfYQ+e2ivE90=
+
+Name: res/layout/split_layout.xml
+SHA1-Digest: 9rR6qiqV0bXaKrIz6lhiZZBQXgs=
+
+Name: res/layout/voice_variant_preference.xml
+SHA1-Digest: DfEFbQvVmhaKGOn/zJGXmMh/vcg=
+
+Name: res/raw/android.json
+SHA1-Digest: 5RN+iM1r5URAcAoK7et5OkXav6Y=
+
+Name: res/raw/bdspeech_recognition_cancel.mp3
+SHA1-Digest: CJbv43gTwZFXadlGDaiybNWtLk8=
+
+Name: res/raw/bdspeech_recognition_error.mp3
+SHA1-Digest: YB8PLEpqYjv076G5Upqxwbabnr8=
+
+Name: res/raw/bdspeech_recognition_start.mp3
+SHA1-Digest: WcwZdp5VZbFc4qtaU/bU3FUkSKA=
+
+Name: res/raw/bdspeech_recognition_success.mp3
+SHA1-Digest: O0GuISZ4odYaAgEtXPAm+jiZp1c=
+
+Name: res/raw/bdspeech_speech_end.mp3
+SHA1-Digest: GqQOwWhla/6ogwzdgq+ZAbdy6Hk=
+
+Name: res/raw/beep.ogg
+SHA1-Digest: WkcBmxIwrC4GozDBaKrXl0hLejY=
+
+Name: res/raw/camera_click.ogg
+SHA1-Digest: b071ybn8cjqGb8bykyQ3qYKMkc4=
+
+Name: res/raw/camera_focus.mp3
+SHA1-Digest: i9MGI4I0POYxRxz23xmbhyVFsWk=
+
+Name: res/raw/cancel.ogg
+SHA1-Digest: oS/sj94ngK8Hv/RpcF11TX1MaCc=
+
+Name: res/raw/click.ogg
+SHA1-Digest: ZDEsR/zIeHXyg1hYqi2N0e3ceXI=
+
+Name: res/raw/click2.ogg
+SHA1-Digest: ZDEsR/zIeHXyg1hYqi2N0e3ceXI=
+
+Name: res/raw/clock.ogg
+SHA1-Digest: zdbBLI2/N7TC28dDyhoH7zmC5sQ=
+
+Name: res/raw/cmds.json
+SHA1-Digest: c+wIUyrCIyCZocJQ8dGQLR/87og=
+
+Name: res/raw/dict.json
+SHA1-Digest: Mqe+CoiCiwgMXX7qv9Z7wNAQWCc=
+
+Name: res/raw/emoji.json
+SHA1-Digest: 1Tbf9oVgrK4QiI+tzZPz12rLcTc=
+
+Name: res/raw/espeakdata.zip
+SHA1-Digest: uSUImqoLcQecxmQETgAiPQWpgWU=
+
+Name: res/raw/espeakdata_version
+SHA1-Digest: S7tLXH4EYpyW2ervS1aetxppNHM=
+
+Name: res/raw/focus0.ogg
+SHA1-Digest: JpvRX9bUDRpshVnmBqlw0HWgYgY=
+
+Name: res/raw/focus1.ogg
+SHA1-Digest: SXeV1nX6RsKAyq0/p7avQxv9EJc=
+
+Name: res/raw/focus2.ogg
+SHA1-Digest: 6EKB/aCGM+wRGhFraoNcUvJElXU=
+
+Name: res/raw/focus3.ogg
+SHA1-Digest: x+v9uqjIq2xlTzWUvoBvUO8ZKHw=
+
+Name: res/raw/focus4.ogg
+SHA1-Digest: 3L6iaJF6Lqf+rbPR59EtDYF3xRk=
+
+Name: res/raw/gesture_begin.mid
+SHA1-Digest: Ae6TO8b7PRy/DXqyF0DmO97FjdE=
+
+Name: res/raw/gesture_end.mid
+SHA1-Digest: SgJ/7ZlRO8idoB52LpI0EDLsS8c=
+
+Name: res/raw/long_clicked.ogg
+SHA1-Digest: tJgTWP63SEvdpB38qsWsleQ/Jts=
+
+Name: res/raw/phonetic_emoji.json
+SHA1-Digest: 7zFdR6AUJMoQcJJNuuuOpdx+txk=
+
+Name: res/raw/phonetic_letters.json
+SHA1-Digest: 0esrzKFXtUUX+Vt/s+FqjvvIRJ0=
+
+Name: res/raw/phonetic_symbols.json
+SHA1-Digest: fCHMu20MvDpJLeHjhcNJykLh3nQ=
+
+Name: res/raw/scroll_down.mid
+SHA1-Digest: cQolA6xu4MmsH8ji6JPXUpJ3AME=
+
+Name: res/raw/scroll_up.mid
+SHA1-Digest: eB4RhJGRtJEqWbyEc+6hpMUwQOY=
+
+Name: res/raw/setting.json
+SHA1-Digest: ImNf9d3lCtxuCizGZT9/NYpukQs=
+
+Name: res/raw/space.ogg
+SHA1-Digest: yzlFw/1PuLhTnBdqAwkJKyYWtLA=
+
+Name: res/raw/symbols.json
+SHA1-Digest: uPyA8jX50K7IbwDHV+l5u1bm7js=
+
+Name: res/raw/tick.ogg
+SHA1-Digest: zXPT5dX70wIyhgo+HdrTqGbY3zM=
+
+Name: res/raw/window_state.ogg
+SHA1-Digest: cHRo0LY8n1MnJzUgnVmQhzHQB7Y=
+
+Name: res/xml-v26/accessibility_service_config.xml
+SHA1-Digest: 0YsnWrhDXQNbvgIcD2EmPR5oKIA=
+
+Name: res/xml-v26/accessibility_service_config2.xml
+SHA1-Digest: WCDnaYZ2trqa7UKVi3zfilr2tIs=
+
+Name: res/xml-v30/accessibility_service_config.xml
+SHA1-Digest: Vi0hy1zCQto7lvrt+TGKJv9kqvI=
+
+Name: res/xml-v30/accessibility_service_config2.xml
+SHA1-Digest: EjxODGrbVx3CkRes1hjNkhwQgsA=
+
+Name: res/xml-v31/accessibility_service_config.xml
+SHA1-Digest: Eg28fhXfrAO6VyFJBf9G8wT4xWw=
+
+Name: res/xml-v31/accessibility_service_config2.xml
+SHA1-Digest: QQGPuNKxtssBcrOSZ7p+SQ/clv0=
+
+Name: res/xml-v33/accessibility_service_config.xml
+SHA1-Digest: pC1oJVwMitFylryBRWlcqswqQes=
+
+Name: res/xml-v33/accessibility_service_config2.xml
+SHA1-Digest: R9z64AFGl50nHLTDybAttR3Sr28=
+
+Name: res/xml/accessibility_service_config.xml
+SHA1-Digest: A3IDngssqP2blRKAi6dwj19cpmo=
+
+Name: res/xml/accessibility_service_config2.xml
+SHA1-Digest: 4JheJ3SesIsNaRYKyVHvm1dDEs8=
+
+Name: res/xml/action_setting.xml
+SHA1-Digest: ih6pBx2ZGayVrg9/k7FNDG4mqVo=
+
+Name: res/xml/advanced_setting.xml
+SHA1-Digest: aDJAD4yeQvMcdCGXJDT0yD5b4Uo=
+
+Name: res/xml/async_tts_setting.xml
+SHA1-Digest: VVqAwTXQByHUPDIDt2Ad0pgleR0=
+
+Name: res/xml/backup_descriptor.xml
+SHA1-Digest: 7hqhYfIdmVUoSrTnBeUeQnMpovY=
+
+Name: res/xml/content_setting.xml
+SHA1-Digest: uvhwB0KbgNPSNlO4gfvEO5YsnnY=
+
+Name: res/xml/device_admin.xml
+SHA1-Digest: Oq8p+fLRfTktlq5HmUly+tcBFio=
+
+Name: res/xml/echo_voice_setting.xml
+SHA1-Digest: ELr21lQX0kn4FaCnD8Lc0niFXCc=
+
+Name: res/xml/feed_setting.xml
+SHA1-Digest: 0YZ58VJYTb/xBEcsdIAk/EmNV5E=
+
+Name: res/xml/flytek_setting.xml
+SHA1-Digest: sKteeRPZ9phmoPnkHsQFT2mLMkw=
+
+Name: res/xml/general_setting.xml
+SHA1-Digest: PoTEmXE+MNEL3yhDG04Wro7r2sw=
+
+Name: res/xml/gesture_setting.xml
+SHA1-Digest: IZWNmsTnBIlPz42cU6FjU8nIYcM=
+
+Name: res/xml/help_feed_setting.xml
+SHA1-Digest: Uc0OSj2TKl3Tg05XGkm886Rta7E=
+
+Name: res/xml/livewallpaper.xml
+SHA1-Digest: wsTfGJ71Ns91xoWumCb1k4XIgB8=
+
+Name: res/xml/main_tts_setting.xml
+SHA1-Digest: +SXmJlwwr/9B/alNKZgeLc6Hzo0=
+
+Name: res/xml/manager_setting.xml
+SHA1-Digest: 5ynz+/lzl4s9KR6nF63pRDMsF/4=
+
+Name: res/xml/network_security_config.xml
+SHA1-Digest: hFH5zMeXTgzzwQtIhQzHYXVXnx0=
+
+Name: res/xml/notification_setting.xml
+SHA1-Digest: Sz8NXRWWxQpijHj+62v1s2TXq6I=
+
+Name: res/xml/preferences.xml
+SHA1-Digest: IZWNmsTnBIlPz42cU6FjU8nIYcM=
+
+Name: res/xml/setting.xml
+SHA1-Digest: OJuXYxGnRToZ/2NtFGhpXYVy8uc=
+
+Name: res/xml/setup.xml
+SHA1-Digest: mJ148ILstTESspGRXvEuWnba3sE=
+
+Name: res/xml/system_tts_setting.xml
+SHA1-Digest: DRwz/juQ9kb0ZUyaWSWv5wAKQw0=
+
+Name: res/xml/talkman_file_paths.xml
+SHA1-Digest: 6oLJ8ST3WBbv89nKkJ3cR8VuY+A=
+
+Name: res/xml/timer_setting.xml
+SHA1-Digest: z+4/u8VO1O/dKdR62QK5WKkvRuE=
+
+Name: res/xml/timer_tts_setting.xml
+SHA1-Digest: JdiWvjWWSIgoa4O1qtyHtqt3Z70=
+
+Name: res/xml/tts_engine.xml
+SHA1-Digest: ULGhCERXMiOdiF0AvuiV4rvcW30=
+
+Name: res/xml/uni_sound_setting.xml
+SHA1-Digest: E3qwVSfF6bZcD/eIkS9iDAsDdDc=
+
+Name: res/xml/user_setting.xml
+SHA1-Digest: rpE4j/fSIZwIgVCjDwYgyEfGSBs=
+
+Name: res/xml/voice_helper_service_config.xml
+SHA1-Digest: tSaFAnanCnY700s3UaRV9r33na0=
+
+Name: res/xml/voice_helper_setting.xml
+SHA1-Digest: ZhNGHI/QxQp+JDew789q6tQ5k4Y=
+
+Name: res/xml/voice_setting.xml
+SHA1-Digest: 2OmDU6yowDkwX2rQIA2Pcwc/98M=
+
+Name: resources.arsc
+SHA1-Digest: xBmYUGJki8gFlXTSjDFt4WHL97U=
+
