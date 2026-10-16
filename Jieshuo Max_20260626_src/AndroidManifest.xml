@@ -239,7 +239,7 @@
             </intent-filter>
         </activity>
         <activity
-            android:theme="@android:style/Theme.NoDisplay"
+            android:theme="@android:style/Theme.Translucent.NoTitleBar"
             android:label="@string/voice_app_name"
             android:name="com.nirenr.talkman.VoiceHelperActivity"
             android:exported="true"
@@ -640,7 +640,7 @@
         <activity
             android:name="com.nirenr.talkman.settings.SoundSetting" />
         <activity
-            android:theme="@android:style/Theme.NoDisplay"
+            android:theme="@android:style/Theme.Translucent.NoTitleBar"
             android:label="@string/setup_setting_title"
             android:name="com.nirenr.talkman.SetupActivity" />
         <activity
