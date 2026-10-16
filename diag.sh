@@ -10,7 +10,12 @@ adb shell pm grant $PKG android.permission.RECORD_AUDIO
 adb logcat -c
 echo "== launch app"
 adb shell monkey -p $PKG -c android.intent.category.LAUNCHER 1
-sleep 10
+sleep 6
+adb exec-out screencap -p > shot1.png
+adb shell uiautomator dump /sdcard/ui1.xml >/dev/null 2>&1; adb pull /sdcard/ui1.xml ui1.xml >/dev/null 2>&1
+sleep 5
+adb exec-out screencap -p > shot2.png
+adb shell uiautomator dump /sdcard/ui2.xml >/dev/null 2>&1; adb pull /sdcard/ui2.xml ui2.xml >/dev/null 2>&1
 echo "== top activity"; adb shell dumpsys activity activities | grep -E "mResumedActivity|topResumedActivity" | head -3
 echo "== enable service"
 adb shell settings put secure enabled_accessibility_services $SVC

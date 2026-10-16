@@ -41,4 +41,4 @@ jobs:
         if: always()
         run: |
           gh release view diagnostics >/dev/null 2>&1 || gh release create diagnostics --title "Diagnostics" --notes "Emulator logs" --prerelease
-          gh release upload diagnostics diag_log.txt --clobber
+          gh release upload diagnostics diag_log.txt shot1.png shot2.png ui1.xml ui2.xml --clobber
