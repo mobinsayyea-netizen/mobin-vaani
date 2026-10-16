@@ -130,7 +130,7 @@
         <Preference
             android:title="@string/auto_list_tts_setting_title">
             <intent
-                android:targetPackage="com.nirenr.talkman"
+                android:targetPackage="com.mobin.vaani"
                 android:action="@string/auto_list_tts_setting_title"
                 android:data="3"
                 android:targetClass="com.nirenr.talkman.settings.TimerTtsSetting" />
@@ -183,7 +183,7 @@
         <Preference
             android:title="@string/incall_tts_setting_title">
             <intent
-                android:targetPackage="com.nirenr.talkman"
+                android:targetPackage="com.mobin.vaani"
                 android:action="@string/incall_tts_setting_title"
                 android:data="6"
                 android:targetClass="com.nirenr.talkman.settings.TimerTtsSetting" />

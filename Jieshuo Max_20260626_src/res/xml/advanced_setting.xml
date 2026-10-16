@@ -5,7 +5,7 @@
         android:title="@string/voice_helper_setting_title"
         android:key="@string/voice_helper_setting">
         <intent
-            android:targetPackage="com.nirenr.talkman"
+            android:targetPackage="com.mobin.vaani"
             android:targetClass="com.nirenr.talkman.settings.VoiceHelperSetting" />
     </Preference>
     <PreferenceScreen
@@ -85,7 +85,7 @@
         android:title="@string/timer_setting_title"
         android:key="@string/timer_setting">
         <intent
-            android:targetPackage="com.nirenr.talkman"
+            android:targetPackage="com.mobin.vaani"
             android:targetClass="com.nirenr.talkman.settings.TimerSetting" />
     </Preference>
     <PreferenceScreen
@@ -257,7 +257,7 @@
     <Preference
         android:title="@string/timer_run_title">
         <intent
-            android:targetPackage="com.nirenr.talkman"
+            android:targetPackage="com.mobin.vaani"
             android:targetClass="com.nirenr.talkman.settings.TimerRun" />
     </Preference>
     <Preference
@@ -269,7 +269,7 @@
         android:title="@string/manager_activity_title"
         android:key="@string/manager">
         <intent
-            android:targetPackage="com.nirenr.talkman"
+            android:targetPackage="com.mobin.vaani"
             android:targetClass="com.nirenr.talkman.settings.ManagerActivity" />
     </Preference>
     <PreferenceScreen
@@ -293,7 +293,7 @@
     <Preference
         android:title="@string/language_setting_title">
         <intent
-            android:targetPackage="com.nirenr.talkman"
+            android:targetPackage="com.mobin.vaani"
             android:targetClass="com.nirenr.talkman.settings.LanguageSetting" />
     </Preference>
     <PreferenceScreen
@@ -319,7 +319,7 @@
             android:title="@string/show_download_title"
             android:key="@string/show_download">
             <intent
-                android:targetPackage="com.nirenr.talkman"
+                android:targetPackage="com.mobin.vaani"
                 android:data="https://d.jieshuo.ltd"
                 android:targetClass="com.nirenr.talkman.WebActivity" />
         </Preference>

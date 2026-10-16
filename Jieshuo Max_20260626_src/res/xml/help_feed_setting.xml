@@ -23,7 +23,7 @@
         android:title="@string/show_download_title"
         android:key="@string/show_download">
         <intent
-            android:targetPackage="com.nirenr.talkman"
+            android:targetPackage="com.mobin.vaani"
             android:data="https://jieshuo.ltd"
             android:targetClass="com.nirenr.talkman.WebActivity" />
     </Preference>

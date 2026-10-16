@@ -12,7 +12,7 @@
         <Preference
             android:title="@string/notification_tts_setting_title">
             <intent
-                android:targetPackage="com.nirenr.talkman"
+                android:targetPackage="com.mobin.vaani"
                 android:action="@string/notification_tts_setting_title"
                 android:data="1"
                 android:targetClass="com.nirenr.talkman.settings.TimerTtsSetting" />
@@ -20,7 +20,7 @@
         <Preference
             android:title="@string/reader_tts_setting_title">
             <intent
-                android:targetPackage="com.nirenr.talkman"
+                android:targetPackage="com.mobin.vaani"
                 android:action="@string/reader_tts_setting_title"
                 android:data="2"
                 android:targetClass="com.nirenr.talkman.settings.TimerTtsSetting" />
@@ -28,7 +28,7 @@
         <Preference
             android:title="@string/auto_list_tts_setting_title">
             <intent
-                android:targetPackage="com.nirenr.talkman"
+                android:targetPackage="com.mobin.vaani"
                 android:action="@string/auto_list_tts_setting_title"
                 android:data="3"
                 android:targetClass="com.nirenr.talkman.settings.TimerTtsSetting" />
@@ -36,7 +36,7 @@
         <Preference
             android:title="@string/auto_read_tts_setting_title">
             <intent
-                android:targetPackage="com.nirenr.talkman"
+                android:targetPackage="com.mobin.vaani"
                 android:action="@string/auto_read_tts_setting_title"
                 android:data="4"
                 android:targetClass="com.nirenr.talkman.settings.TimerTtsSetting" />
@@ -44,7 +44,7 @@
         <Preference
             android:title="@string/char_mode_tts_setting_title">
             <intent
-                android:targetPackage="com.nirenr.talkman"
+                android:targetPackage="com.mobin.vaani"
                 android:action="@string/char_mode_tts_setting_title"
                 android:data="5"
                 android:targetClass="com.nirenr.talkman.settings.TimerTtsSetting" />
@@ -52,7 +52,7 @@
         <Preference
             android:title="@string/incall_tts_setting_title">
             <intent
-                android:targetPackage="com.nirenr.talkman"
+                android:targetPackage="com.mobin.vaani"
                 android:action="@string/incall_tts_setting_title"
                 android:data="6"
                 android:targetClass="com.nirenr.talkman.settings.TimerTtsSetting" />
@@ -60,14 +60,14 @@
         <Preference
             android:title="@string/timer_tts_setting_title">
             <intent
-                android:targetPackage="com.nirenr.talkman"
+                android:targetPackage="com.mobin.vaani"
                 android:action="@string/timer_tts_setting_title"
                 android:targetClass="com.nirenr.talkman.settings.TimerTtsSetting" />
         </Preference>
         <Preference
             android:title="@string/helper_tts_setting_title">
             <intent
-                android:targetPackage="com.nirenr.talkman"
+                android:targetPackage="com.mobin.vaani"
                 android:action="@string/helper_tts_setting_title"
                 android:data="8"
                 android:targetClass="com.nirenr.talkman.settings.TimerTtsSetting" />
@@ -75,7 +75,7 @@
         <Preference
             android:title="@string/node_tts_setting_title">
             <intent
-                android:targetPackage="com.nirenr.talkman"
+                android:targetPackage="com.mobin.vaani"
                 android:action="@string/node_tts_setting_title"
                 android:data="9"
                 android:targetClass="com.nirenr.talkman.settings.TimerTtsSetting" />

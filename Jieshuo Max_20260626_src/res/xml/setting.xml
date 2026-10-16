@@ -5,7 +5,7 @@
         android:title="@string/voice_cmd_search"
         android:key="search_settings">
         <intent
-            android:targetPackage="com.nirenr.talkman"
+            android:targetPackage="com.mobin.vaani"
             android:targetClass="com.nirenr.talkman.settings.SearchActivity" />
     </Preference>
     <Preference
@@ -47,21 +47,21 @@
             android:title="@string/command_read_mode"
             android:key="@string/read_mode">
             <intent
-                android:targetPackage="com.nirenr.talkman"
+                android:targetPackage="com.mobin.vaani"
                 android:targetClass="com.nirenr.talkman.ReaderActivity" />
         </Preference>
         <Preference
             android:title="@string/vr_camera"
             android:key="vr_mode">
             <intent
-                android:targetPackage="com.nirenr.talkman"
+                android:targetPackage="com.mobin.vaani"
                 android:targetClass="com.nirenr.talkman.CameraActivity2" />
         </Preference>
         <Preference
             android:title="@string/camera_title"
             android:key="vr_mode">
             <intent
-                android:targetPackage="com.nirenr.talkman"
+                android:targetPackage="com.mobin.vaani"
                 android:targetClass="com.nirenr.talkman.CameraActivity" />
         </Preference>
         <Preference

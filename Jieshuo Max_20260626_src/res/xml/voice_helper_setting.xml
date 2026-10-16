@@ -4,7 +4,7 @@
     <Preference
         android:title="@string/chat_history">
         <intent
-            android:targetPackage="com.nirenr.talkman"
+            android:targetPackage="com.mobin.vaani"
             android:targetClass="com.nirenr.talkman.settings.ChatActivity" />
     </Preference>
     <CheckBoxPreference
@@ -27,7 +27,7 @@
     <Preference
         android:title="@string/helper_supper_cmd_title">
         <intent
-            android:targetPackage="com.nirenr.talkman"
+            android:targetPackage="com.mobin.vaani"
             android:targetClass="com.nirenr.talkman.settings.VoiceSupperCmdManager" />
     </Preference>
     <PreferenceScreen

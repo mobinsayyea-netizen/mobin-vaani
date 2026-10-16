@@ -3,7 +3,7 @@
     android:installLocation="internalOnly"
     android:compileSdkVersion="36"
     android:compileSdkVersionCodename="16"
-    package="com.nirenr.talkman"
+    package="com.mobin.vaani"
     platformBuildVersionCode="36"
     platformBuildVersionName="16"
     xmlns:android="http://schemas.android.com/apk/res/android">
@@ -782,7 +782,7 @@
         <provider
             android:name="android.content.FileProvider"
             android:exported="false"
-            android:authorities="com.nirenr.talkman.fileprovider"
+            android:authorities="com.mobin.vaani.fileprovider"
             android:grantUriPermissions="true">
             <meta-data
                 android:name="android.support.FILE_PROVIDER_PATHS"
