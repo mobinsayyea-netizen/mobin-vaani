@@ -1,0 +1,43 @@
+version: 2.9.3
+apkFileName: Jieshuo Max_20260626.apk
+isFrameworkApk: false
+usesFramework:
+  ids:
+  - 1
+sdkInfo:
+  minSdkVersion: '24'
+  targetSdkVersion: '31'
+packageInfo:
+  forcedPackageId: '127'
+versionInfo:
+  versionCode: '236'
+  versionName: '20260626'
+resourcesAreCompressed: false
+sharedLibrary: false
+sparseResources: false
+unknownFiles:
+  lua/permission.lua: '8'
+  lua/loadmenu.lua: '8'
+  lua/bmob.lua: '8'
+  net/tatans/imeopensdk/ITatansImeOpenService.aidl: '8'
+  lua/console.lua: '8'
+  net/tatans/imeopensdk/IScreenReaderController.aidl: '8'
+  lua/loadbitmap.lua: '8'
+  okhttp3/internal/publicsuffix/NOTICE: '8'
+  cfg/ts.tab: '8'
+  lua/logcat.lua: '8'
+  lua/loadlayout.lua: '8'
+  lua/test.lua: '8'
+  okhttp3/internal/publicsuffix/publicsuffixes.gz: '8'
+  lua/import.lua: '8'
+  lua/su.lua: '8'
+doNotCompress:
+- resources.arsc
+- ogg
+- png
+- gif
+- jet
+- mp3
+- mid
+- res/raw/espeakdata.zip
+- res/raw/espeakdata_version
