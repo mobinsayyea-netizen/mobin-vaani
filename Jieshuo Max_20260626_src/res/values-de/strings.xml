@@ -89,7 +89,7 @@
     <string name="app_no_supper_sound_package">app_no_supper_sound_package</string>
     <string name="app_no_supper_sound_package_title">Apps in denen keine zusätzlichen Soundefekte Verwendet werden(Zusätzliche Soundeffekte werden in den ausgewählten Apps temporär deaktiviert.)</string>
     <string name="app_profiles_title">Anwendungsprofile</string>
-    <string name="app_service2">Alternativer Jieshuo Dienst</string>
+    <string name="app_service2">MS Vaani Helper</string>
     <string name="are_you_delete_all_logs">Wollen Sie wirklich alle Logdateien löschen?</string>
     <string name="async_audio_focus">async_audio_focus</string>
     <string name="async_proixmity_sensor">async_proixmity_sensor</string>

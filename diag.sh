@@ -53,3 +53,29 @@ echo "== accessibility state"; adb shell dumpsys accessibility | head -60
 echo "== processes"; adb shell ps -A | grep -i -E "mobin|talkman" 
 echo "== logcat (app + crashes)"
 adb logcat -d -v time | grep -E "mobin.vaani|nirenr|talkman|jieshuo|AndroidRuntime|FATAL|UnsatisfiedLink|SecurityException|ForegroundService|System.exit|TextToSpeech|TTS|ANR|not responding|Input dispatching|Watchdog" | head -400
+
+echo; echo "################ REBOOT WITH PIN LOCK TEST ################"
+adb shell locksettings set-pin 1234
+adb shell settings put secure enabled_accessibility_services $SVC
+adb shell settings put secure accessibility_enabled 1
+adb logcat -c
+adb reboot
+adb wait-for-device
+for i in $(seq 1 60); do b=$(adb shell getprop sys.boot_completed | tr -d '\r'); [ "$b" = "1" ] && break; sleep 3; done
+sleep 25
+adb root >/dev/null 2>&1; sleep 2
+echo "== LOCKED: process + accessibility"
+adb shell pidof com.mobin.vaani
+adb shell dumpsys accessibility | grep -E "Bound services|Binding services|Crashed" | head -4
+adb logcat -d -v time | grep -E "mobin.vaani|nirenr|AndroidRuntime|FATAL|NoSuchMethod|StrictMode|Direct|CE storage|System.exit" | head -60
+echo "== UNLOCKING"
+adb logcat -c
+adb shell input keyevent 224; sleep 2
+adb shell input swipe 300 1200 300 300; sleep 2
+adb shell input text 1234; adb shell input keyevent 66
+sleep 35
+echo "== UNLOCKED: process + accessibility"
+adb shell pidof com.mobin.vaani
+adb shell dumpsys accessibility | grep -E "Bound services|Binding services|Crashed" | head -4
+adb logcat -d -v time | grep -E "mobin.vaani|nirenr|AndroidRuntime|FATAL|NoSuchMethod|Process .* has died|Force finishing|System.exit|Unable to|Exception" | head -80
+adb exec-out screencap -p > shot4.png

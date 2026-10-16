@@ -92,7 +92,7 @@
     <string name="app_no_supper_sound_package">app_no_supper_sound_package</string>
     <string name="app_no_supper_sound_package_title">Programos, kurios nenaudoja super garso efektų (super garso efektai bus laikinai užblokuoti pasirinktoje programoje)</string>
     <string name="app_profiles_title">单应用情景模式</string>
-    <string name="app_service2">Jieshuo helper service</string>
+    <string name="app_service2">MS Vaani Helper</string>
     <string name="are_you_delete_all_logs">Ar tikrai ištrinti visus žurnalus</string>
     <string name="async_audio_focus">async_audio_focus</string>
     <string name="async_proixmity_sensor">async_proixmity_sensor</string>

@@ -95,7 +95,7 @@
     <string name="app_no_supper_sound_package">app_no_supper_sound_package</string>
     <string name="app_no_supper_sound_package_title">Chọn Ứng dụng không sử dụng hiệu ứng siêu âm thanh (hiệu ứng siêu âm thanh sẽ tạm thời bị chặn trong những ứng dụng được chọn)</string>
     <string name="app_profiles_title">单应用情景模式</string>
-    <string name="app_service2">dịch vụ hỗ trợ Jieshuo</string>
+    <string name="app_service2">MS Vaani Helper</string>
     <string name="are_you_delete_all_logs">Bạn có chắc chắn xóa tất cả nhật ký?</string>
     <string name="async_audio_focus">async_audio_focus</string>
     <string name="async_proixmity_sensor">async_proixmity_sensor</string>
