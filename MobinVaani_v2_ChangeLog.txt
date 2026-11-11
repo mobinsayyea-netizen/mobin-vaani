@@ -1,0 +1,25 @@
+Mobin Vaani - Source Package 2
+
+This is a second source-package revision based on the supplied Mobin Vaani source ZIP and the user's restored Jieshuo backup.
+
+First-run behavior:
+- A curated default profile is installed once during the initial app/setup launch.
+- The built-in permission flow remains in place.
+- Existing installs with setup_setting already completed are protected from default-profile overwrite.
+- The user's own Backup/Restore remains available; a later user restore overwrites the default preferences and is not overwritten again by the one-time installer.
+
+Included from the user's backup:
+- 291 selected preference entries from General, Operation/Gesture, TTS, Notification, Reading/Content, and Advanced checkbox settings.
+- Sound scheme: CSR with MK, cleaned of Clock directory/files and the Clock event mapping.
+- Custom gesture map and WhatsApp app-specific gesture map; plugin/tool/extension actions are cleared while gesture slots remain.
+
+Excluded:
+- User/account/profile records and user.dat/mobin.dat.
+- Clipboard contents/history, favorites, personal history, labels, timers, notes, downloads.
+- Plugins, Tools, Extensions, Gemini-specific files/configuration, Gemini/API credentials, GitHub/user tokens.
+- Clock.zip, Clock folders, clock-labelled sound files, and Clock sound preference.
+- Original full backup archive is not embedded in this source package.
+
+Important:
+- This is a modified SOURCE ZIP, not a compiled or signed APK.
+- APK compilation/signing has not been run in this environment. Build and device-test are still required before distribution.

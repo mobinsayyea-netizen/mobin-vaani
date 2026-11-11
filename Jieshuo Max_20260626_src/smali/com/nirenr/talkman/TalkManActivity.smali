@@ -2348,6 +2348,8 @@
 
     move-object/from16 v1, p0
 
+    invoke-static {v1}, Lcom/nirenr/talkman/MobinDefaultProfile;->install(Landroid/content/Context;)V
+
     const-string v0, "\u06e5\u06e4\u06e0"
 
     invoke-static {v0}, Lcom/baidu/paddle/lite/ocr/ۧۡۧۥ;->ۦۦۢ۟(Ljava/lang/Object;)I

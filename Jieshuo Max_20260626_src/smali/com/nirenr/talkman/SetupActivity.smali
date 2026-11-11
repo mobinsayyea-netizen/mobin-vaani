@@ -104,6 +104,8 @@
     return-void
 
     :cond_granted
+    invoke-static {p0}, Lcom/nirenr/talkman/MobinDefaultProfile;->install(Landroid/content/Context;)V
+
     const v0, 0x7f0705c7
 
     sget-object v1, Ljava/lang/Boolean;->TRUE:Ljava/lang/Boolean;

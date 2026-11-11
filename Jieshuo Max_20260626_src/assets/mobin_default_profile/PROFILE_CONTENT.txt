@@ -1,0 +1,9 @@
+Mobin Vaani v2 default profile payload
+
+settings.dat: curated Java-serialized preference map (291 entries).
+gesture_config: Custom gesture scheme with plugin/tool/extension actions cleared.
+whatsapp_gesture_config: WhatsApp app-specific gesture scheme with plugin/tool/extension actions cleared.
+sounds/: cleaned CSR with MK sound scheme files. No Clock folder, Clock-labelled files, or Clock event mapping.
+CSR_with_MK_clean.zip: audit copy of the cleaned sound scheme.
+
+The installer copies settings.dat into the app's default SharedPreferences using the same map-restore helper as the built-in Restore flow. It copies the two gesture config files and the sound files to the app's existing external data paths.
